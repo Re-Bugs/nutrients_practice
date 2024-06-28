@@ -54,11 +54,6 @@ public class LoginController {
         }
     }
 
-    @GetMapping("/main")
-    public String welcome() {
-        return "main";  // 로그인 성공 후 보여줄 페이지
-    }
-
     @GetMapping("/error")
     public String handleError(Model model) {
         return "error";

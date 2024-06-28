@@ -5,24 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed8d5588-8f6e-413b-ab42-897491a8edac" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/8.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/CSDL/spring_ml_practice/controller/MealController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/CSDL/spring_ml_practice/controller/MealController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/CSDL/spring_ml_practice/repository/IngredientRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/CSDL/spring_ml_practice/repository/IngredientRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/CSDL/spring_ml_practice/repository/RecipeRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/CSDL/spring_ml_practice/repository/RecipeRepository.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/main/CSDL/spring_ml_practice/service/MealService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/CSDL/spring_ml_practice/service/MealService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/add_meal.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/add_meal.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/controller/LoginController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/controller/MealController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/controller/MealController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/controller/SearchController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/repository/IngredientRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/repository/MealLogRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/repository/MealLogsAndIngredientsRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/repository/RecipeRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/service/IngredientService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/service/MealService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/service/RecipeService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/add_meal.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/add_meal.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/sign_in.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/sign_in.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/repository/MealLogsAndIngredientsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/repository/MealLogsAndIngredientsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/service/MealService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/service/MealService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/main.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +115,7 @@
       <workItem from="1719511609738" duration="9473000" />
       <workItem from="1719529099455" duration="19000" />
       <workItem from="1719529136881" duration="1128000" />
-      <workItem from="1719530273303" duration="5167000" />
+      <workItem from="1719530273303" duration="8978000" />
     </task>
     <servers />
   </component>

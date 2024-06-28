@@ -7,7 +7,22 @@
 </head>
 <body>
 <h1>메인 페이지</h1>
-<p>로그인에 성공하셨습니다. 환영합니다!</p>
+
+<p>오늘 총 칼로리: <span id="totalCalories"></span> kcal</p>
+<p>아침 칼로리: <span id="breakfastCalories"></span> kcal</p>
+<p>점심 칼로리: <span id="lunchCalories"></span> kcal</p>
+<p>저녁 칼로리: <span id="dinnerCalories"></span> kcal</p>
 <button onclick="location.href='/add_meal'">식사 추가</button>
+
+<script>
+    fetch('/api/meal/calories')
+        .then(response => response.json())
+        .then(data => {
+            document.getElementById('totalCalories').innerText = data.totalCalories;
+            document.getElementById('breakfastCalories').innerText = data.breakfastCalories !== 0 ? data.breakfastCalories : 'X';
+            document.getElementById('lunchCalories').innerText = data.lunchCalories !== 0 ? data.lunchCalories : 'X';
+            document.getElementById('dinnerCalories').innerText = data.dinnerCalories !== 0 ? data.dinnerCalories : 'X';
+        });
+</script>
 </body>
 </html>
