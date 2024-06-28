@@ -4,6 +4,7 @@ import CSDL.spring_ml_practice.domain.Member;
 import CSDL.spring_ml_practice.service.MemberService;
 import jakarta.servlet.http.HttpSession;
 import lombok.RequiredArgsConstructor;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -13,6 +14,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 @Controller
 @RequiredArgsConstructor
+@Slf4j
 public class LoginController {
 
     private final MemberService memberService;
@@ -43,10 +45,11 @@ public class LoginController {
                         HttpSession session) {
         Member member = memberService.findByEmailAndPassword(memberEmail, password);
         if (member != null) {
-            session.setAttribute("member", member);
+            session.setAttribute("memberEmail", memberEmail);  // 이메일 세션에 저장
             return "redirect:/main";  // 로그인 성공 시 이동할 페이지
         } else {
             model.addAttribute("error", "이메일 또는 패스워드가 잘못되었습니다.");
+            model.addAttribute("member", new Member());
             return "sign_in";
         }
     }
@@ -54,5 +57,10 @@ public class LoginController {
     @GetMapping("/main")
     public String welcome() {
         return "main";  // 로그인 성공 후 보여줄 페이지
+    }
+
+    @GetMapping("/error")
+    public String handleError(Model model) {
+        return "error";
     }
 }

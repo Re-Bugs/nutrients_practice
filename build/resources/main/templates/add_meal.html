@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,55 +7,39 @@
 </head>
 <body>
 <h1>식사 추가 페이지</h1>
-<form action="/add_meal" method="post">
-    <label for="recipeSearch">레시피 검색:</label>
-    <input type="text" id="recipeSearch" name="recipeSearch">
-    <button type="button" onclick="searchRecipe()">검색</button>
-    <div id="recipeResults"></div>
+<form action="/add_meal" method="post" enctype="multipart/form-data" onsubmit="return validateForm()">
+    <label for="recipeSearch">레시피 선택:</label>
+    <select id="recipeSearch" name="selectedRecipeId" required>
+        <option value="">레시피를 선택하세요</option>
+        <th:block th:each="recipe : ${recipes}">
+            <option th:value="${recipe.recipeId}" th:text="${recipe.name}"></option>
+        </th:block>
+    </select>
 
-    <label for="ingredientSearch">재료 검색:</label>
-    <input type="text" id="ingredientSearch" name="ingredientSearch">
-    <button type="button" onclick="searchIngredient()">검색</button>
-    <div id="ingredientResults"></div>
+    <label for="ingredientSearch">재료 선택:</label>
+    <select id="ingredientSearch" name="selectedIngredientIds" multiple required>
+        <th:block th:each="ingredient : ${ingredients}">
+            <option th:value="${ingredient.ingredientId}" th:text="${ingredient.name}"></option>
+        </th:block>
+    </select>
+
+    <label for="mealImage">식사 사진:</label>
+    <input type="file" id="mealImage" name="mealImage">
 
     <button type="submit">추가</button>
 </form>
 
 <script>
-    function searchRecipe() {
-        var query = document.getElementById('recipeSearch').value;
-        fetch('/search_recipe?query=' + query)
-            .then(response => response.json())
-            .then(data => {
-                var resultsDiv = document.getElementById('recipeResults');
-                resultsDiv.innerHTML = '';
-                data.forEach(recipe => {
-                    var button = document.createElement('button');
-                    button.innerText = recipe.name;
-                    button.onclick = function() {
-                        // Handle recipe selection
-                    };
-                    resultsDiv.appendChild(button);
-                });
-            });
-    }
-
-    function searchIngredient() {
-        var query = document.getElementById('ingredientSearch').value;
-        fetch('/search_ingredient?query=' + query)
-            .then(response => response.json())
-            .then(data => {
-                var resultsDiv = document.getElementById('ingredientResults');
-                resultsDiv.innerHTML = '';
-                data.forEach(ingredient => {
-                    var button = document.createElement('button');
-                    button.innerText = ingredient.name;
-                    button.onclick = function() {
-                        // Handle ingredient selection
-                    };
-                    resultsDiv.appendChild(button);
-                });
-            });
+    function validateForm() {
+        if (document.getElementById('recipeSearch').value === "") {
+            alert('레시피를 선택하세요.');
+            return false;
+        }
+        if (document.getElementById('ingredientSearch').selectedOptions.length === 0) {
+            alert('적어도 하나의 재료를 선택하세요.');
+            return false;
+        }
+        return true;
     }
 </script>
 </body>

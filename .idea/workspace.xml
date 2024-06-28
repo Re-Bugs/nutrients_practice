@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed8d5588-8f6e-413b-ab42-897491a8edac" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/CSDL/spring_ml_practice/controller/MealController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/CSDL/spring_ml_practice/controller/MealController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/CSDL/spring_ml_practice/repository/IngredientRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/CSDL/spring_ml_practice/repository/IngredientRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/CSDL/spring_ml_practice/repository/RecipeRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/CSDL/spring_ml_practice/repository/RecipeRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/CSDL/spring_ml_practice/service/MealService.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/CSDL/spring_ml_practice/service/MealService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/add_meal.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/add_meal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/controller/MealController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/controller/MealController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/controller/SearchController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/repository/IngredientRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/repository/MealLogRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/repository/MealLogsAndIngredientsRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/repository/RecipeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/service/IngredientService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/service/MealService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/service/RecipeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/add_meal.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/add_meal.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/sign_in.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/sign_in.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2iTPUSHJIRYTEIPxUc16Nfd0m3P" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Gradle.Build spring-ml-practice.executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.SpringMlPracticeApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/seungwook/IntelliJ/spring-ml-practice/build.gradle&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="SpringMlPracticeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring-ml-practice.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="CSDL.spring_ml_practice.SpringMlPracticeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-53826d6a" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed8d5588-8f6e-413b-ab42-897491a8edac" name="Changes" comment="" />
+      <created>1719511608671</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719511608671</updated>
+      <workItem from="1719511609738" duration="9473000" />
+      <workItem from="1719529099455" duration="19000" />
+      <workItem from="1719529136881" duration="1128000" />
+      <workItem from="1719530273303" duration="5167000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

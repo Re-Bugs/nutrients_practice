@@ -10,10 +10,9 @@ import java.util.List;
 @Service
 @RequiredArgsConstructor
 public class RecipeService {
-
     private final RecipeRepository recipeRepository;
 
     public List<Recipe> searchRecipes(String query) {
-        return recipeRepository.findByNameContainingIgnoreCase(query);
+        return recipeRepository.findByNameContaining(query);
     }
 }

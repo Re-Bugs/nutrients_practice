@@ -10,10 +10,9 @@ import java.util.List;
 @Service
 @RequiredArgsConstructor
 public class IngredientService {
-
     private final IngredientRepository ingredientRepository;
 
     public List<Ingredient> searchIngredients(String query) {
-        return ingredientRepository.findByNameContainingIgnoreCase(query);
+        return ingredientRepository.findByNameContaining(query);
     }
 }
