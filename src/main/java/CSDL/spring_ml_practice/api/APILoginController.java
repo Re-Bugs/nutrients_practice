@@ -64,10 +64,10 @@ public class APILoginController {
         Map<String, String> response = new HashMap<>();
 
         if (memberEmail != null) {
-            response.put("message", "로그인된 사용자: " + memberEmail);
+            response.put("message", "세션 유효");
             return ResponseEntity.ok(response);
         } else {
-            response.put("message", "로그인되지 않음");
+            response.put("message", "세션 비유효");
             return ResponseEntity.status(HttpStatus.UNAUTHORIZED).body(response);
         }
     }

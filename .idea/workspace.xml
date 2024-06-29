@@ -12,9 +12,14 @@
       <change beforePath="$PROJECT_DIR$/.gradle/8.8/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.8/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/APILoginController.class.uniqueId0" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/repository/MemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/repository/MemberRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/service/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/service/MemberService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/api/APILoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/api/APILoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/api/APIMealController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/api/APIMealController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/interceptor/LoginInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/interceptor/LoginInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/repository/MealLogRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/repository/MealLogRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/repository/MealLogsAndIngredientsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/repository/MealLogsAndIngredientsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/service/MealService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/service/MealService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +119,7 @@
       <workItem from="1719529099455" duration="19000" />
       <workItem from="1719529136881" duration="1128000" />
       <workItem from="1719530273303" duration="8978000" />
-      <workItem from="1719661831354" duration="5764000" />
+      <workItem from="1719661831354" duration="12242000" />
     </task>
     <servers />
   </component>

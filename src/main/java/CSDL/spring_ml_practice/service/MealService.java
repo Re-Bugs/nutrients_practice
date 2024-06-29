@@ -4,18 +4,17 @@ import CSDL.spring_ml_practice.domain.Ingredient;
 import CSDL.spring_ml_practice.domain.MealLog;
 import CSDL.spring_ml_practice.domain.MealLogsAndIngredients;
 import CSDL.spring_ml_practice.domain.Recipe;
-import CSDL.spring_ml_practice.repository.IngredientRepository;
-import CSDL.spring_ml_practice.repository.MealLogRepository;
-import CSDL.spring_ml_practice.repository.MealLogsAndIngredientsRepository;
-import CSDL.spring_ml_practice.repository.RecipeRepository;
+import CSDL.spring_ml_practice.repository.*;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.LocalTime;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Optional;
 import java.util.stream.Collectors;
 
 @Service
@@ -25,6 +24,7 @@ public class MealService {
     private final MealLogsAndIngredientsRepository mealLogsAndIngredientsRepository;
     private final IngredientRepository ingredientRepository;
     private final RecipeRepository recipeRepository;
+    private final RecipesAndIngredientsRepository recipesAndIngredientsRepository;
 
     public void addMealLog(String memberEmail, int selectedRecipeId, List<Integer> selectedIngredientIds) {
         // 오늘 날짜의 식사 기록 확인
@@ -96,5 +96,49 @@ public class MealService {
 
     public List<Ingredient> searchIngredients(String query) {
         return ingredientRepository.findByNameContaining(query);
+    }
+
+    public void addMixedMealLog(String memberEmail, int mealType, List<Integer> recipeIds, List<Integer> ingredientIds) {
+        // 오늘의 특정 식사 기록을 찾기
+        Optional<MealLog> existingMealLog = mealLogRepository.findTodayMealLogByMemberEmailAndMeal(memberEmail, mealType);
+
+        MealLog mealLog;
+        if (existingMealLog.isPresent()) {
+            mealLog = existingMealLog.get();
+        } else {
+            // 새로운 식사 로그 생성
+            mealLog = new MealLog();
+            mealLog.setMemberEmail(memberEmail);
+            mealLog.setLogDate(LocalDateTime.now());
+            mealLog.setMeal(mealType);
+            mealLog = mealLogRepository.save(mealLog);
+        }
+
+        // 레시피의 재료 저장
+        if (recipeIds != null) {
+            for (Integer recipeId : recipeIds) {
+                List<Integer> ingredientIdsFromRecipe = recipesAndIngredientsRepository.findIngredientsByRecipeId(recipeId);
+                for (Integer ingredientId : ingredientIdsFromRecipe) {
+                    if (!mealLogsAndIngredientsRepository.existsByMealLogIdAndIngredientId(mealLog.getMealLogId(), ingredientId)) {
+                        MealLogsAndIngredients mealLogsAndIngredients = new MealLogsAndIngredients();
+                        mealLogsAndIngredients.setMealLogId(mealLog.getMealLogId());
+                        mealLogsAndIngredients.setIngredientId(ingredientId);
+                        mealLogsAndIngredientsRepository.save(mealLogsAndIngredients);
+                    }
+                }
+            }
+        }
+
+        // 개별 재료 저장
+        if (ingredientIds != null) {
+            for (Integer ingredientId : ingredientIds) {
+                if (!mealLogsAndIngredientsRepository.existsByMealLogIdAndIngredientId(mealLog.getMealLogId(), ingredientId)) {
+                    MealLogsAndIngredients mealLogsAndIngredients = new MealLogsAndIngredients();
+                    mealLogsAndIngredients.setMealLogId(mealLog.getMealLogId());
+                    mealLogsAndIngredients.setIngredientId(ingredientId);
+                    mealLogsAndIngredientsRepository.save(mealLogsAndIngredients);
+                }
+            }
+        }
     }
 }
