@@ -1,5 +1,7 @@
 package CSDL.spring_ml_practice.controller;
 
+import CSDL.spring_ml_practice.domain.Ingredient;
+import CSDL.spring_ml_practice.domain.Recipe;
 import CSDL.spring_ml_practice.service.MealService;
 import CSDL.spring_ml_practice.service.RecipeService;
 import CSDL.spring_ml_practice.service.IngredientService;
@@ -82,8 +84,18 @@ public class MealController {
     @GetMapping("/add_meal")
     public String showAddMealForm(@RequestParam(value = "mealType", required = false) Integer mealType, Model model) {
         model.addAttribute("mealType", mealType);
-        model.addAttribute("recipes", recipeService.searchRecipes(""));
-        model.addAttribute("ingredients", ingredientService.searchIngredients(""));
         return "add_meal";
+    }
+
+    @GetMapping("/search_recipes")
+    @ResponseBody
+    public List<Recipe> searchRecipes(@RequestParam("query") String query) {
+        return recipeService.searchRecipes(query);
+    }
+
+    @GetMapping("/search_ingredients")
+    @ResponseBody
+    public List<Ingredient> searchIngredients(@RequestParam("query") String query) {
+        return ingredientService.searchIngredients(query);
     }
 }

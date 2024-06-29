@@ -4,35 +4,112 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>식사 추가</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        .search-result {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-top: 5px;
+        }
+        .search-result div {
+            margin-bottom: 5px;
+            cursor: pointer;
+        }
+        .selected-items {
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-top: 5px;
+        }
+    </style>
 </head>
 <body>
 <h1>식사 추가 페이지</h1>
 <form action="/add_meal" method="post" onsubmit="return validateForm()">
-    <label for="recipeSearch">레시피 선택:</label>
-    <select id="recipeSearch" name="selectedRecipeId" required>
-        <option value="">레시피를 선택하세요</option>
-        <th:block th:each="recipe : ${recipes}">
-            <option th:value="${recipe.recipeId}" th:text="${recipe.name}"></option>
-        </th:block>
-    </select>
+    <label for="recipeSearch">레시피 검색:</label>
+    <input type="text" id="recipeSearch" name="recipeSearch" onkeyup="searchRecipes()" placeholder="레시피 검색">
+    <div id="recipeResults" class="search-result"></div>
+    <input type="hidden" id="selectedRecipeId" name="selectedRecipeId" required>
 
-    <label for="ingredientSearch">재료 선택:</label>
-    <select id="ingredientSearch" name="selectedIngredientIds" multiple required>
-        <th:block th:each="ingredient : ${ingredients}">
-            <option th:value="${ingredient.ingredientId}" th:text="${ingredient.name}"></option>
-        </th:block>
-    </select>
+    <label for="ingredientSearch">재료 검색:</label>
+    <input type="text" id="ingredientSearch" name="ingredientSearch" onkeyup="searchIngredients()" placeholder="재료 검색">
+    <div id="ingredientResults" class="search-result"></div>
+    <div id="selectedIngredients" class="selected-items"></div>
+    <input type="hidden" id="selectedIngredientIds" name="selectedIngredientIds" required>
 
     <button type="submit">추가</button>
 </form>
 
 <script>
+    let selectedIngredients = [];
+
+    function searchRecipes() {
+        const query = document.getElementById('recipeSearch').value;
+        $.ajax({
+            url: '/search_recipes',
+            method: 'GET',
+            data: { query: query },
+            success: function(data) {
+                const recipeResults = document.getElementById('recipeResults');
+                recipeResults.innerHTML = '';
+                data.forEach(recipe => {
+                    const div = document.createElement('div');
+                    div.innerText = recipe.name;
+                    div.onclick = function() {
+                        document.getElementById('selectedRecipeId').value = recipe.recipeId;
+                        recipeResults.innerHTML = '선택된 레시피: ' + recipe.name;
+                    };
+                    recipeResults.appendChild(div);
+                });
+            }
+        });
+    }
+
+    function searchIngredients() {
+        const query = document.getElementById('ingredientSearch').value;
+        $.ajax({
+            url: '/search_ingredients',
+            method: 'GET',
+            data: { query: query },
+            success: function(data) {
+                const ingredientResults = document.getElementById('ingredientResults');
+                ingredientResults.innerHTML = '';
+                data.forEach(ingredient => {
+                    const div = document.createElement('div');
+                    div.innerText = ingredient.name;
+                    div.onclick = function() {
+                        if (!selectedIngredients.includes(ingredient.ingredientId)) {
+                            selectedIngredients.push({ id: ingredient.ingredientId, name: ingredient.name });
+                            updateSelectedIngredients();
+                        }
+                    };
+                    div.dataset.id = ingredient.ingredientId; // 재료 ID를 데이터 속성에 저장
+                    ingredientResults.appendChild(div);
+                });
+            }
+        });
+    }
+
+    function updateSelectedIngredients() {
+        const selectedIngredientIds = document.getElementById('selectedIngredientIds');
+        const selectedIngredientsDiv = document.getElementById('selectedIngredients');
+        selectedIngredientsDiv.innerHTML = '';
+
+        selectedIngredients.forEach(ingredient => {
+            const div = document.createElement('div');
+            div.innerText = ingredient.name;
+            div.dataset.id = ingredient.id;
+            selectedIngredientsDiv.appendChild(div);
+        });
+
+        selectedIngredientIds.value = selectedIngredients.map(ingredient => ingredient.id).join(',');
+    }
+
     function validateForm() {
-        if (document.getElementById('recipeSearch').value === "") {
+        if (document.getElementById('selectedRecipeId').value === "") {
             alert('레시피를 선택하세요.');
             return false;
         }
-        if (document.getElementById('ingredientSearch').selectedOptions.length === 0) {
+        if (selectedIngredients.length === 0) {
             alert('적어도 하나의 재료를 선택하세요.');
             return false;
         }
