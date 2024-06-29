@@ -10,10 +10,7 @@ import CSDL.spring_ml_practice.repository.MealLogsAndIngredientsRepository;
 import CSDL.spring_ml_practice.repository.RecipeRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
-import org.springframework.web.multipart.MultipartFile;
 
-import java.io.File;
-import java.io.IOException;
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.LocalTime;
@@ -29,13 +26,7 @@ public class MealService {
     private final IngredientRepository ingredientRepository;
     private final RecipeRepository recipeRepository;
 
-    public void addMealLog(String memberEmail, int selectedRecipeId, List<Integer> selectedIngredientIds, MultipartFile mealImage) throws IOException {
-        // 이미지 저장 경로 설정
-        String uploadDir = "/Users/seungwook/IntelliJ/spring-ml-practice/uploaded_images/";
-        String fileName = mealImage.getOriginalFilename();
-        File uploadFile = new File(uploadDir + fileName);
-        mealImage.transferTo(uploadFile);
-
+    public void addMealLog(String memberEmail, int selectedRecipeId, List<Integer> selectedIngredientIds) {
         // 오늘 날짜의 식사 기록 확인
         List<MealLog> todayLogs = mealLogRepository.findByMemberEmailAndToday(memberEmail);
         int meal = determineMealType(todayLogs);
@@ -45,7 +36,6 @@ public class MealService {
         mealLog.setMemberEmail(memberEmail);
         mealLog.setLogDate(LocalDateTime.of(LocalDate.now(), LocalTime.MIDNIGHT));
         mealLog.setMeal(meal);
-        mealLog.setPicture(uploadDir + fileName);
         mealLog = mealLogRepository.save(mealLog);
 
         // 식사 로그에 재료 추가

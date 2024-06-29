@@ -15,7 +15,7 @@
 <button onclick="location.href='/add_meal'">식사 추가</button>
 
 <script>
-    fetch('/api/meal/calories')
+    fetch('/meal/calories')
         .then(response => response.json())
         .then(data => {
             document.getElementById('totalCalories').innerText = data.totalCalories;

@@ -45,7 +45,7 @@ public class LoginController {
                         HttpSession session) {
         Member member = memberService.findByEmailAndPassword(memberEmail, password);
         if (member != null) {
-            session.setAttribute("memberEmail", memberEmail);  // 이메일 세션에 저장
+            session.setAttribute("memberEmail", memberEmail);  // 이메일을 세션에 저장
             return "redirect:/main";  // 로그인 성공 시 이동할 페이지
         } else {
             model.addAttribute("error", "이메일 또는 패스워드가 잘못되었습니다.");

@@ -1,19 +1,18 @@
 package CSDL.spring_ml_practice.controller;
 
 import CSDL.spring_ml_practice.service.MealService;
+import CSDL.spring_ml_practice.service.RecipeService;
+import CSDL.spring_ml_practice.service.IngredientService;
 import jakarta.servlet.http.HttpSession;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
-import org.springframework.web.multipart.MultipartFile;
+import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
-import java.io.IOException;
-import java.util.Arrays;
 import java.util.List;
 import java.util.Map;
-import java.util.stream.Collectors;
 
 @Controller
 @RequiredArgsConstructor
@@ -21,50 +20,25 @@ import java.util.stream.Collectors;
 public class MealController {
 
     private final MealService mealService;
-
-    @GetMapping("/add_meal")
-    public String addMealPage(Model model, HttpSession session) {
-        log.debug("Entering addMealPage");
-
-        String memberEmail = (String) session.getAttribute("memberEmail");
-
-        if (memberEmail == null) {
-            log.warn("Member email is null, redirecting to login");
-            return "redirect:/login";
-        }
-
-        model.addAttribute("recipes", mealService.searchRecipes(""));
-        model.addAttribute("ingredients", mealService.searchIngredients(""));
-        log.debug("Exiting addMealPage");
-        return "add_meal";
-    }
+    private final RecipeService recipeService;
+    private final IngredientService ingredientService;
 
     @PostMapping("/add_meal")
     public String addMeal(@RequestParam("selectedRecipeId") int selectedRecipeId,
-                          @RequestParam("selectedIngredientIds") String selectedIngredientIdsString,
-                          @RequestParam("mealImage") MultipartFile mealImage,
-                          HttpSession session) throws IOException {
-        log.debug("Entering addMeal");
-
+                          @RequestParam("selectedIngredientIds") List<Integer> selectedIngredientIds,
+                          HttpSession session,
+                          RedirectAttributes redirectAttributes) {
         String memberEmail = (String) session.getAttribute("memberEmail");
-
         if (memberEmail == null) {
-            log.warn("Member email is null, redirecting to login");
-            return "redirect:/login";
+            redirectAttributes.addFlashAttribute("errorMessage", "로그인이 필요합니다.");
+            return "redirect:/sign_in";
         }
 
-        List<Integer> selectedIngredientIds = Arrays.stream(selectedIngredientIdsString.split(","))
-                .map(Integer::parseInt)
-                .collect(Collectors.toList());
-
-        log.debug("Adding meal log for memberEmail: {}, selectedRecipeId: {}, selectedIngredientIds: {}", memberEmail, selectedRecipeId, selectedIngredientIds);
-        mealService.addMealLog(memberEmail, selectedRecipeId, selectedIngredientIds, mealImage);
-
-        log.debug("Exiting addMeal");
+        mealService.addMealLog(memberEmail, selectedRecipeId, selectedIngredientIds);
         return "redirect:/main";
     }
 
-    @GetMapping("/api/meal/calories")
+    @GetMapping("/meal/calories")
     @ResponseBody
     public Map<String, Integer> getCalories(HttpSession session) {
         String memberEmail = (String) session.getAttribute("memberEmail");
@@ -88,13 +62,6 @@ public class MealController {
         );
     }
 
-    @ExceptionHandler(Exception.class)
-    public String handleException(Exception exception, Model model) {
-        log.error("An error occurred: ", exception);
-        model.addAttribute("errorMessage", exception.getMessage());
-        return "error";
-    }
-
     @GetMapping("/main")
     public String welcome(HttpSession session, Model model) {
         String memberEmail = (String) session.getAttribute("memberEmail");
@@ -110,5 +77,13 @@ public class MealController {
         model.addAttribute("caloriesByMeal", caloriesByMeal);
 
         return "main";
+    }
+
+    @GetMapping("/add_meal")
+    public String showAddMealForm(@RequestParam(value = "mealType", required = false) Integer mealType, Model model) {
+        model.addAttribute("mealType", mealType);
+        model.addAttribute("recipes", recipeService.searchRecipes(""));
+        model.addAttribute("ingredients", ingredientService.searchIngredients(""));
+        return "add_meal";
     }
 }

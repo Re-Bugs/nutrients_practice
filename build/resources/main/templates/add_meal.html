@@ -7,7 +7,7 @@
 </head>
 <body>
 <h1>식사 추가 페이지</h1>
-<form action="/add_meal" method="post" enctype="multipart/form-data" onsubmit="return validateForm()">
+<form action="/add_meal" method="post" onsubmit="return validateForm()">
     <label for="recipeSearch">레시피 선택:</label>
     <select id="recipeSearch" name="selectedRecipeId" required>
         <option value="">레시피를 선택하세요</option>
@@ -22,9 +22,6 @@
             <option th:value="${ingredient.ingredientId}" th:text="${ingredient.name}"></option>
         </th:block>
     </select>
-
-    <label for="mealImage">식사 사진:</label>
-    <input type="file" id="mealImage" name="mealImage">
 
     <button type="submit">추가</button>
 </form>
