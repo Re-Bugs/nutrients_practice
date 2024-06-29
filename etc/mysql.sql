@@ -1084,18121 +1084,18121 @@ INSERT INTO Recipes (recipe_id, name, weight) VALUES (999, '흑맥주', 100.0);
 INSERT INTO Recipes (recipe_id, name, weight) VALUES (1000, '흰죽', 100.0);
 
 
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1, '귀리, 겉귀리, 도정, 생것', 1, 0,
         67.71, 11.4, 7.35, 100.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2, '귀리, 쌀귀리, 도정, 생것', 1, 0,
         66.66, 11.14, 8.9, 100.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3, '귀리, 쌀귀리, 대양, 도정, 생것', 1, 0,
         66.1, 11.51, 8.78, 100.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         4, '귀리, 쌀귀리, 조양, 도정, 생것', 1, 0,
         67.23, 10.78, 9.01, 100.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         5, '귀리, 쌀귀리, 도정, 밥', 1, 0,
         36.54, 6.51, 5.36, 101.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         6, '귀리, 쌀귀리, 대양, 도정, 밥', 1, 0,
         36.09, 6.71, 5.13, 101.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         7, '귀리, 쌀귀리, 조양, 도정, 밥', 1, 0,
         36.98, 6.31, 5.59, 101.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         8, '귀리, 오트밀', 1, 0,
         64.9, 13.2, 8.2, 101.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         9, '기장, 도정, 생것', 1, 0,
         74.6, 11.2, 1.9, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         10, '기장, 찰기장, 도정, 생것', 1, 0,
         69.65, 13.63, 3.77, 98.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         11, '기장, 찰기장, 이백찰, 도정, 생것', 1, 0,
         69.49, 13.72, 4.03, 99.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         12, '기장, 찰기장, 한라찰, 도정, 생것', 1, 0,
         69.78, 12.8, 4.35, 99.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         13, '기장, 찰기장, 황실찰, 도정, 생것', 1, 0,
         67.42, 15.55, 3.62, 99.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         14, '메밀, 도정, 생것', 1, 0,
         67.84, 13.64, 3.38, 98.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         15, '메밀, 도정, 가루', 1, 0,
         71.36, 12.96, 3.29, 98.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         16, '메밀 국수, 생것', 1, 0,
         61.14, 7.59, 0.96, 97.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         17, '메밀 국수, 생것, 삶은것', 1, 0,
         25.73, 3.54, 0.44, 97.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         18, '메밀 국수, 말린것', 1, 0,
         74.41, 13.58, 1.27, 97.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         19, '메밀 국수, 말린것, 삶은것', 1, 0,
         22.65, 4.28, 0.4, 97.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         20, '메밀 냉면, 말린것', 1, 0,
         73.66, 10.74, 1.44, 97.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         21, '메밀 냉면, 말린것, 삶은것', 1, 0,
         28.71, 4.22, 0.59, 97.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         22, '메밀묵', 1, 0,
         12.8, 0.86, 0.23, 97.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         23, '메밀묵, 가루', 1, 0,
         77.39, 8.33, 2.04, 97.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         24, '멥쌀, 배아미, 생것', 1, 0,
         75.8, 6.5, 2.0, 101.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         25, '멥쌀, 백미, 생것', 1, 0,
         78.74, 6.81, 1.05, 96.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         26, '멥쌀, 백미, 고아미2호, 생것', 1, 0,
         74.3, 8.4, 2.04, 96.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         27, '멥쌀, 백미, 골든퀸3호, 생것', 1, 0,
         77.23, 6.07, 0.67, 95.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         28, '멥쌀, 백미, 금강1호, 생것', 1, 0,
         79.46, 6.69, 1.1, 96.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         29, '멥쌀, 백미, 남찬, 생것', 1, 0,
         78.14, 6.85, 1.34, 96.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         30, '멥쌀, 백미, 도담쌀, 생것', 1, 0,
         76.91, 6.97, 1.14, 96.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         31, '멥쌀, 백미, 미품, 생것', 1, 0,
         76.89, 7.77, 0.81, 95.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         32, '멥쌀, 백미, 보람찬, 생것', 1, 0,
         78.36, 7.16, 1.53, 96.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         33, '멥쌀, 백미, 삼광, 생것', 1, 0,
         79.71, 6.31, 0.9, 96.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         34, '멥쌀, 백미, 새일미, 생것', 1, 0,
         78.57, 6.92, 1.04, 96.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         35, '멥쌀, 백미, 새추청벼, 생것', 1, 0,
         80.9, 6.1, 0.2, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         36, '멥쌀, 백미, 설갱, 생것', 1, 0,
         78.14, 6.71, 1.04, 96.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         37, '멥쌀, 백미, 수라벼, 생것', 1, 0,
         76.7, 5.7, 0.1, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         38, '멥쌀, 백미, 신동진, 생것', 1, 0,
         78.01, 6.06, 1.09, 95.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         39, '멥쌀, 백미, 알찬미, 생것', 1, 0,
         80.36, 6.02, 1.57, 96.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         40, '멥쌀, 백미, 영호진미, 생것', 1, 0,
         79.87, 5.72, 1.54, 96.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         41, '멥쌀, 백미, 예찬, 생것', 1, 0,
         78.78, 6.6, 0.75, 95.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         42, '멥쌀, 백미, 오대, 생것', 1, 0,
         79.46, 7.38, 0.93, 95.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         43, '멥쌀, 백미, 운광, 생것', 1, 0,
         79.1, 6.2, 0.99, 95.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         44, '멥쌀, 백미, 일미벼, 생것', 1, 0,
         79.3, 7.7, 1.0, 96.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         45, '멥쌀, 백미, 일품, 생것', 1, 0,
         78.52, 7.06, 1.12, 96.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         46, '멥쌀, 백미, 일품벼, 생것', 1, 0,
         78.5, 5.7, 0.1, 95.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         47, '멥쌀, 백미, 추청벼, 생것', 1, 0,
         81.4, 6.7, 0.6, 95.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         48, '멥쌀, 백미, 친들, 생것', 1, 0,
         79.09, 6.43, 0.77, 95.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         49, '멥쌀, 백미, 큰눈벼, 생것', 1, 0,
         81.4, 6.3, 1.0, 95.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         50, '멥쌀, 백미, 통일벼, 생것', 1, 0,
         80.3, 8.3, 0.6, 95.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         51, '멥쌀, 백미, 팔방미, 생것', 1, 0,
         77.32, 8.33, 0.94, 95.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         52, '멥쌀, 백미, 하이아미, 생것', 1, 0,
         78.46, 7.35, 1.05, 96.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         53, '멥쌀, 백미, 한가루, 생것', 1, 0,
         80.03, 7.11, 1.05, 96.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         54, '멥쌀, 백미, 한아름4호, 생것', 1, 0,
         79.3, 7.13, 0.88, 95.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         55, '멥쌀, 백미, 해담쌀, 생것', 1, 0,
         80.24, 6.65, 0.93, 95.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         56, '멥쌀, 백미, 해들, 생것', 1, 0,
         77.39, 7.33, 1.34, 96.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         57, '멥쌀, 백미, 해품, 생것', 1, 0,
         77.3, 8.23, 0.56, 95.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         58, '멥쌀, 백미, 향미벼, 생것', 1, 0,
         79.9, 7.0, 0.6, 95.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         59, '멥쌀, 백미, 호품벼, 생것', 1, 0,
         77.21, 5.91, 0.73, 95.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         60, '멥쌀, 백미, 히토메보레, 생것', 1, 0,
         80.0, 6.5, 0.3, 95.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         61, '멥쌀, 백미, 밭벼, 생것', 1, 0,
         74.5, 9.3, 0.9, 103.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         62, '멥쌀, 백미, 밥', 1, 0,
         31.71, 2.65, 0.33, 96.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         63, '멥쌀, 백미, 농림나1호, 밥', 1, 0,
         48.5, 2.2, 0.1, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         64, '멥쌀, 백미, 밭벼, 밥', 1, 0,
         36.1, 3.5, 0.3, 102.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         65, '멥쌀, 백미, 삼광, 밥', 1, 0,
         31.71, 2.52, 0.33, 95.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         66, '멥쌀, 백미, 새일미, 밥', 1, 0,
         30.69, 2.67, 0.25, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         67, '멥쌀, 백미, 새추청벼, 밥', 1, 0,
         33.8, 2.5, 0.1, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         68, '멥쌀, 백미, 수라벼, 밥', 1, 0,
         35.7, 2.4, 0.0, 95.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         69, '멥쌀, 백미, 신동진, 밥', 1, 0,
         32.17, 2.53, 0.28, 96.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         70, '멥쌀, 백미, 오대, 밥', 1, 0,
         32.28, 2.85, 0.44, 95.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         71, '멥쌀, 백미, 일품벼, 밥', 1, 0,
         34.6, 2.6, 0.1, 96.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         72, '멥쌀, 백미, 추청벼, 밥', 1, 0,
         33.7, 2.4, 0.0, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         73, '멥쌀, 백미, 죽', 1, 0,
         11.45, 0.99, 0.15, 96.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         74, '멥쌀, 백미, 삼광, 죽', 1, 0,
         11.51, 0.89, 0.1, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         75, '멥쌀, 백미, 새일미, 죽', 1, 0,
         11.72, 1.09, 0.17, 95.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         76, '멥쌀, 백미, 신동진, 죽', 1, 0,
         11.42, 0.96, 0.15, 96.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         77, '멥쌀, 백미, 오대, 죽', 1, 0,
         11.16, 1.02, 0.18, 96.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         78, '멥쌀, 백미, 미음', 1, 0,
         4.7, 0.3, 0.0, 105.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         79, '멥쌀, 백미, 가루', 1, 0,
         78.5, 6.2, 0.9, 101.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         80, '멥쌀, 칠분도미, 생것', 1, 0,
         76.6, 6.3, 1.5, 99.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         81, '멥쌀, 칠분도미, 농림나1호, 생것', 1, 0,
         79.2, 5.6, 1.9, 96.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         82, '멥쌀, 칠분도미, 밭벼, 생것', 1, 0,
         73.4, 9.5, 1.5, 96.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         83, '멥쌀, 칠분도미, 밥', 1, 0,
         36.7, 2.6, 0.5, 101.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         84, '멥쌀, 칠분도미, 농림나1호, 밥', 1, 0,
         46.2, 2.5, 0.2, 95.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         85, '멥쌀, 칠분도미, 밭벼, 밥', 1, 0,
         35.7, 3.6, 0.5, 104.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         86, '멥쌀, 칠분도미, 죽', 1, 0,
         15.6, 1.1, 0.2, 100.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         87, '멥쌀, 칠분도미, 미음', 1, 0,
         4.6, 0.3, 0.1, 102.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         88, '멥쌀, 현미, 생것', 1, 0,
         75.92, 7.33, 2.23, 98.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         89, '멥쌀, 현미, 고아미2호, 생것', 1, 0,
         71.0, 9.17, 4.11, 99.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         90, '멥쌀, 현미, 골든퀸3호, 생것', 1, 0,
         77.26, 6.16, 2.01, 98.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         91, '멥쌀, 현미, 금강1호, 생것', 1, 0,
         77.11, 7.08, 2.72, 99.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         92, '멥쌀, 현미, 남찬, 생것', 1, 0,
         75.26, 7.25, 2.31, 98.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         93, '멥쌀, 현미, 농림나1호, 생것', 1, 0,
         75.3, 5.8, 4.8, 99.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         94, '멥쌀, 현미, 도담쌀, 생것', 1, 0,
         74.15, 7.73, 2.85, 99.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         95, '멥쌀, 현미, 미품, 생것', 1, 0,
         73.3, 8.41, 2.07, 99.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         96, '멥쌀, 현미, 보람찬, 생것', 1, 0,
         75.74, 7.42, 2.01, 98.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         97, '멥쌀, 현미, 삼광, 생것', 1, 0,
         76.98, 6.88, 2.0, 98.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         98, '멥쌀, 현미, 새일미, 생것', 1, 0,
         76.0, 7.6, 2.12, 99.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         99, '멥쌀, 현미, 설갱, 생것', 1, 0,
         75.36, 7.53, 2.34, 99.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         100, '멥쌀, 현미, 신동진, 생것', 1, 0,
         75.24, 6.69, 1.98, 98.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         101, '멥쌀, 현미, 알찬미, 생것', 1, 0,
         78.09, 6.91, 2.34, 98.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         102, '멥쌀, 현미, 영호진미, 생것', 1, 0,
         78.1, 6.21, 2.32, 98.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         103, '멥쌀, 현미, 예찬, 생것', 1, 0,
         75.25, 7.23, 2.47, 98.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         104, '멥쌀, 현미, 오대, 생것', 1, 0,
         76.53, 8.07, 2.31, 99.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         105, '멥쌀, 현미, 운광, 생것', 1, 0,
         75.94, 6.52, 2.28, 98.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         106, '멥쌀, 현미, 일미벼, 생것', 1, 0,
         76.2, 9.0, 1.0, 98.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         107, '멥쌀, 현미, 일품, 생것', 1, 0,
         76.37, 7.0, 2.18, 98.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         108, '멥쌀, 현미, 일품벼, 생것', 1, 0,
         77.8, 7.4, 2.0, 98.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         109, '멥쌀, 현미, 추청벼, 생것', 1, 0,
         76.9, 6.4, 2.7, 98.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         110, '멥쌀, 현미, 친들, 생것', 1, 0,
         75.8, 6.97, 1.98, 98.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         111, '멥쌀, 현미, 큰눈벼, 생것', 1, 0,
         77.9, 7.3, 3.0, 99.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         112, '멥쌀, 현미, 통일벼, 생것', 1, 0,
         77.2, 8.9, 1.6, 99.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         113, '멥쌀, 현미, 팔방미, 생것', 1, 0,
         73.74, 9.12, 2.65, 99.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         114, '멥쌀, 현미, 하이아미, 생것', 1, 0,
         75.73, 7.41, 2.6, 98.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         115, '멥쌀, 현미, 한가루, 생것', 1, 0,
         76.38, 7.92, 2.2, 98.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         116, '멥쌀, 현미, 한아름4호, 생것', 1, 0,
         77.23, 7.56, 2.2, 98.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         117, '멥쌀, 현미, 해담쌀, 생것', 1, 0,
         77.58, 7.42, 2.44, 98.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         118, '멥쌀, 현미, 해들, 생것', 1, 0,
         74.99, 8.06, 2.34, 99.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         119, '멥쌀, 현미, 해품, 생것', 1, 0,
         73.53, 8.71, 1.88, 99.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         120, '멥쌀, 현미, 호품벼, 생것', 1, 0,
         73.94, 6.3, 1.94, 98.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         121, '멥쌀, 현미, 발아현미, 생것', 1, 0,
         79.4, 7.0, 2.3, 98.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         122, '멥쌀, 현미, 적진주, 생것', 1, 0,
         76.01, 7.47, 2.48, 99.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         123, '멥쌀, 현미, 흑미, 생것', 1, 0,
         75.56, 7.7, 2.21, 98.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         124, '멥쌀, 현미, 흑진미, 생것', 1, 0,
         75.82, 7.82, 2.11, 99.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         125, '멥쌀, 현미, 흑진주벼, 생것', 1, 0,
         77.7, 7.9, 2.6, 99.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         126, '멥쌀, 현미, 밥', 1, 0,
         35.34, 3.47, 0.96, 98.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         127, '멥쌀, 현미, 농림나1호, 밥', 1, 0,
         46.1, 2.8, 0.2, 98.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         128, '멥쌀, 현미, 밭벼, 밥', 1, 0,
         34.3, 4.1, 1.0, 104.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         129, '멥쌀, 현미, 삼광, 밥', 1, 0,
         34.83, 3.5, 1.15, 99.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         130, '멥쌀, 현미, 새일미, 밥', 1, 0,
         36.67, 3.43, 1.08, 98.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         131, '멥쌀, 현미, 신동진, 밥', 1, 0,
         34.57, 3.15, 0.76, 98.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         132, '멥쌀, 현미, 오대, 밥', 1, 0,
         35.29, 3.81, 0.87, 98.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         133, '멥쌀, 현미, 흑진미, 밥', 1, 0,
         36.83, 3.98, 1.01, 99.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         134, '멥쌀, 현미, 죽', 1, 0,
         15.2, 1.2, 0.4, 108.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         135, '멥쌀, 현미, 미음', 1, 0,
         4.4, 0.4, 0.1, 105.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         136, '멥쌀밥, 쪄서 말린것', 1, 0,
         83.7, 5.2, 0.1, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         137, '누룽지', 1, 0,
         86.8, 6.8, 0.2, 95.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         138, '즉석밥, 누룽지', 1, 0,
         90.98, 6.64, 0.84, 95.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         139, '즉석밥, 누룽지, 끓는물 부음', 1, 0,
         15.06, 1.32, 0.1, 96.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         140, '즉석밥, 백미', 1, 0,
         33.59, 2.11, 0.28, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         141, '즉석밥, 잡곡밥(멥쌀, 찹쌀, 흑미, 팥, 기장, 찰수수)', 1, 0,
         33.76, 2.83, 0.38, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         143, '멥쌀 과자, 쌀엿강정, 팽화', 1, 0,
         89.96, 4.11, 2.13, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         144, '멥쌀 과자, 튀밥, 팽화', 1, 0,
         86.73, 7.32, 1.23, 95.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         145, '멥쌀 국수, 말린것', 1, 0,
         82.36, 7.2, 0.72, 96.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         146, '멥쌀떡, 가래떡', 1, 0,
         48.8, 3.71, 0.37, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         147, '멥쌀떡, 가래떡, 흑미', 1, 0,
         47.8, 3.5, 0.0, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         148, '멥쌀떡, 개피떡(바람떡)', 1, 0,
         44.3, 5.32, 0.81, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         150, '멥쌀떡, 꿀떡', 1, 0,
         46.14, 3.09, 1.46, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         151, '멥쌀떡, 무지개떡', 1, 0,
         53.0, 3.5, 0.3, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         152, '멥쌀떡, 백설기', 1, 0,
         53.45, 3.99, 0.52, 95.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         153, '멥쌀떡, 백설기, 검정콩', 1, 0,
         48.31, 5.75, 1.46, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         154, '멥쌀떡, 송편, 검정콩', 1, 0,
         41.2, 6.9, 0.8, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         155, '멥쌀떡, 송편, 팥', 1, 0,
         43.6, 5.4, 0.4, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         156, '멥쌀떡, 송편, 깨', 1, 0,
         44.01, 5.9, 2.74, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         157, '멥쌀떡, 모싯잎송편, 동부', 1, 0,
         40.29, 5.65, 0.66, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         158, '멥쌀떡, 모싯잎송편, 동부(국내산)', 1, 0,
         40.68, 5.28, 0.65, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         159, '멥쌀떡, 모싯잎송편, 동부(수입산)', 1, 0,
         39.9, 6.03, 0.67, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         160, '멥쌀떡, 시루떡, 팥', 1, 0,
         38.94, 5.83, 0.41, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         161, '멥쌀떡, 절편', 1, 0,
         49.04, 3.69, 0.49, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         162, '멥쌀떡, 증편', 1, 0,
         44.66, 3.02, 0.43, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         163, '미숫가루, 혼합곡물', 1, 0,
         76.17, 14.52, 5.48, 103.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         164, '밀, 도정, 생것', 1, 0,
         75.8, 10.6, 1.0, 106.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         165, '밀, 금강밀, 도정, 생것', 1, 0,
         71.7, 13.06, 1.28, 106.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         166, '밀, 신미찰밀, 도정, 생것', 1, 0,
         74.2, 11.3, 1.6, 106.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         167, '밀, 흑밀, 도정, 생것', 1, 0,
         72.5, 12.9, 0.9, 106.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         168, '밀, 통밀, 생것', 1, 0,
         74.6, 13.2, 1.5, 106.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         169, '밀, 호라산, 말린것', 1, 0,
         71.16, 13.74, 1.91, 106.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         170, '밀, 강력밀가루', 1, 0,
         72.89, 13.59, 1.11, 106.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         171, '밀, 도넛가루', 1, 0,
         73.9, 8.5, 6.8, 96.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         172, '밀, 박력밀가루', 1, 0,
         77.73, 9.15, 0.94, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         173, '밀, 부침가루', 1, 0,
         75.52, 9.8, 0.98, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         174, '밀, 빵가루', 1, 0,
         77.04, 11.95, 2.05, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         175, '밀, 중력밀가루', 1, 0,
         76.64, 10.34, 1.01, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         176, '밀, 통밀가루', 1, 0,
         71.5, 11.9, 1.6, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         177, '밀, 튀김가루', 1, 0,
         78.41, 7.22, 0.8, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         178, '밀, 팬케이크가루', 1, 0,
         79.63, 7.75, 3.79, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         179, '과자, 건빵', 1, 0,
         75.37, 9.92, 8.67, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         180, '과자, 대추꿀약과', 1, 0,
         65.7, 4.5, 16.3, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         181, '과자, 마카로니', 1, 0,
         71.28, 11.5, 13.96, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         182, '과자, 만주, 밤', 1, 0,
         70.86, 6.35, 2.39, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         183, '과자, 모나카', 1, 0,
         82.62, 3.35, 0.29, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         184, '과자, 바닐라 웨하스', 1, 0,
         66.68, 5.89, 24.62, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         185, '과자, 비스킷, 소프트', 1, 0,
         60.34, 5.7, 24.93, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         186, '과자, 비스킷, 하드', 1, 0,
         62.63, 6.68, 28.58, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         187, '과자, 뻥튀기, 원반 모양, 팽화', 1, 0,
         82.29, 11.06, 1.07, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         188, '과자, 사과파이', 1, 0,
         64.98, 5.5, 21.0, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         189, '과자, 스낵, 새우', 1, 0,
         66.32, 6.04, 22.77, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         190, '과자, 스낵, 옥수수', 1, 0,
         65.73, 5.25, 26.27, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         191, '과자, 약과', 1, 0,
         67.03, 5.2, 14.3, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         193, '과자, 전병, 김', 1, 0,
         86.45, 7.48, 3.8, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         194, '과자, 초코볼', 1, 0,
         70.2, 4.3, 22.5, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         195, '과자, 초코파이', 1, 0,
         67.59, 4.29, 15.57, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         196, '과자, 쿠키, 땅콩버터', 1, 0,
         67.97, 8.36, 20.87, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         197, '과자, 쿠키, 버터', 1, 0,
         66.47, 6.37, 24.52, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         198, '과자, 쿠키, 초코칩', 1, 0,
         71.38, 5.92, 20.55, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         199, '과자, 쿠키, 통밀', 1, 0,
         72.73, 6.48, 17.17, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         200, '과자, 크랙커', 1, 0,
         58.8, 7.0, 27.8, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         201, '과자, 크래커, 땅콩샌드', 1, 0,
         64.23, 7.66, 26.24, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         202, '과자, 크래커, 채소', 1, 0,
         68.26, 7.38, 22.62, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         203, '과자, 크래커, 치즈샌드', 1, 0,
         68.24, 6.08, 22.23, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         204, '국수, 생것', 1, 0,
         60.09, 7.25, 0.87, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         205, '국수, 말린것', 1, 0,
         74.41, 10.38, 1.24, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         206, '국수, 말린것, 삶은것', 1, 0,
         24.7, 3.55, 0.44, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         207, '국수, 소면, 말린것', 1, 0,
         74.88, 10.36, 1.27, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         208, '국수, 소면, 말린것, 삶은것', 1, 0,
         25.36, 3.55, 0.48, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         209, '국수, 중면, 말린것', 1, 0,
         73.94, 10.4, 1.21, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         210, '국수, 중면, 말린것, 삶은것', 1, 0,
         24.04, 3.55, 0.4, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         211, '라면, 말린것', 1, 0,
         69.52, 8.07, 13.56, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         212, '라면, 말린것, 삶은것', 1, 0,
         30.66, 3.7, 4.91, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         213, '마카로니, 말린것', 1, 0,
         74.13, 12.98, 1.53, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         214, '마카로니, 말린것, 삶은것', 1, 0,
         30.86, 5.5, 0.62, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         215, '스파게티면, 말린것', 1, 0,
         74.52, 12.64, 1.47, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         216, '스파게티면, 말린것, 삶은것', 1, 0,
         36.83, 8.13, 0.88, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         217, '우동면, 생것', 1, 0,
         33.09, 3.33, 1.25, 95.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         218, '우동면, 생것, 삶은것', 1, 0,
         29.12, 2.95, 0.46, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         219, '중식면, 생것', 1, 0,
         60.03, 7.36, 1.06, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         220, '중식면, 생것, 삶은것', 1, 0,
         31.61, 4.09, 0.53, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         224, '쫄면, 말린것', 1, 0,
         71.29, 9.16, 1.08, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         225, '칼국수면, 생것', 1, 0,
         63.02, 7.25, 0.87, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         226, '칼국수면, 생것, 삶은것', 1, 0,
         28.98, 3.49, 0.43, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         227, '칼국수면, 반건조', 1, 0,
         57.5, 6.4, 1.4, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         228, '빵, 건포도빵', 1, 0,
         51.1, 8.2, 3.5, 102.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         229, '빵, 곰보빵', 1, 0,
         61.44, 9.5, 14.54, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         230, '빵, 꽈배기', 1, 0,
         47.2, 7.9, 20.4, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         231, '빵, 난', 1, 0,
         47.6, 10.3, 3.4, 102.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         232, '빵, 도넛, 링', 1, 0,
         40.6, 7.3, 26.0, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         233, '빵, 도넛, 팥', 1, 0,
         45.7, 6.6, 15.3, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         234, '빵, 롤빵, 소프트', 1, 0,
         48.6, 10.1, 9.0, 102.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         235, '빵, 롤빵, 하드', 1, 0,
         52.7, 9.9, 4.3, 98.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         236, '빵, 마늘빵', 1, 0,
         57.5, 9.8, 17.2, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         237, '빵, 머핀, 우유', 1, 0,
         41.4, 6.9, 11.4, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         238, '빵, 머핀, 잉글리쉬', 1, 0,
         46.0, 7.7, 1.8, 98.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         239, '빵, 모닝빵', 1, 0,
         58.99, 9.06, 4.91, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         240, '빵, 모카빵', 1, 0,
         63.29, 8.31, 7.53, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         241, '빵, 바게트', 1, 0,
         57.5, 9.4, 1.3, 96.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         242, '빵, 베이글', 1, 0,
         54.6, 9.6, 2.0, 101.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         243, '빵, 베이글, 달걀', 1, 0,
         53.0, 10.6, 2.1, 98.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         244, '빵, 붕어빵, 팥', 1, 0,
         44.12, 4.81, 6.44, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         245, '빵, 소시지빵', 1, 0,
         33.0, 10.59, 16.52, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         246, '빵, 식빵, 버터 첨가', 1, 0,
         49.68, 9.01, 4.91, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         247, '빵, 식빵, 옥수수', 1, 0,
         50.45, 9.44, 3.42, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         248, '빵, 식빵, 우유', 1, 0,
         48.7, 9.1, 6.0, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         249, '빵, 옥수수빵', 1, 0,
         49.1, 7.4, 10.2, 99.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         250, '빵, 와플', 1, 0,
         32.9, 7.9, 14.1, 99.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         251, '빵, 와플, 잼', 1, 0,
         57.3, 4.9, 4.2, 102.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         252, '빵, 와플, 커스터드 크림', 1, 0,
         38.1, 7.3, 7.9, 104.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         253, '빵, 잼빵', 1, 0,
         58.1, 5.3, 3.9, 101.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         254, '빵, 찐빵, 단호박', 1, 0,
         52.4, 5.4, 0.9, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         255, '빵, 찐빵, 채소', 1, 0,
         36.09, 7.66, 5.34, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         256, '빵, 찐빵, 팥', 1, 0,
         44.36, 5.96, 1.29, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         257, '빵, 카스텔라', 1, 0,
         59.46, 6.91, 3.72, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         258, '빵, 크루아상', 1, 0,
         43.9, 7.9, 26.8, 102.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         259, '빵, 크루아상, 버터', 1, 0,
         45.8, 8.2, 21.0, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         260, '빵, 크로켓', 1, 0,
         29.7, 6.0, 18.2, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         261, '빵, 크로켓, 채소', 1, 0,
         31.2, 7.1, 16.4, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         262, '빵, 크림빵', 1, 0,
         54.05, 8.67, 14.28, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         263, '빵, 크림빵, 버터', 1, 0,
         46.2, 8.2, 18.4, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         264, '빵, 팥빵', 1, 0,
         48.51, 7.57, 3.17, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         265, '빵, 페이스트리', 1, 0,
         46.5, 8.6, 26.3, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         266, '빵, 페이스트리, 과일', 1, 0,
         47.8, 5.4, 18.5, 102.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         267, '빵, 페이스트리, 치즈', 1, 0,
         37.2, 8.0, 21.9, 101.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         268, '빵, 피칸파이', 1, 0,
         59.61, 4.5, 16.69, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         269, '케이크, 과일(후르츠)', 1, 0,
         61.6, 2.9, 9.1, 104.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         270, '케이크, 롤 케이크', 1, 0,
         39.24, 7.51, 20.22, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         271, '케이크, 배 케이크', 1, 0,
         43.5, 6.2, 10.8, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         272, '케이크, 생크림 블루베리', 1, 0,
         24.39, 3.03, 18.88, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         273, '케이크, 쇼튼드 케이크', 1, 0,
         42.3, 6.9, 15.2, 104.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         274, '케이크, 스폰지 케이크', 1, 0,
         47.2, 6.6, 15.2, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         275, '케이크, 엔젤푸드 케이크', 1, 0,
         57.8, 5.9, 0.8, 101.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         276, '케이크, 초콜릿 케이크', 1, 0,
         49.31, 5.23, 22.09, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         277, '케이크, 치즈 케이크', 1, 0,
         28.82, 5.87, 21.32, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         278, '케이크, 파운드 케이크', 1, 0,
         49.65, 5.66, 20.71, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         279, '케이크, 팬케이크', 1, 0,
         47.24, 7.15, 4.87, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         280, '보리, 겉보리, 도정, 생것', 1, 0,
         76.89, 8.75, 1.67, 102.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         281, '보리, 겉보리, 큰알보리1호, 도정, 생것', 1, 0,
         76.39, 8.13, 1.75, 102.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         282, '보리, 겉보리, 흑수정찰, 도정, 생것', 1, 0,
         77.39, 9.38, 1.6, 102.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         283, '보리, 겉보리, 늘보리, 도정, 생것', 1, 0,
         75.08, 9.79, 1.77, 102.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         284, '보리, 겉보리, 조곡, 생것', 1, 0,
         72.84, 11.01, 2.37, 102.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         285, '보리, 겉보리, 큰알보리1호, 조곡, 생것', 1, 0,
         72.85, 10.39, 2.41, 102.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         286, '보리, 겉보리, 흑수정찰, 조곡, 생것', 1, 0,
         72.82, 11.64, 2.34, 102.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         287, '보리, 겉보리, 압맥', 1, 0,
         75.38, 8.74, 1.66, 102.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         288, '보리, 겉보리, 할맥', 1, 0,
         77.71, 9.3, 1.67, 102.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         289, '보리, 겉보리, 밥', 1, 0,
         31.79, 3.55, 0.7, 102.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         290, '보리, 겉보리, 큰알보리1호, 밥', 1, 0,
         30.6, 3.17, 0.65, 102.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         291, '보리, 겉보리, 흑수청찰, 밥', 1, 0,
         32.97, 3.93, 0.75, 102.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         292, '보리, 맥주보리, 두산8호, 도정, 생것', 1, 0,
         78.0, 10.0, 1.0, 102.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         293, '보리, 쌀보리, 도정, 생것', 1, 0,
         75.04, 8.66, 1.66, 102.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         294, '보리, 쌀보리, 누리찰, 도정, 생것', 1, 0,
         74.77, 8.89, 1.57, 102.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         295, '보리, 쌀보리, 호강, 도정, 생것', 1, 0,
         75.91, 7.8, 1.59, 102.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         296, '보리, 쌀보리, 찰보리, 도정, 생것', 1, 0,
         72.29, 11.87, 2.15, 102.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         297, '보리, 쌀보리, 찰보리, 서둔찰보리, 도정, 생것', 1, 0,
         78.5, 9.7, 1.1, 102.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         298, '보리, 쌀보리, 찰보리, 할맥', 1, 0,
         82.0, 8.5, 1.0, 102.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         299, '보리, 쌀보리, 밥', 1, 0,
         31.72, 3.58, 0.73, 102.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         300, '보리, 쌀보리, 누리찰, 밥', 1, 0,
         30.99, 3.77, 0.72, 102.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         301, '보리, 쌀보리, 호강, 밥', 1, 0,
         32.45, 3.39, 0.73, 102.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         302, '보리, 가루', 1, 0,
         76.48, 11.16, 1.83, 102.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         303, '보리, 가루, 껍질 포함', 1, 0,
         76.09, 10.95, 2.99, 103.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         304, '보리, 볶은것', 1, 0,
         74.1, 12.7, 2.6, 102.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         305, '보리, 엿기름', 1, 0,
         71.68, 14.65, 2.71, 103.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         306, '수수, 도정, 생것', 1, 0,
         73.63, 11.67, 3.01, 98.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         307, '수수, 찰수수, 도정, 생것', 1, 0,
         72.91, 11.2, 3.22, 98.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         308, '수수, 찰수수, 남풍찰, 도정, 생것', 1, 0,
         74.03, 11.03, 3.67, 98.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         309, '수수, 찰수수, 소담찰, 도정, 생것', 1, 0,
         73.19, 12.73, 3.02, 98.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         310, '수수, 통수수, 생것', 1, 0,
         76.5, 10.5, 3.1, 104.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         311, '수수떡, 수수경단', 1, 0,
         43.1, 8.2, 1.4, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         312, '시리얼, 쌀', 1, 0,
         86.99, 6.65, 1.68, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         313, '시리얼, 옥수수', 1, 0,
         88.05, 5.11, 0.59, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         314, '시리얼, 옥수수, 그래놀라, 건조과일', 1, 0,
         84.66, 5.81, 3.65, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         315, '시리얼, 옥수수, 그래놀라, 코코넛', 1, 0,
         80.93, 5.56, 9.75, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         316, '시리얼, 옥수수, 아몬드', 1, 0,
         78.18, 7.3, 9.29, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         317, '시리얼, 옥수수, 코코아', 1, 0,
         85.78, 6.08, 4.34, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         318, '시리얼, 현미', 1, 0,
         85.33, 6.8, 2.79, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         319, '아마란스, 노란색, 말린것', 1, 0,
         67.27, 17.09, 5.94, 102.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         320, '아마란스, 빨간색, 말린것', 1, 0,
         67.59, 16.47, 5.78, 101.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         321, '옥수수, 단옥수수, 생것', 1, 0,
         23.39, 4.01, 1.5, 104.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         322, '옥수수, 단옥수수, 고당옥, 생것', 1, 0,
         21.61, 3.87, 1.24, 104.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         323, '옥수수, 단옥수수, 고당옥1호, 생것', 1, 0,
         21.82, 3.91, 1.09, 104.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         324, '옥수수, 단옥수수, 단옥3호, 생것', 1, 0,
         26.74, 4.26, 2.15, 104.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         325, '옥수수, 단옥수수, 삶은것', 1, 0,
         23.53, 3.99, 1.47, 104.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         326, '옥수수, 단옥수수, 고당옥, 삶은것', 1, 0,
         22.64, 3.93, 1.2, 104.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         327, '옥수수, 단옥수수, 고당옥1호, 삶은것', 1, 0,
         21.25, 4.14, 1.33, 105.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         328, '옥수수, 단옥수수, 단옥3호, 삶은것', 1, 0,
         26.71, 3.91, 1.89, 104.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         329, '옥수수, 단옥수수, 찐것', 1, 0,
         29.1, 4.2, 0.7, 103.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         330, '옥수수, 메옥수수, 생것', 1, 0,
         36.26, 5.34, 2.06, 103.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         331, '옥수수, 메옥수수, 삶은것', 1, 0,
         34.89, 5.11, 2.19, 103.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         332, '옥수수, 메옥수수, 구운것', 1, 0,
         78.3, 8.9, 3.9, 103.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         333, '옥수수, 메옥수수, 말린것', 1, 0,
         74.12, 9.94, 3.83, 103.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         334, '옥수수, 메옥수수, 강다옥, 말린것', 1, 0,
         73.68, 9.82, 4.46, 103.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         335, '옥수수, 메옥수수, 광평옥, 말린것', 1, 0,
         72.54, 9.73, 4.69, 103.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         336, '옥수수, 메옥수수, 다안옥, 말린것', 1, 0,
         72.49, 10.25, 4.28, 103.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         337, '옥수수, 메옥수수, 다평옥, 말린것', 1, 0,
         75.32, 9.02, 3.64, 103.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         338, '옥수수, 메옥수수, 신광옥, 말린것', 1, 0,
         74.78, 9.79, 3.06, 103.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         339, '옥수수, 메옥수수, 신황옥, 말린것', 1, 0,
         74.14, 10.22, 3.62, 103.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         340, '옥수수, 메옥수수, 안다옥, 말린것', 1, 0,
         74.3, 10.25, 3.41, 103.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         341, '옥수수, 메옥수수, 양안옥, 말린것', 1, 0,
         74.98, 9.56, 3.61, 103.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         342, '옥수수, 메옥수수, 장다옥, 말린것', 1, 0,
         73.36, 11.0, 3.76, 104.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         343, '옥수수, 메옥수수, 창다옥, 말린것', 1, 0,
         75.96, 8.93, 3.47, 103.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         344, '옥수수, 메옥수수, 청안옥, 말린것', 1, 0,
         75.29, 9.11, 3.8, 103.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         345, '옥수수, 메옥수수, 평강옥, 말린것', 1, 0,
         75.3, 9.45, 3.54, 103.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         346, '옥수수, 메옥수수, 평안옥, 말린것', 1, 0,
         71.24, 11.77, 4.61, 104.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         347, '옥수수, 메옥수수, 황다옥, 말린것', 1, 0,
         74.27, 10.32, 3.65, 103.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         348, '옥수수, 찰옥수수, 생것', 1, 0,
         28.96, 4.79, 1.4, 104.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         349, '옥수수, 찰옥수수, 대학, 생것', 1, 0,
         34.02, 4.79, 1.62, 103.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         350, '옥수수, 찰옥수수, 일미찰, 생것', 1, 0,
         25.18, 5.12, 1.25, 105.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         351, '옥수수, 찰옥수수, 찰옥4호, 생것', 1, 0,
         33.96, 4.63, 1.51, 103.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         352, '옥수수, 찰옥수수, 황금맛찰, 생것', 1, 0,
         22.68, 4.62, 1.21, 105.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         353, '옥수수, 찰옥수수, 삶은것', 1, 0,
         27.42, 4.72, 1.48, 104.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         354, '옥수수, 찰옥수수, 대학, 삶은것', 1, 0,
         28.85, 4.22, 1.42, 103.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         355, '옥수수, 찰옥수수, 일미찰, 삶은것', 1, 0,
         25.69, 5.14, 1.37, 105.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         356, '옥수수, 찰옥수수, 찰옥4호, 삶은것', 1, 0,
         31.65, 4.73, 1.9, 104.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         357, '옥수수, 찰옥수수, 황금맛찰, 삶은것', 1, 0,
         23.48, 4.78, 1.24, 105.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         358, '옥수수, 찰옥수수, 찐것', 1, 0,
         25.4, 6.6, 1.4, 106.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         359, '옥수수, 찰옥수수, 말린것', 1, 0,
         74.7, 11.5, 4.6, 104.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         360, '옥수수, 가루', 1, 0,
         83.3, 7.32, 0.97, 102.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         361, '옥수수 과자, 강냉이', 1, 0,
         87.9, 7.16, 3.25, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         362, '옥수수 과자, 팝콘, 전자레인지 조리', 1, 0,
         61.18, 8.12, 27.28, 105.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         363, '옥수수 과자, 팝콘, 캐러멜맛', 1, 0,
         77.74, 4.77, 14.36, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         364, '옥수수, 통조림, 가당', 1, 0,
         22.45, 2.07, 0.73, 99.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         365, '옥수수, 통조림, 크림', 1, 0,
         18.6, 1.7, 0.5, 104.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         366, '옥수수, 통조림, 홀커넬', 1, 0,
         17.8, 2.3, 0.5, 108.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         367, '옥수수묵', 1, 0,
         12.6, 1.1, 0.0, 99.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         368, '옥수수 샐러드, 콘샐러드', 1, 0,
         22.4, 3.2, 0.2, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         369, '율무, 도정, 생것', 1, 0,
         67.63, 14.95, 5.25, 99.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         370, '율무, 죽', 1, 0,
         13.75, 3.26, 0.98, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         371, '율무 국수, 말린것', 1, 0,
         74.6, 13.2, 1.2, 98.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         372, '잡곡, 현미, 찹쌀, 현미찹쌀, 보리 등, 생것', 1, 0,
         73.4, 9.79, 2.09, 98.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         373, '조, 메조, 도정, 생것', 1, 0,
         71.7, 11.48, 3.91, 98.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         374, '조, 메조, 다황메, 도정, 생것', 1, 0,
         72.3, 11.13, 3.96, 98.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         375, '조, 메조, 단아메, 도정, 생것', 1, 0,
         69.16, 13.45, 4.17, 98.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         376, '조, 메조, 삼다메, 도정, 생것', 1, 0,
         72.57, 10.78, 3.74, 98.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         377, '조, 메조, 조황메, 도정, 생것', 1, 0,
         71.68, 11.33, 4.0, 98.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         378, '조, 메조, 도정, 찐것', 1, 0,
         22.71, 3.14, 1.13, 98.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         379, '조, 차조, 도정, 생것', 1, 0,
         71.93, 10.9, 3.8, 98.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         380, '조, 차조, 경관1호, 도정, 생것', 1, 0,
         73.5, 10.74, 3.82, 98.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         381, '조, 차조, 경관2호, 도정, 생것', 1, 0,
         70.03, 12.83, 4.37, 98.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         382, '조, 차조, 삼다찰, 도정, 생것', 1, 0,
         70.39, 12.07, 3.86, 98.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         383, '조, 차조, 황미찰, 도정, 생것', 1, 0,
         74.54, 9.28, 3.38, 98.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         384, '찹쌀, 백미, 생것', 1, 0,
         78.17, 6.64, 0.99, 95.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         385, '찹쌀, 백미, 동진찰벼, 생것', 1, 0,
         78.11, 6.64, 1.04, 96.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         386, '찹쌀, 백미, 백옥찰, 생것', 1, 0,
         78.67, 6.54, 1.04, 95.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         387, '찹쌀, 백미, 백진주, 생것', 1, 0,
         78.23, 6.77, 1.12, 95.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         388, '찹쌀, 백미, 보람찰, 생것', 1, 0,
         77.68, 6.63, 0.76, 95.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         389, '찹쌀, 백미, 화선찰벼, 생것', 1, 0,
         75.2, 9.5, 2.6, 96.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         390, '찹쌀, 백미, 보람찰, 밥', 1, 0,
         33.93, 2.58, 0.33, 96.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         391, '찹쌀, 백미, 보람찰, 죽', 1, 0,
         11.3, 0.91, 0.28, 96.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         392, '찹쌀, 백미, 가루', 1, 0,
         82.08, 6.44, 0.57, 95.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         393, '찹쌀, 현미, 생것', 1, 0,
         75.52, 7.28, 2.29, 98.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         394, '찹쌀, 현미, 동진찰벼, 생것', 1, 0,
         76.22, 7.14, 2.18, 98.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         395, '찹쌀, 현미, 백옥찰, 생것', 1, 0,
         75.65, 7.47, 2.38, 98.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         396, '찹쌀, 현미, 백진주, 생것', 1, 0,
         75.82, 7.38, 2.39, 99.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         397, '찹쌀, 현미, 보람찰, 생것', 1, 0,
         74.39, 7.11, 2.21, 98.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         398, '찹쌀, 현미, 보람찰, 밥', 1, 0,
         38.41, 3.55, 1.25, 98.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         399, '찹쌀, 현미, 흑미, 생것', 1, 0,
         75.66, 7.83, 2.75, 99.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         400, '찹쌀, 현미, 눈큰흑찰1호, 생것', 1, 0,
         75.08, 8.19, 2.69, 99.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         401, '찹쌀, 현미, 조생흑찰, 생것', 1, 0,
         76.23, 7.47, 2.8, 99.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         402, '찹쌀 과자, 다식, 검정깨', 1, 0,
         48.3, 13.8, 25.2, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         403, '찹쌀 과자, 다식, 송화', 1, 0,
         76.1, 4.4, 2.3, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         404, '찹쌀 과자, 산자', 1, 0,
         75.6, 2.0, 11.8, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         405, '찹쌀 과자, 유과', 1, 0,
         77.49, 1.96, 10.37, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         406, '찹쌀 과자, 전병', 1, 0,
         79.6, 7.8, 10.7, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         407, '찹쌀 국수, 흑미, 말린것', 1, 0,
         74.6, 8.1, 0.3, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         408, '찹쌀떡', 1, 0,
         54.49, 4.7, 0.51, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         409, '찹쌀떡, 경단 카스텔라', 1, 0,
         51.1, 4.1, 1.8, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         410, '찹쌀떡, 모듬찰떡', 1, 0,
         42.59, 6.31, 4.12, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         411, '찹쌀떡, 약식', 1, 0,
         45.43, 4.44, 2.32, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         412, '찹쌀떡, 인절미, 팥고물', 1, 0,
         44.8, 4.2, 0.9, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         413, '찹쌀떡, 인절미, 콩고물', 1, 0,
         49.69, 5.52, 1.15, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         414, '찹쌀떡, 찰시루떡', 1, 0,
         37.63, 6.63, 0.41, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         415, '찹쌀빵, 찹쌀도넛', 1, 0,
         57.1, 5.0, 5.3, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         416, '퀴노아, 쪄서 말린것', 1, 0,
         72.62, 9.56, 3.26, 98.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         417, '피, IEC525(NO.5), 도정, 생것', 1, 0,
         73.9, 8.5, 4.6, 98.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         418, '호밀, 통호밀, 생것', 1, 0,
         70.7, 15.9, 1.5, 107.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         419, '호밀, 가루', 1, 0,
         78.16, 9.4, 1.82, 100.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         420, '호밀빵', 1, 0,
         51.35, 8.47, 5.11, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         421, '감자, 대지, 생것', 1, 0,
         15.08, 2.01, 0.04, 102.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         422, '감자, 대지, 삶은것', 1, 0,
         17.39, 2.07, 0.08, 102.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         423, '감자, 대지, 찐것', 1, 0,
         18.17, 2.11, 0.09, 102.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         424, '감자, 대지, 구운것', 1, 0,
         20.5, 2.43, 0.09, 102.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         425, '감자, 수미, 생것', 1, 0,
         16.07, 1.93, 0.03, 103.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         426, '감자, 수미, 삶은것', 1, 0,
         17.43, 1.99, 0.04, 102.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         427, '감자, 수미, 찐것', 1, 0,
         17.28, 1.94, 0.05, 103.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         428, '감자, 수미, 구운것', 1, 0,
         19.38, 2.3, 0.08, 102.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         429, '감자, 로즈밸리, 생것', 1, 0,
         15.18, 2.25, 0.03, 102.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         430, '감자, 로즈밸리, 삶은것', 1, 0,
         17.87, 2.34, 0.09, 103.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         431, '감자, 자색, 생것', 1, 0,
         18.5, 2.8, 0.0, 103.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         432, '감자, 자색, 찐것', 1, 0,
         19.5, 2.3, 0.0, 102.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         433, '감자, 자색, 보라밸리, 생것', 1, 0,
         13.79, 1.45, 0.02, 101.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         434, '감자, 자색, 보라밸리, 삶은것', 1, 0,
         15.97, 1.39, 0.05, 101.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         435, '감자, 자심, 생것', 1, 0,
         14.7, 1.8, 0.0, 103.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         436, '감자, 부침가루', 1, 0,
         73.6, 12.1, 1.4, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         437, '감자 과자, 감자칩, 구운것', 1, 0,
         71.4, 5.0, 18.2, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         438, '감자 과자, 감자칩, 튀긴것', 1, 0,
         60.92, 4.95, 30.33, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         439, '감자 튀김, 튀긴것', 1, 0,
         44.16, 3.54, 11.3, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         440, '감자 튀김, 해시브라운, 튀긴것', 1, 0,
         28.51, 2.65, 11.59, 104.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         441, '감자, 으깬감자', 1, 0,
         17.57, 1.91, 0.57, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         442, '감자 샐러드', 1, 0,
         11.17, 2.68, 8.2, 90.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         443, '고구마, 생것', 1, 0,
         35.52, 1.09, 0.15, 100.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         444, '고구마, 분질(밤) 고구마, 생것', 1, 0,
         37.22, 1.01, 0.11, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         445, '고구마, 점질(호박) 고구마, 생것', 1, 0,
         33.81, 1.17, 0.2, 100.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         446, '고구마, 베니하루까, 생것', 1, 0,
         34.91, 1.03, 0.45, 100.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         447, '고구마, 신율미, 생것', 1, 0,
         38.84, 1.0, 0.61, 100.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         448, '고구마, 신자미, 생것', 1, 0,
         25.5, 1.3, 0.1, 101.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         449, '고구마, 연황미, 생것', 1, 0,
         30.7, 1.1, 0.0, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         450, '고구마, 주황미, 생것', 1, 0,
         25.1, 1.0, 0.1, 100.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         451, '고구마, 진홍미, 생것', 1, 0,
         33.8, 1.2, 0.0, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         452, '고구마, 찐것', 1, 0,
         39.41, 1.08, 0.15, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         453, '고구마, 분질(밤) 고구마, 찐것', 1, 0,
         40.9, 1.07, 0.15, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         454, '고구마, 점질(호박) 고구마, 찐것', 1, 0,
         37.91, 1.1, 0.15, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         455, '고구마, 구운것', 1, 0,
         45.48, 1.13, 0.16, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         456, '고구마, 분질(밤) 고구마, 구운것', 1, 0,
         45.94, 1.01, 0.16, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         457, '고구마, 점질(호박) 고구마, 구운것', 1, 0,
         45.02, 1.25, 0.16, 100.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         458, '고구마, 말린것', 1, 0,
         75.7, 2.3, 0.1, 100.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         459, '당면, 고구마, 말린것', 1, 0,
         88.75, 0.08, 0.07, 99.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         460, '당면, 고구마, 삶은것', 1, 0,
         30.38, 0.03, 0.04, 99.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         461, '당면, 고구마, 감자, 말린것', 1, 0,
         86.6, 0.0, 0.2, 100.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         462, '곤약(구약나물), 가루', 1, 0,
         85.3, 3.0, 0.1, 182.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         463, '곤약(구약나물), 국수형, 생것', 1, 0,
         3.18, 0.08, 0.01, 187.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         464, '곤약(구약나물), 판형, 생것', 1, 0,
         3.06, 0.12, 0.01, 213.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         465, '돼지감자, 생것', 1, 0,
         14.92, 2.18, 0.09, 197.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         466, '돼지감자, 삶은것', 1, 0,
         17.16, 2.23, 0.11, 201.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         467, '돼지감자, 말린것', 1, 0,
         74.35, 10.43, 0.46, 199.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         468, '마, 단마, 생것', 1, 0,
         14.05, 1.84, 0.12, 102.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         469, '마, 둥근마, 생것', 1, 0,
         33.24, 3.56, 0.98, 102.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         470, '마, 장마, 생것', 1, 0,
         9.55, 1.56, 0.28, 104.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         471, '마, 장마, 삶은것', 1, 0,
         10.51, 1.47, 0.25, 102.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         472, '아피오스감자, 생것', 1, 0,
         38.2, 6.1, 0.5, 103.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         473, '야콘, 뿌리, 생것', 1, 0,
         12.4, 0.6, 0.3, 105.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         474, '야콘, 뿌리, 삶은것', 1, 0,
         9.9, 0.6, 0.3, 106.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         475, '전분, 감자, 가루', 1, 0,
         82.7, 0.07, 0.02, 99.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         476, '전분, 고구마, 가루', 1, 0,
         85.85, 0.0, 0.05, 99.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         477, '전분, 밀, 가루', 1, 0,
         86.0, 0.2, 0.5, 97.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         478, '전분, 쌀, 가루', 1, 0,
         89.3, 0.2, 0.7, 97.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         479, '전분, 옥수수, 가루', 1, 0,
         89.6, 0.19, 0.56, 99.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         480, '전분, 옥수수, 밀, 가루', 1, 0,
         93.8, 0.3, 0.0, 99.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         481, '전분, 칡뿌리, 가루', 1, 0,
         85.6, 0.2, 0.2, 96.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         482, '천마, 생것', 1, 0,
         18.5, 0.9, 0.0, 100.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         483, '천마, 찐것', 1, 0,
         19.3, 1.1, 0.0, 100.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         484, '칡, 뿌리, 생것', 1, 0,
         32.05, 2.48, 0.1, 101.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         485, '칡즙', 1, 0,
         4.91, 0.44, 0.0, 101.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         486, '토란, 생것', 1, 0,
         15.77, 2.08, 0.14, 102.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         487, '토란, 삶은것', 1, 0,
         16.28, 2.17, 0.18, 103.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         488, '토란, 찐것', 1, 0,
         16.75, 2.4, 0.17, 102.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         489, '히카마(얌빈), 생것', 1, 0,
         10.36, 0.68, 0.06, 101.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         490, '히카마(얌빈), 삶은것', 1, 0,
         10.66, 0.39, 0.06, 99.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         493, '껌, 추잉 껌', 1, 0,
         96.9, 0.0, 0.0, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         519, '젤리, 구미', 1, 0,
         77.53, 7.5, 0.42, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         527, '초코바, 땅콩 캐러멜', 1, 0,
         61.98, 9.36, 21.51, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         528, '초코바, 쿠키 캐러멜', 1, 0,
         67.6, 4.33, 22.33, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         529, '초콜릿, 다크 초콜릿', 1, 0,
         45.9, 7.79, 42.63, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         530, '초콜릿, 땅콩 초콜릿', 1, 0,
         49.7, 13.1, 33.5, 106.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         531, '초콜릿, 밀크 아몬드 초콜릿', 1, 0,
         53.4, 9.0, 34.4, 106.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         532, '초콜릿, 밀크 초콜릿', 1, 0,
         56.17, 7.8, 32.54, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         533, '초콜릿, 스위트 초콜릿', 1, 0,
         60.4, 3.9, 34.2, 111.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         534, '초콜릿, 크런치 초콜릿', 1, 0,
         62.49, 7.25, 26.81, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         535, '초콜릿, 화이트 초콜릿', 1, 0,
         59.24, 5.87, 32.09, 101.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         536, '캐러멜, 우유', 1, 0,
         79.9, 1.8, 10.7, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         538, '푸딩, 바닐라 가루, 우유에 섞은것', 1, 0,
         19.7, 2.7, 2.9, 101.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         540, '강낭콩, 생것', 1, 0,
         32.35, 8.8, 0.86, 99.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         541, '강낭콩, 삶은것', 1, 0,
         31.92, 8.46, 0.9, 99.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         542, '강낭콩, 말린것', 1, 0,
         61.89, 21.01, 1.41, 98.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         543, '녹두, 말린것', 1, 0,
         60.15, 24.51, 1.52, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         544, '녹두, 삶은것', 1, 0,
         26.66, 11.29, 0.67, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         545, '녹두 빈대떡, 가루', 1, 0,
         63.4, 20.7, 1.2, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         546, '녹두 빈대떡가루, 반죽', 1, 0,
         17.0, 6.2, 0.6, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         547, '녹두 국수, 말린것', 1, 0,
         87.5, 0.2, 0.4, 103.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         548, '녹두묵', 1, 0,
         9.81, 0.12, 0.03, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         570, '비지', 1, 0,
         4.61, 4.0, 1.93, 101.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         572, '두유, 검은콩', 1, 0,
         9.87, 3.21, 3.77, 100.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         573, '두유, 검은콩, 검은참깨', 1, 0,
         8.76, 3.4, 3.15, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         575, '콩조림(콩자반)', 1, 0,
         39.1, 19.3, 4.2, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         576, '동부, 생것', 1, 0,
         29.34, 9.51, 1.02, 99.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         577, '동부, 삶은것', 1, 0,
         24.46, 8.11, 0.77, 99.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         578, '동부, 말린것', 1, 0,
         60.56, 19.61, 2.1, 99.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         579, '동부, 수입산, 말린것', 1, 0,
         59.43, 22.08, 2.07, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         580, '동부, 수입산, 삶은것', 1, 0,
         26.28, 10.02, 1.12, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         581, '리마콩, 말린것', 1, 0,
         60.8, 21.9, 1.8, 113.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         582, '리마콩, 삶은것', 1, 0,
         26.0, 9.6, 0.9, 123.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         583, '렌즈콩(렌틸콩), 갈색, 말린것', 1, 0,
         64.3, 22.64, 1.52, 99.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         584, '렌즈콩(렌틸콩), 빨간색, 말린것', 1, 0,
         63.68, 23.58, 1.73, 99.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         586, '병아리콩, 말린것', 1, 0,
         63.3, 17.78, 5.67, 99.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         587, '완두, 생것', 1, 0,
         19.54, 7.92, 0.44, 99.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         588, '완두, 삶은것', 1, 0,
         20.78, 7.27, 1.1, 99.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         589, '완두, 말린것', 1, 0,
         56.65, 25.37, 2.61, 99.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         590, '완두, 통조림', 1, 0,
         19.7, 3.6, 0.4, 118.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         591, '작두(도두), 생것', 1, 0,
         21.5, 9.0, 0.3, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         592, '작두(도두), 말린것', 1, 0,
         57.4, 26.3, 1.0, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         593, '잠두, 생것', 1, 0,
         58.29, 26.12, 1.53, 103.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         594, '잠두, 삶은것', 1, 0,
         19.65, 7.6, 0.4, 102.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         598, '팥, 검은색, 말린것', 1, 0,
         58.72, 20.63, 0.96, 98.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         599, '팥, 검은색, 검구슬, 말린것', 1, 0,
         60.26, 20.57, 1.05, 99.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         600, '팥, 검은색, 삶은것', 1, 0,
         27.15, 9.49, 0.86, 98.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         601, '팥, 녹색, 연두채, 말린것', 1, 0,
         59.54, 22.58, 1.0, 99.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         602, '팥, 적색, 말린것', 1, 0,
         59.29, 21.59, 1.1, 98.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         603, '팥, 적색, 서나, 말린것', 1, 0,
         60.56, 21.14, 1.22, 99.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         604, '팥, 적색, 아라리, 말린것', 1, 0,
         59.5, 21.59, 1.06, 98.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         605, '팥, 적색, 삶은것', 1, 0,
         19.4, 7.91, 0.32, 99.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         606, '팥, 적색, 수입산, 말린것', 1, 0,
         68.5, 19.6, 0.5, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         607, '팥, 황백, 말린것', 1, 0,
         59.85, 22.38, 1.17, 99.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         608, '팥, 황백, 흰구슬, 말린것', 1, 0,
         61.43, 21.55, 1.44, 99.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         609, '팥, 황백, 흰나래, 말린것', 1, 0,
         58.26, 23.2, 0.89, 99.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         610, '팥, 회색, 말린것', 1, 0,
         63.3, 21.9, 1.0, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         612, '팥, 팥빙수용 단팥', 1, 0,
         45.63, 4.51, 0.22, 98.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         615, '도토리, 생것', 1, 0,
         46.7, 4.4, 3.0, 100.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         616, '도토리, 가루', 1, 0,
         83.7, 1.1, 1.1, 98.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         617, '도토리, 가루, 졸참도토리 ', 1, 0,
         79.2, 4.6, 0.5, 99.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         618, '도토리, 가루, 종가시도토리', 1, 0,
         79.5, 3.3, 1.6, 99.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         619, '도토리, 국수, 말린것', 1, 0,
         72.2, 12.4, 0.7, 100.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         620, '도토리묵', 1, 0,
         11.23, 0.33, 0.11, 100.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         634, '마름, 생것', 1, 0,
         40.6, 5.8, 0.5, 103.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         636, '머루씨, 생것', 1, 0,
         54.0, 6.3, 4.8, 100.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         638, '밤, 생것', 1, 0,
         33.39, 3.28, 0.5, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         639, '밤, 단택, 생것', 1, 0,
         34.3, 2.7, 0.1, 99.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         640, '밤, 대보, 생것', 1, 0,
         33.3, 2.9, 0.1, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         641, '밤, 옥광, 생것', 1, 0,
         33.5, 2.9, 0.1, 99.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         642, '밤, 이평, 생것', 1, 0,
         35.4, 3.5, 0.1, 99.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         643, '밤, 축파, 생것', 1, 0,
         32.1, 2.8, 0.1, 99.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         644, '밤, 삶은것', 1, 0,
         33.95, 3.45, 0.51, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         645, '밤, 단택, 삶은것', 1, 0,
         33.6, 3.2, 0.2, 99.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         646, '밤, 대보, 삶은것', 1, 0,
         35.2, 3.0, 0.1, 99.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         647, '밤, 옥광, 삶은것', 1, 0,
         35.0, 3.1, 0.1, 99.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         648, '밤, 이평, 삶은것', 1, 0,
         34.4, 3.7, 0.2, 99.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         649, '밤, 축파, 삶은것', 1, 0,
         31.6, 2.5, 0.1, 99.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         650, '밤, 구운것', 1, 0,
         45.36, 4.65, 0.68, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         651, '밤, 단택, 구운것', 1, 0,
         42.5, 3.8, 0.1, 99.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         652, '밤, 대보, 구운것', 1, 0,
         41.2, 3.6, 0.1, 99.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         653, '밤, 축파, 구운것', 1, 0,
         42.2, 3.5, 0.1, 99.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         654, '밤, 말린것', 1, 0,
         78.6, 6.7, 4.1, 100.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         656, '밤, 통조림', 1, 0,
         52.39, 0.76, 0.19, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         660, '수박씨, 말린것', 1, 0,
         47.2, 19.3, 22.9, 104.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         667, '은행, 생것', 1, 0,
         42.78, 4.69, 1.53, 100.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         668, '은행, 삶은것', 1, 0,
         38.25, 4.31, 1.86, 100.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         669, '은행, 볶은것', 1, 0,
         45.76, 5.0, 2.05, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         674, '잣죽', 1, 0,
         7.9, 1.45, 3.06, 101.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         679, '참깨 과자, 엿강정', 1, 0,
         45.4, 15.0, 32.9, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         680, '참깨죽', 1, 0,
         5.9, 1.0, 1.2, 101.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         681, '치아씨, 말린것', 1, 0,
         42.12, 16.54, 30.74, 105.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         686, '코코넛수', 1, 0,
         3.71, 0.72, 0.2, 102.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1434, '마가목 열매, 생것', 1, 0,
         25.5, 1.3, 0.8, 99.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1483, '보리밥 열매, 말린것', 1, 0,
         68.5, 18.5, 1.3, 101.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3065, '스파게티 소스, 토마토, 병조림', 1, 0,
         13.43, 1.52, 2.4, 100.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3092, '초고추장', 1, 0,
         53.78, 3.79, 1.17, 114.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3271, '멥쌀 과자, 떡, 팽화', 1, 0,
         87.29, 7.22, 1.01, 95.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3272, '멥쌀과자, 단맛', 1, 0,
         75.99, 6.73, 15.07, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3273, '멥쌀과자, 짠맛', 1, 0,
         76.93, 5.01, 15.97, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3274, '멥쌀 국수, 말린것, 삶은것', 1, 0,
         28.37, 2.59, 0.29, 95.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3275, '과자, 마늘바게트', 1, 0,
         65.3, 9.36, 20.17, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3276, '과자, 전병, 땅콩', 1, 0,
         87.43, 7.72, 2.91, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3277, '라면, 용기라면, 말린것', 1, 0,
         65.27, 7.44, 18.04, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3278, '라면, 용기라면, 말린것, 삶은것', 1, 0,
         27.4, 3.27, 7.18, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3279, '빵, 또띠아, 밀', 1, 0,
         52.1, 8.25, 6.89, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3280, '빵, 또띠아, 통밀', 1, 0,
         44.94, 9.32, 8.64, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3281, '빵, 식빵, 쇼트닝 첨가', 1, 0,
         49.61, 9.32, 3.48, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3282, '빵, 식빵, 쇼트닝 첨가, 구운것', 1, 0,
         53.6, 9.83, 3.7, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3283, '율무, 도정, 밥', 1, 0,
         30.34, 7.1, 2.35, 99.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3284, '고구마, 고구마말랭이, 말린것', 1, 0,
         65.58, 3.62, 0.34, 101.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3285, '곤약(구약나물), 국수형, 데친것', 1, 0,
         3.58, 0.01, 0.01, 206.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3286, '사탕, 과일사탕', 1, 0,
         98.64, 0.05, 0.1, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3287, '사탕, 츄잉 사탕, 과일맛', 1, 0,
         81.84, 1.81, 10.63, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3288, '사탕, 츄잉 사탕, 우유맛', 1, 0,
         71.65, 4.69, 13.97, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3289, '강낭콩, 말린것, 삶은것', 1, 0,
         29.43, 10.35, 0.93, 99.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3291, '렌즈콩(렌틸콩), 빨간색, 말린것, 삶은것', 1, 0,
         25.39, 9.79, 0.88, 99.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3292, '병아리콩, 말린것, 삶은것', 1, 0,
         29.24, 9.18, 3.2, 99.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3293, '완두, 말린것, 삶은것', 1, 0,
         27.06, 13.03, 1.35, 99.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3294, '팥, 앙금', 1, 0,
         58.39, 5.74, 0.31, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3366, '스파게티 소스, 크림, 병조림', 1, 0,
         5.95, 2.41, 17.23, 100.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         491, '과당', 3, 0,
         99.9, 0.0, 0.0, 106.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         492, '껌, 무설탕', 3, 0,
         94.8, 0.0, 0.4, 142.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         494, '껌, 풍선껌', 3, 0,
         96.7, 0.0, 0.0, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         495, '꿀', 3, 0,
         85.83, 0.28, 0.01, 108.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         496, '꿀, 밤', 3, 0,
         84.95, 0.45, 0.02, 108.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         497, '꿀, 아카시아', 3, 0,
         86.48, 0.12, 0.0, 108.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         498, '꿀, 잡화', 3, 0,
         86.07, 0.26, 0.02, 108.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         499, '꿀, 토종', 3, 0,
         84.73, 0.38, 0.02, 108.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         500, '당밀, 가공당', 3, 0,
         68.2, 0.2, 0.0, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         501, '로얄제리', 3, 0,
         12.82, 14.29, 1.4, 116.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         502, '물엿', 3, 0,
         83.03, 0.02, 0.0, 103.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         503, '사탕, 드롭스', 3, 0,
         97.54, 0.31, 0.55, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         504, '사탕, 땅콩', 3, 0,
         91.2, 0.23, 7.14, 121.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         505, '사탕, 마쉬멜로', 3, 0,
         79.3, 2.1, 0.0, 100.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         506, '사탕, 박하사탕', 3, 0,
         98.54, 0.02, 0.02, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         507, '사탕, 버터', 3, 0,
         88.5, 0.35, 8.39, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         508, '설탕, 가루', 3, 0,
         99.77, 0.0, 0.0, 102.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         509, '설탕, 각설탕', 3, 0,
         99.95, 0.0, 0.0, 103.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         510, '설탕, 백설탕', 3, 0,
         99.8, 0.0, 0.0, 103.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         511, '설탕, 빙설탕', 3, 0,
         99.8, 0.1, 0.0, 101.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         512, '설탕, 황설탕', 3, 0,
         99.66, 0.03, 0.01, 103.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         513, '설탕, 흑설탕', 3, 0,
         97.97, 0.12, 0.02, 103.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         514, '시럽, 단풍나무', 3, 0,
         67.04, 0.04, 0.06, 103.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         515, '시럽, 초콜릿', 3, 0,
         67.1, 2.1, 0.1, 103.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         516, '양갱, 팥', 3, 0,
         73.44, 3.37, 0.14, 103.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         517, '엿, 고구마', 3, 0,
         69.7, 1.6, 0.0, 108.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         518, '젤라틴, 디저트용, 가루', 3, 0,
         90.5, 7.8, 0.0, 103.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         520, '조청, 감', 3, 0,
         47.0, 3.0, 0.1, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         521, '조청, 고구마', 3, 0,
         77.0, 1.38, 0.35, 109.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         522, '조청, 도라지', 3, 0,
         86.0, 1.7, 0.1, 108.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         523, '조청, 배', 3, 0,
         62.3, 2.1, 0.0, 108.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         524, '조청, 산수유', 3, 0,
         80.9, 0.3, 0.0, 108.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         525, '조청, 쌀', 3, 0,
         87.9, 0.53, 0.24, 109.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         526, '조청, 오가피', 3, 0,
         77.3, 0.4, 0.1, 109.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         537, '포도당', 3, 0,
         91.0, 0.0, 0.0, 106.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         539, '푸딩, 커스터드', 3, 0,
         14.0, 5.7, 5.5, 110.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1377, '감, 탈삽, 생것', 3, 0,
         16.9, 0.5, 0.1, 119.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1378, '감, 단감, 생것', 3, 0,
         13.66, 0.41, 0.04, 111.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1379, '감, 단감, 잼', 3, 0,
         55.7, 0.3, 0.1, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1380, '감, 대봉, 갑주백목, 생것', 3, 0,
         17.57, 0.51, 0.86, 111.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1381, '감, 둥시, 생것', 3, 0,
         18.8, 0.6, 0.1, 110.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1382, '감, 둥시, 말린것', 3, 0,
         60.45, 1.59, 0.05, 111.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1383, '감, 연시, 생것', 3, 0,
         17.76, 0.29, 0.04, 111.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1384, '감, 연시, 냉동', 3, 0,
         18.36, 0.0, 0.04, 111.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1385, '감, 감말랭이, 말린것', 3, 0,
         68.61, 1.94, 0.16, 111.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1386, '감, 곶감, 말린것', 3, 0,
         57.45, 1.93, 0.08, 111.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1387, '감 주스', 3, 0,
         11.0, 0.1, 0.1, 110.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1388, '구기자, 열매, 재래종, 생것', 3, 0,
         10.23, 4.5, 2.04, 112.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1389, '구아바, 생것', 3, 0,
         9.9, 0.6, 0.1, 130.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1390, '구아바, 넥타, 과육 20%', 3, 0,
         12.3, 0.1, 0.1, 103.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1391, '구아바 주스, 과즙 음료(10%)', 3, 0,
         12.3, 0.1, 0.1, 101.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1392, '구즈베리, 생것', 3, 0,
         13.2, 1.0, 0.1, 113.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1393, '귤, 만감류, 레드향, 생것', 3, 0,
         12.39, 0.59, 0.12, 110.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1394, '귤, 만감류, 신예감, 생것', 3, 0,
         8.2, 0.29, 0.41, 110.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1395, '귤, 만감류, 천혜향, 생것', 3, 0,
         10.56, 0.82, 0.08, 112.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1396, '귤, 만감류, 한라봉, 생것', 3, 0,
         12.8, 0.99, 0.11, 112.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1397, '귤, 만감류, 황금향, 생것', 3, 0,
         10.3, 0.4, 0.13, 109.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1398, '귤, 온주밀감, 생것', 3, 0,
         10.04, 0.53, 0.1, 110.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1399, '귤, 온주밀감, 궁천조생, 노지, 생것', 3, 0,
         10.16, 0.29, 0.16, 110.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1400, '귤, 온주밀감, 궁천조생, 하우스, 생것', 3, 0,
         10.78, 0.69, 0.09, 111.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1401, '귤, 온주밀감, 유라조생, 하우스, 생것', 3, 0,
         10.17, 0.55, 0.08, 111.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1402, '귤, 온주밀감, 일남1호, 생것', 3, 0,
         8.48, 0.49, 0.08, 110.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1403, '귤, 온주밀감, 하례조생, 노지, 생것', 3, 0,
         9.74, 0.4, 0.08, 111.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1404, '귤, 온주밀감, 하례조생, 하우스, 생것', 3, 0,
         11.18, 0.71, 0.14, 111.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1405, '귤, 온주밀감, 흥진조생, 생것', 3, 0,
         10.41, 0.48, 0.14, 112.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1406, '귤, 임온주, 생것', 3, 0,
         10.8, 1.0, 0.1, 111.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1407, '귤 주스', 3, 0,
         9.58, 0.46, 0.08, 110.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1408, '귤, 잼', 3, 0,
         71.51, 0.62, 0.08, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1409, '귤, 통조림', 3, 0,
         13.61, 0.52, 0.17, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1410, '금귤, 생것', 3, 0,
         18.77, 1.19, 0.13, 111.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1411, '꾸지뽕, 열매, 생것', 3, 0,
         13.82, 1.74, 2.16, 110.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1412, '다래, 생것', 3, 0,
         16.2, 1.6, 0.4, 111.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1413, '대추, 생것', 3, 0,
         27.56, 1.45, 0.1, 111.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1414, '대추, 말린것', 3, 0,
         72.57, 3.73, 0.25, 111.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1415, '대추야자, 말린것', 3, 0,
         71.3, 2.2, 0.2, 105.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1416, '두리안, 생것', 3, 0,
         27.1, 2.3, 3.3, 105.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1417, '딸기, 개량종, 생것', 3, 0,
         8.9, 0.8, 0.2, 112.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1418, '딸기, 설향, 생것', 3, 0,
         8.5, 0.7, 0.07, 110.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1419, '딸기, 재래종, 생것', 3, 0,
         7.2, 0.8, 0.1, 113.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1420, '딸기, 말린것', 3, 0,
         82.8, 0.5, 0.2, 101.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1421, '딸기, 잼', 3, 0,
         70.45, 0.51, 0.09, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1422, '라임, 생것', 3, 0,
         10.54, 0.7, 0.2, 155.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1423, '라임 주스, 천연과즙', 3, 0,
         8.42, 0.42, 0.07, 144.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1424, '라임 주스, 캔', 3, 0,
         6.69, 0.25, 0.23, 142.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1425, '라즈베리, 생것', 3, 0,
         11.94, 1.2, 0.65, 112.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1426, '라즈베리, 냉동', 3, 0,
         12.55, 1.15, 0.81, 110.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1427, '람부탄, 통조림', 3, 0,
         20.87, 0.65, 0.21, 107.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1428, '레몬, 생것', 3, 0,
         9.27, 0.71, 0.08, 112.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1429, '레몬 과즙', 3, 0,
         8.6, 0.4, 0.2, 157.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1430, '롱안, 생것', 3, 0,
         15.14, 1.31, 0.1, 111.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1431, '롱안, 말린것', 3, 0,
         74.0, 4.9, 0.4, 111.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1432, '리치, 생것', 3, 0,
         16.4, 1.0, 0.1, 115.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1433, '리치, 냉동', 3, 0,
         14.47, 0.85, 0.08, 110.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1435, '망고, 생것', 3, 0,
         15.36, 0.73, 0.12, 110.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1436, '망고 음료', 3, 0,
         7.71, 0.04, 0.01, 111.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1437, '망고, 애플망고, 생것', 3, 0,
         13.27, 0.65, 0.2, 110.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1438, '망고스틴, 생것', 3, 0,
         17.5, 0.6, 0.2, 104.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1439, '매실, 생것', 3, 0,
         7.8, 1.1, 1.1, 111.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1440, '매실, 남고, 생것', 3, 0,
         6.24, 0.94, 0.77, 137.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1441, '매실, 선암매, 생것', 3, 0,
         8.0, 1.2, 0.7, 110.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1442, '매실, 천매, 생것', 3, 0,
         8.1, 0.7, 0.6, 109.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1443, '매실청', 3, 0,
         52.72, 0.23, 0.18, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1444, '매실 절임, 당절임, 고형물', 3, 0,
         51.08, 1.86, 0.52, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1445, '매실 절임, 염절임, 고형물', 3, 0,
         8.6, 0.9, 0.7, 152.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1446, '머루, 생것, 껍질과 씨 포함', 3, 0,
         18.32, 1.51, 0.94, 111.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1447, '머루, 개량머루, 생것, 껍질과 씨 포함 ', 3, 0,
         17.27, 1.6, 1.83, 110.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1448, '머루, 머스켓베일리에이, 생것', 3, 0,
         18.96, 0.34, 0.75, 110.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1449, '머루, 왕머루, 생것, 껍질과 씨 포함', 3, 0,
         19.67, 1.58, 1.27, 110.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1450, '머루 주스', 3, 0,
         21.8, 0.3, 0.2, 111.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1451, '멜론, 감로, 생것', 3, 0,
         5.1, 0.5, 0.1, 111.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1452, '멜론, 머스크, 생것', 3, 0,
         9.64, 1.5, 0.04, 112.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1453, '멜론, 화이트, 생것', 3, 0,
         9.6, 0.7, 0.1, 110.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1454, '모과, 생것', 3, 0,
         20.0, 0.7, 0.4, 110.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1456, '무화과, 승정도후인, 생것', 3, 0,
         12.12, 0.79, 0.15, 112.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1457, '무화과, 봉래시, 생것', 3, 0,
         11.6, 0.76, 0.11, 112.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1458, '무화과, 수입산, 말린것', 3, 0,
         77.22, 4.75, 3.01, 111.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1459, '무화과, 승정도후인, 말린것', 3, 0,
         63.6, 5.1, 0.9, 111.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1460, '무화과, 통조림', 3, 0,
         19.4, 0.5, 0.1, 103.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1461, '바나나, 생것', 3, 0,
         20.0, 1.11, 0.2, 112.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1462, '바나나, 말린것', 3, 0,
         78.5, 3.8, 0.4, 106.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1463, '바나나칩, 튀긴것', 3, 0,
         69.32, 2.07, 25.67, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1464, '배, 생것', 3, 0,
         12.24, 0.29, 0.04, 112.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1465, '배, 돌배, 생것', 3, 0,
         12.3, 0.3, 0.1, 111.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1466, '배, 돌배, 생것, 껍질 포함', 3, 0,
         12.8, 0.4, 0.1, 111.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1467, '배, 만풍, 생것', 3, 0,
         11.98, 0.26, 0.04, 112.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1468, '배, 백운배, 생것', 3, 0,
         10.4, 0.3, 0.1, 112.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1469, '배, 신고, 생것', 3, 0,
         12.4, 0.3, 0.04, 111.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1470, '배, 원황, 생것', 3, 0,
         12.34, 0.29, 0.04, 110.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1471, '배, 장심랑, 생것', 3, 0,
         8.6, 0.4, 0.3, 110.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1472, '배, 수입산, 생것', 3, 0,
         12.7, 0.2, 0.1, 107.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1473, '배즙', 3, 0,
         10.33, 0.23, 0.0, 111.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1474, '배 음료, 캔', 3, 0,
         11.76, 0.0, 0.0, 112.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1475, '백향과(패션프루트), 생것, 씨 포함', 3, 0,
         22.58, 1.68, 1.55, 111.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1476, '백향과(패션프루트) 주스, 천연과즙', 3, 0,
         16.2, 0.8, 0.4, 106.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1477, '백향과(패션프루트) 주스, 황색과육', 3, 0,
         14.45, 0.67, 0.18, 103.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1478, '백향과(패션프루트) 주스, 자색과육', 3, 0,
         13.6, 0.39, 0.05, 110.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1479, '버찌, 생것', 3, 0,
         14.9, 1.7, 0.1, 112.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1484, '복분자, 생것', 3, 0,
         17.96, 1.52, 2.2, 111.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1485, '복숭아, 미숙, 생것', 3, 0,
         10.0, 1.8, 0.7, 111.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1486, '복숭아, 백도, 생것', 3, 0,
         13.1, 0.59, 0.04, 112.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1487, '복숭아, 백도, 통조림', 3, 0,
         16.04, 0.28, 0.03, 99.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1488, '복숭아, 백도, 통조림, 고형물 ', 3, 0,
         16.51, 0.38, 0.05, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1489, '복숭아, 백도, 통조림, 액즙', 3, 0,
         15.59, 0.19, 0.0, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1490, '복숭아, 천도, 생것', 3, 0,
         7.85, 0.93, 0.05, 111.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1491, '복숭아, 천중도, 생것', 3, 0,
         11.18, 0.74, 0.79, 111.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1492, '복숭아, 황도, 생것', 3, 0,
         13.03, 0.4, 0.04, 110.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1493, '복숭아, 황도, 통조림', 3, 0,
         19.95, 0.31, 0.03, 100.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1494, '복숭아, 황도, 통조림, 고형물 ', 3, 0,
         20.29, 0.44, 0.05, 100.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1495, '복숭아, 황도, 통조림, 액즙', 3, 0,
         19.62, 0.19, 0.0, 100.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1496, '복숭아, 당절임', 3, 0,
         75.0, 2.6, 0.1, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1497, '복숭아, 넥타', 3, 0,
         13.02, 0.29, 0.03, 99.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1498, '복숭아, 잼', 3, 0,
         51.98, 0.66, 0.03, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1499, '블랙베리, 생것', 3, 0,
         8.69, 0.67, 1.13, 110.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1500, '블랙커런트, 생것', 3, 0,
         15.38, 1.4, 0.41, 112.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1501, '블루베리, 생것', 3, 0,
         11.11, 0.5, 0.12, 110.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1502, '블루베리, 말린것', 3, 0,
         83.57, 4.45, 1.11, 111.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1503, '블루베리, 냉동', 3, 0,
         10.07, 0.81, 0.26, 111.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1504, '블루베리, 잼', 3, 0,
         70.22, 0.21, 0.11, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1505, '블루베리, 통조림', 3, 0,
         22.06, 0.65, 0.33, 106.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1506, '비파, 생것', 3, 0,
         11.95, 0.29, 0.2, 112.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1507, '비파, 통조림', 3, 0,
         19.8, 0.3, 0.1, 101.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1508, '사과, 생것', 3, 0,
         13.96, 0.26, 0.07, 110.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1509, '사과, 부사, 생것', 3, 0,
         14.28, 0.2, 0.07, 110.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1510, '사과, 홍옥, 생것', 3, 0,
         15.16, 0.21, 0.04, 106.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1511, '사과, 아오리, 생것', 3, 0,
         14.16, 0.27, 0.04, 111.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1512, '사과, 아오리, 생것, 껍질 포함', 3, 0,
         13.36, 0.3, 0.03, 112.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1515, '사과, 잼', 3, 0,
         61.9, 0.18, 0.09, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1516, '사과, 통조림', 3, 0,
         15.1, 0.7, 0.3, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1517, '사과 음료', 3, 0,
         9.36, 0.03, 0.0, 98.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1518, '사과 주스', 3, 0,
         11.45, 0.17, 0.01, 110.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1519, '산딸기, 생것', 3, 0,
         13.55, 1.35, 0.22, 112.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1520, '산수유, 열매, 생것', 3, 0,
         23.83, 0.87, 2.82, 110.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1521, '산수유, 과육, 말린것', 3, 0,
         76.6, 3.6, 0.5, 111.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1522, '살구, 생것', 3, 0,
         7.12, 1.2, 0.05, 112.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1523, '살구, 말린것', 3, 0,
         68.32, 2.97, 0.24, 111.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1524, '살구, 통조림', 3, 0,
         12.34, 0.63, 0.04, 108.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1525, '살구, 넥타', 3, 0,
         9.9, 0.2, 0.1, 100.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1526, '살구, 잼', 3, 0,
         75.36, 0.46, 0.03, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1527, '석류, 생것', 3, 0,
         20.71, 0.29, 0.2, 111.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1528, '소귀나무 열매, 생것', 3, 0,
         4.6, 0.8, 0.6, 112.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1529, '수박, 적육질, 생것', 3, 0,
         7.83, 0.79, 0.05, 112.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1530, '수박, 황육질, 생것', 3, 0,
         9.26, 0.65, 0.05, 111.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1531, '애플수박, S0비너스, 생것', 3, 0,
         8.39, 0.94, 0.81, 111.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1532, '산자나무 열매(씨벅톤), 생것', 3, 0,
         9.7, 1.0, 3.8, 110.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1533, '아떼모야, 생것', 3, 0,
         19.0, 1.2, 0.1, 111.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1534, '아로니아, 네로, 생것', 3, 0,
         15.41, 0.82, 0.21, 111.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1535, '아로니아, 바이킹, 냉동', 3, 0,
         17.45, 1.08, 0.23, 112.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1536, '아보카도, 생것', 3, 0,
         8.53, 2.0, 14.66, 108.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1537, '아세로라, 감미종, 생것', 3, 0,
         9.0, 0.7, 0.1, 110.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1538, '아세로라 주스, 과즙 음료(10%)', 3, 0,
         10.5, 0.1, 0.0, 101.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1539, '앵두, 생것', 3, 0,
         15.2, 1.1, 0.3, 111.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1540, '엘더베리, 생것', 3, 0,
         18.4, 0.66, 0.5, 110.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1541, '오디, 생것', 3, 0,
         14.0, 0.8, 0.4, 112.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1542, '오디, 재래종, 생것', 3, 0,
         12.0, 2.6, 0.3, 113.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1543, '오렌지, 생것', 3, 0,
         11.86, 1.15, 0.11, 112.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1544, '오렌지, 발렌시아, 생것', 3, 0,
         11.91, 1.37, 0.05, 111.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1545, '오렌지 마멀레이드', 3, 0,
         66.3, 0.3, 0.0, 108.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1546, '오렌지 주스', 3, 0,
         9.49, 0.58, 0.04, 112.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1547, '오렌지 음료, 캔', 3, 0,
         11.4, 0.06, 0.01, 112.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1548, '오렴자(카람볼라), 생것', 3, 0,
         7.5, 0.7, 0.1, 112.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1549, '오미자, 생것', 3, 0,
         12.8, 2.1, 3.3, 110.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1550, '오미자, 말린것', 3, 0,
         61.3, 8.5, 13.5, 110.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1551, '오미자청', 3, 0,
         55.87, 0.14, 0.26, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1552, '올리브 절임, 미숙, 초록색', 3, 0,
         5.34, 1.09, 12.36, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1553, '올리브 절임, 완숙, 검은색', 3, 0,
         3.4, 0.8, 12.3, 105.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1554, '용과, 백육종, 생것', 3, 0,
         10.3, 1.0, 0.4, 110.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1555, '용과, 적육종, 생것', 3, 0,
         11.2, 0.9, 0.2, 111.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1556, '용과, 황색종, 생것', 3, 0,
         13.9, 1.0, 0.1, 112.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1557, '유자, 전체, 생것', 3, 0,
         12.59, 0.93, 0.09, 112.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1558, '유자, 과육, 생것', 3, 0,
         10.32, 0.87, 0.06, 110.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1559, '유자, 껍질, 생것', 3, 0,
         14.22, 1.02, 0.09, 112.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1560, '으름, 생것', 3, 0,
         11.9, 2.0, 12.9, 108.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1561, '자두, 생것', 3, 0,
         5.3, 0.5, 0.6, 110.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1562, '자두, 대석, 생것', 3, 0,
         8.4, 0.6, 0.0, 112.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1563, '자두, 후무사, 생것', 3, 0,
         11.47, 0.64, 0.05, 111.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1564, '자두, 말린것', 3, 0,
         63.88, 2.18, 0.38, 111.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1565, '자몽(그레이프프루트), 생것', 3, 0,
         7.92, 0.84, 0.05, 110.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1566, '자몽(그레이프프루트) 주스, 가당, 캔', 3, 0,
         11.13, 0.58, 0.09, 103.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1567, '자몽(그레이프프루트) 주스, 무가당, 캔', 3, 0,
         7.54, 0.55, 0.66, 103.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1568, '잭프루트, 생것', 3, 0,
         23.25, 1.72, 0.64, 111.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1569, '잭프루트, 통조림', 3, 0,
         23.94, 0.36, 0.14, 107.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1570, '참외, 생것, 씨 제거', 3, 0,
         11.23, 1.33, 0.04, 112.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1571, '참외, 생것, 씨 포함', 3, 0,
         11.67, 1.19, 0.29, 112.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1573, '체리, 생것', 3, 0,
         14.35, 1.36, 0.15, 112.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1574, '체리, 통조림, 고형물', 3, 0,
         33.21, 0.18, 0.02, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1575, '체리, 통조림, 액즙', 3, 0,
         34.11, 0.02, 0.0, 99.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1576, '크랜베리, 생것', 3, 0,
         11.97, 0.46, 0.13, 110.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1577, '크랜베리, 말린것, 가당', 3, 0,
         85.73, 0.25, 0.58, 111.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1578, '크랜베리 주스', 3, 0,
         12.2, 0.39, 0.13, 112.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1579, '크랜베리 주스, 칵테일', 3, 0,
         13.52, 0.0, 0.1, 101.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1580, '키위, 골드, 생것', 3, 0,
         13.73, 0.77, 0.26, 111.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1581, '키위, 그린, 생것', 3, 0,
         16.08, 0.93, 0.63, 111.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1582, '키위 주스', 3, 0,
         49.68, 0.25, 0.0, 111.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1583, '탱자, 생것', 3, 0,
         18.5, 1.3, 1.5, 110.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1584, '파인애플, 생것', 3, 0,
         14.32, 0.46, 0.04, 112.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1585, '파인애플, 통조림, 고형물', 3, 0,
         19.18, 0.31, 0.04, 100.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1586, '파인애플, 통조림, 액즙', 3, 0,
         18.81, 0.13, 0.0, 99.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1587, '파인애플, 넥타', 3, 0,
         17.4, 0.3, 0.0, 99.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1588, '파인애플 주스', 3, 0,
         11.52, 0.39, 0.03, 111.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1589, '파인애플 주스, 캔', 3, 0,
         12.87, 0.36, 0.12, 101.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1590, '파파야, 미숙, 생것', 3, 0,
         5.95, 0.45, 0.05, 113.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1591, '파파야, 완숙, 생것', 3, 0,
         10.24, 0.7, 0.08, 111.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1592, '포도, 거봉, 생것', 3, 0,
         15.73, 0.4, 0.27, 111.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1593, '포도, 거봉, 생것, 껍질 포함', 3, 0,
         18.25, 0.59, 0.05, 111.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1594, '포도, 나르샤, 생것, 껍질 포함', 3, 0,
         15.18, 0.55, 0.22, 111.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1595, '포도, 델라웨어, 생것', 3, 0,
         17.9, 0.6, 0.1, 111.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1596, '포도, 두누리, 생것', 3, 0,
         14.82, 0.44, 0.25, 111.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1597, '포도, 레드글로브, 생것, 껍질 포함', 3, 0,
         14.91, 0.4, 0.24, 111.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1598, '포도, 마스캇함브르그, 생것', 3, 0,
         17.3, 0.5, 0.2, 110.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1599, '포도, 새마루, 생것', 3, 0,
         14.28, 0.46, 0.15, 111.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1600, '포도, 샤이니스타, 생것', 3, 0,
         20.2, 0.49, 0.22, 111.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1601, '포도, 샤인머스캣, 생것, 껍질 포함', 3, 0,
         17.66, 0.38, 0.1, 110.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1602, '포도, 세레단, 생것', 3, 0,
         15.4, 0.6, 0.1, 111.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1603, '포도, 수옥, 생것', 3, 0,
         18.5, 0.2, 0.18, 110.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1604, '포도, 스텔라, 생것, 껍질 포함', 3, 0,
         12.75, 0.7, 0.16, 110.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1605, '포도, 진옥, 생것', 3, 0,
         13.88, 0.45, 0.08, 111.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1606, '포도, 청수, 생것', 3, 0,
         17.48, 0.33, 0.07, 110.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1607, '포도, 캠벨얼리, 생것', 3, 0,
         15.08, 0.5, 0.1, 110.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1608, '포도, 캠벨얼리, 생것, 껍질 포함', 3, 0,
         13.59, 0.61, 0.05, 112.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1609, '포도, 캠벨얼리, 생것, 껍질과 씨 포함', 3, 0,
         15.01, 0.71, 0.13, 110.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1610, '포도, 탄금추, 생것', 3, 0,
         13.13, 0.35, 0.15, 110.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1611, '포도, 탐나라, 생것', 3, 0,
         13.14, 0.4, 0.06, 111.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1612, '포도, 홍단, 생것', 3, 0,
         15.75, 0.37, 0.13, 111.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1613, '포도, 홍아람, 생것', 3, 0,
         15.4, 0.39, 0.09, 112.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1614, '포도, 홍이슬, 생것', 3, 0,
         14.16, 0.31, 0.06, 110.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1615, '포도, 홍주씨들레스, 생것, 껍질 포함', 3, 0,
         18.11, 0.29, 0.17, 110.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1616, '포도, 흑구슬, 생것', 3, 0,
         15.68, 0.27, 0.6, 111.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1617, '포도, 흑보석, 생것', 3, 0,
         13.9, 0.3, 0.15, 111.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1618, '포도, 힘로드시드레스, 생것', 3, 0,
         12.63, 0.41, 0.03, 111.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1619, '포도, 힘로드시드레스, 생것, 껍질 포함', 3, 0,
         12.1, 0.42, 0.03, 111.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1620, '포도, 건포도', 3, 0,
         78.89, 2.64, 0.53, 111.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1621, '포도, 넥타', 3, 0,
         16.2, 0.2, 0.0, 99.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1622, '포도, 잼', 3, 0,
         72.6, 0.28, 0.03, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1623, '포도, 통조림', 3, 0,
         17.12, 0.14, 0.02, 100.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1624, '포도 주스', 3, 0,
         13.49, 0.23, 0.0, 112.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1625, '포도즙', 3, 0,
         12.62, 0.66, 0.01, 110.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1626, '플럼코트, 생것', 3, 0,
         9.97, 0.61, 1.05, 110.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1627, '프루트샐러드, 통조림', 3, 0,
         19.3, 0.2, 0.4, 99.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1628, '프루트칵테일, 통조림', 3, 0,
         18.52, 0.19, 0.03, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1629, '프루트펀치, 통조림', 3, 0,
         11.97, 0.0, 0.0, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2959, '레모네이드', 3, 0,
         9.56, 0.0, 0.0, 100.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2960, '매실 음료', 3, 0,
         11.02, 0.06, 0.01, 100.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2961, '셰이크, 딸기맛', 3, 0,
         18.9, 3.4, 2.8, 101.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2962, '셰이크, 바닐라맛', 3, 0,
         19.59, 3.37, 6.52, 101.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2963, '셰이크, 초콜릿맛', 3, 0,
         21.15, 3.05, 2.7, 101.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2964, '식혜, 캔', 3, 0,
         7.91, 0.06, 0.0, 99.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2965, '쌀 음료', 3, 0,
         11.52, 0.14, 0.9, 99.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2966, '이온 음료, 레몬향', 3, 0,
         9.16, 0.0, 0.0, 99.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2967, '젖산 음료, 복숭아맛', 3, 0,
         8.85, 0.21, 0.01, 100.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2968, '채소 주스', 3, 0,
         8.66, 0.86, 0.05, 98.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2969, '채소 주스, 녹즙', 3, 0,
         5.67, 0.99, 0.11, 98.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2970, '탄산 음료, 레몬소다', 3, 0,
         10.88, 0.0, 0.0, 98.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2971, '탄산 음료, 보리소다', 3, 0,
         11.77, 0.0, 0.0, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2972, '탄산 음료, 사이다', 3, 0,
         9.98, 0.0, 0.0, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2973, '탄산 음료, 소다수', 3, 0,
         0.0, 0.0, 0.0, 1.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2974, '탄산 음료, 오렌지소다', 3, 0,
         12.08, 0.0, 0.0, 100.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2975, '탄산 음료, 요구르트소다', 3, 0,
         11.74, 0.0, 0.0, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2976, '탄산 음료, 저칼로리콜라', 3, 0,
         0.29, 0.11, 0.03, 93.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2977, '탄산 음료, 진저에일', 3, 0,
         8.76, 0.0, 0.0, 103.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2978, '탄산 음료, 콜라', 3, 0,
         9.46, 0.0, 0.0, 99.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2979, '탄산 음료, 파인애플소다', 3, 0,
         11.3, 0.0, 0.1, 102.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2980, '탄산 음료, 포도소다', 3, 0,
         13.07, 0.0, 0.0, 100.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2981, '혼합 음료, 비타민C 함유', 3, 0,
         13.89, 0.0, 0.01, 99.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2982, '토닉워터', 3, 0,
         8.8, 0.0, 0.0, 103.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3306, '귤 음료', 3, 0,
         8.84, 0.21, 0.05, 99.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3307, '사과, 감홍, 생것', 3, 0,
         13.74, 0.34, 0.08, 111.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3308, '사과, 양광, 생것', 3, 0,
         12.68, 0.29, 0.1, 112.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3309, '사과, 동결건조', 3, 0,
         85.87, 1.86, 1.94, 111.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3310, '오렌지, 네블, 생것', 3, 0,
         11.81, 0.92, 0.16, 111.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3311, '포도 음료', 3, 0,
         7.31, 0.05, 0.0, 101.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3342, '유자차', 3, 0,
         7.51, 0.04, 0.01, 101.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         549, '대두, 검은색, 서리태, 말린것', 2, 0,
         30.45, 38.68, 15.86, 101.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         550, '대두, 검은색, 서리태, 삶은것', 2, 0,
         11.39, 19.02, 8.75, 102.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         551, '대두, 검은색, 서리태, 볶은것', 2, 0,
         31.27, 41.72, 16.72, 101.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         552, '대두, 검은색, 청자3호, 말린것', 2, 0,
         37.84, 34.6, 12.6, 101.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         553, '대두, 검은색, 청자3호, 볶은것', 2, 0,
         36.7, 37.4, 18.1, 101.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         554, '대두, 검은색, 흑태, 말린것', 2, 0,
         32.45, 36.1, 15.37, 101.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         555, '대두, 검은색, 흑태, 삶은것', 2, 0,
         12.4, 17.87, 9.05, 101.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         556, '대두, 검은색, 흑태, 볶은것', 2, 0,
         33.31, 40.99, 17.31, 101.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         557, '대두, 노란색, 말린것', 2, 0,
         32.99, 36.21, 14.71, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         558, '대두, 노란색, 삶은것', 2, 0,
         12.02, 17.82, 9.5, 101.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         559, '대두, 노란색, 볶은것', 2, 0,
         33.57, 40.47, 17.21, 101.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         560, '대두, 노란색, 대풍, 말린것', 2, 0,
         36.94, 34.36, 13.83, 101.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         561, '대두, 노란색, 대풍, 볶은것', 2, 0,
         37.3, 35.8, 19.5, 101.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         562, '대두, 노란색, 미국산, 말린것', 2, 0,
         39.6, 33.9, 16.0, 101.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         563, '대두, 노란색, 중국산, 말린것', 2, 0,
         39.2, 32.7, 16.9, 101.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         564, '대두, 콩가루', 2, 0,
         32.3, 37.0, 20.9, 109.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         565, '두부', 2, 0,
         3.75, 9.62, 4.63, 98.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         566, '두부, 동두부, 동결건조', 2, 0,
         4.2, 50.5, 34.1, 106.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         567, '두부, 순두부', 2, 0,
         0.69, 6.85, 1.35, 96.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         568, '두부, 연두부', 2, 0,
         1.93, 4.66, 2.51, 97.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         569, '두부, 유부', 2, 0,
         7.93, 26.11, 34.23, 98.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         571, '두유, 대두', 2, 0,
         3.42, 3.01, 3.92, 98.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         574, '두유, 콩국물, 소금 0.3%', 2, 0,
         3.74, 4.84, 2.57, 100.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         585, '밤콩, 갈색, 말린것', 2, 0,
         30.6, 35.0, 17.2, 101.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         595, '쥐눈이콩(검정소립콩), 말린것', 2, 0,
         30.59, 37.32, 14.61, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         596, '쥐눈이콩(검정소립콩), 삶은것', 2, 0,
         12.71, 17.99, 6.79, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         597, '쥐눈이콩(검정소립콩), 볶은것', 2, 0,
         31.73, 42.31, 16.71, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         673, '잣두부', 2, 0,
         4.0, 7.5, 4.3, 108.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1631, '거위고기, 살코기, 생것', 2, 0,
         0.0, 22.75, 7.13, 96.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1632, '거위고기, 살코기, 구운것', 2, 0,
         0.0, 28.97, 12.67, 96.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1633, '거위 부산물, 간, 생것', 2, 0,
         6.32, 16.37, 4.28, 97.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1634, '고래고기, 생것', 2, 0,
         0.0, 26.5, 0.5, 99.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1637, '고래고기, 붉은살, 냉동', 2, 0,
         0.0, 23.5, 3.5, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1641, '꿩고기, 숫꿩, 생것', 2, 0,
         0.0, 27.5, 0.8, 94.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1642, '꿩고기, 암꿩, 생것', 2, 0,
         0.0, 27.2, 0.6, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1643, '닭고기, 살코기, 생것', 2, 0,
         0.1, 24.0, 1.4, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1644, '닭고기, 살코기, 삶은것', 2, 0,
         0.1, 27.8, 2.6, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1645, '닭고기, 구운것', 2, 0,
         2.8, 27.8, 12.6, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1646, '닭고기, 살코기, 튀긴것(튀김옷)', 2, 0,
         9.42, 22.54, 17.35, 98.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1647, '닭고기, 전체, 튀긴것', 2, 0,
         6.1, 23.9, 17.1, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1648, '닭고기, 가슴, 생것', 2, 0,
         0.0, 22.97, 0.97, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1649, '닭고기, 가슴, 삶은것', 2, 0,
         0.0, 28.09, 0.93, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1650, '닭고기, 가슴, 구운것(팬)', 2, 0,
         0.0, 35.47, 1.48, 94.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1651, '닭고기, 가슴, 튀긴것(튀김옷)', 2, 0,
         20.2, 21.0, 9.7, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1652, '닭고기, 날개, 생것', 2, 0,
         0.0, 18.78, 10.53, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1653, '닭고기, 날개, 삶은것', 2, 0,
         0.0, 25.1, 13.54, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1654, '닭고기, 날개, 구운것(오븐)', 2, 0,
         0.0, 26.36, 14.08, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1655, '닭고기, 날개, 튀긴것(튀김옷)', 2, 0,
         10.94, 19.87, 21.81, 98.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1656, '닭고기, 다리(넓적다리), 생것', 2, 0,
         0.0, 18.59, 11.83, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1657, '닭고기, 다리(넓적다리), 삶은것', 2, 0,
         0.0, 25.14, 13.18, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1658, '닭고기, 다리(넓적다리), 구운것(팬)', 2, 0,
         0.0, 26.33, 13.53, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1659, '닭고기, 다리(넓적다리), 튀긴것(튀김옷)', 2, 0,
         9.08, 21.61, 16.53, 98.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1660, '닭고기, 다리(아랫다리), 생것', 2, 0,
         0.0, 19.41, 7.67, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1661, '닭고기, 다리(아랫다리), 삶은것', 2, 0,
         0.0, 24.34, 9.17, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1662, '닭고기, 다리(아랫다리), 구운것(오븐)', 2, 0,
         0.0, 28.88, 9.92, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1663, '닭고기, 다리(아랫다리), 튀긴것(튀김옷)', 2, 0,
         8.28, 21.95, 15.75, 98.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1664, '닭고기, 목, 생것', 2, 0,
         0.0, 15.05, 29.58, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1665, '닭고기, 목, 튀긴것(튀김옷)', 2, 0,
         8.7, 19.82, 23.52, 98.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1666, '닭고기, 성계, 생것', 2, 0,
         0.1, 19.0, 10.6, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1667, '닭고기, 영계, 삶은것', 2, 0,
         0.0, 26.1, 15.0, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1668, '닭고기, 오골계, 생것', 2, 0,
         0.1, 19.0, 6.1, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1669, '닭고기, 토종, 생것', 2, 0,
         0.2, 22.0, 2.6, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1670, '닭고기, 토종, 살코기', 2, 0,
         2.8, 20.0, 1.3, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1671, '닭고기, 토종, 껍질', 2, 0,
         0.0, 12.6, 31.6, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1672, '닭고기, 토종, 가슴', 2, 0,
         0.5, 23.1, 0.7, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1673, '닭고기, 토종, 날개', 2, 0,
         0.8, 20.4, 3.5, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1674, '닭고기, 토종, 다리', 2, 0,
         0.9, 18.9, 4.9, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1675, '닭 부산물, 간, 생것', 2, 0,
         2.25, 15.63, 5.32, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1676, '닭 부산물, 간, 삶은것', 2, 0,
         1.0, 22.45, 7.04, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1677, '닭 부산물, 모래주머니, 생것', 2, 0,
         0.0, 16.87, 1.41, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1678, '닭 부산물, 모래주머니, 구운것(오븐)', 2, 0,
         0.0, 26.78, 2.0, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1679, '닭 부산물, 심장, 생것', 2, 0,
         0.0, 13.98, 9.61, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1680, '닭 부산물, 심장, 삶은것', 2, 0,
         0.0, 23.25, 8.54, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1681, '닭 부산물, 닭발, 삶은것', 2, 0,
         0.0, 16.94, 12.75, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1682, '닭 육수', 2, 0,
         0.0, 1.3, 0.7, 95.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1683, '닭뼈 육수', 2, 0,
         0.0, 0.9, 0.4, 102.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1684, '닭꼬치', 2, 0,
         19.1, 16.5, 12.2, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1685, '돼지고기, 살코기, 생것', 2, 0,
         0.0, 19.45, 12.84, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1686, '돼지고기, 갈비, 생것', 2, 0,
         0.0, 17.77, 17.06, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1687, '돼지고기, 갈비, 삶은것', 2, 0,
         0.0, 26.51, 19.54, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1688, '돼지고기, 갈비, 구운것(팬)', 2, 0,
         0.0, 24.83, 17.59, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1689, '돼지고기, 뒷다리, 생것', 2, 0,
         0.0, 20.88, 4.97, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1690, '돼지고기, 뒷다리, 삶은것', 2, 0,
         0.0, 30.63, 8.7, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1691, '돼지고기, 뒷다리, 구운것(팬)', 2, 0,
         0.0, 30.21, 8.93, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1692, '돼지고기, 뒷다리(도가니살), 생것', 2, 0,
         0.0, 21.29, 4.23, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1693, '돼지고기, 뒷다리(뒷사태살), 생것', 2, 0,
         0.0, 20.51, 5.11, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1694, '돼지고기, 뒷다리(보섭살), 생것', 2, 0,
         0.0, 21.13, 5.14, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1695, '돼지고기, 뒷다리(볼기살), 생것', 2, 0,
         0.0, 20.79, 4.81, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1696, '돼지고기, 뒷다리(설깃살), 생것', 2, 0,
         0.0, 20.9, 5.39, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1697, '돼지고기, 뒷다리(홍두깨살), 생것', 2, 0,
         0.0, 20.03, 5.44, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1698, '돼지고기, 등심, 생것', 2, 0,
         0.0, 23.33, 4.58, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1699, '돼지고기, 등심, 삶은것', 2, 0,
         0.0, 35.08, 5.94, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1700, '돼지고기, 등심, 구운것(팬)', 2, 0,
         0.0, 32.06, 5.18, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1701, '돼지고기, 등심(등심살), 생것', 2, 0,
         0.0, 24.03, 3.6, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1702, '돼지고기, 등심(등심덧살), 생것', 2, 0,
         0.0, 17.51, 13.74, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1703, '돼지고기, 등심(알등심살), 생것', 2, 0,
         0.0, 22.9, 5.13, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1704, '돼지고기, 목심, 생것', 2, 0,
         0.0, 17.21, 16.36, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1705, '돼지고기, 목심, 삶은것', 2, 0,
         0.0, 25.43, 18.56, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1706, '돼지고기, 목심, 구운것(팬)', 2, 0,
         0.0, 24.06, 17.23, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1707, '돼지고기, 사태, 생것', 2, 0,
         0.0, 19.78, 7.72, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1708, '돼지고기, 사태, 삶은것', 2, 0,
         0.0, 29.14, 8.46, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1709, '돼지고기, 사태, 구운것(팬)', 2, 0,
         0.0, 28.47, 9.74, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1710, '돼지고기, 삼겹살, 생것', 2, 0,
         0.0, 13.9, 33.31, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1711, '돼지고기, 삼겹살, 삶은것', 2, 0,
         0.0, 19.58, 36.64, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1712, '돼지고기, 삼겹살, 구운것(팬)', 2, 0,
         0.0, 22.78, 41.2, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1713, '돼지고기, 삼겹살(갈매기살), 생것', 2, 0,
         0.0, 17.92, 12.16, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1714, '돼지고기, 삼겹살(등갈비), 생것', 2, 0,
         0.0, 17.88, 17.19, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1715, '돼지고기, 삼겹살(삼겹살), 생것', 2, 0,
         0.0, 13.27, 35.7, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1716, '돼지고기, 삼겹살(오돌삼겹), 생것', 2, 0,
         0.0, 17.12, 26.89, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1717, '돼지고기, 삼겹살(토시살), 생것', 2, 0,
         0.0, 20.46, 5.82, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1718, '돼지고기, 안심, 생것', 2, 0,
         0.0, 22.21, 3.15, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1719, '돼지고기, 안심, 삶은것', 2, 0,
         0.0, 32.32, 4.31, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1720, '돼지고기, 안심, 구운것(팬)', 2, 0,
         0.0, 30.23, 4.76, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1721, '돼지고기, 앞다리, 생것', 2, 0,
         0.0, 20.21, 7.87, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1722, '돼지고기, 앞다리(꾸리살), 생것', 2, 0,
         0.0, 18.83, 5.91, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1723, '돼지고기, 앞다리(부채살), 생것', 2, 0,
         0.0, 20.09, 7.18, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1724, '돼지고기, 앞다리(앞다리살), 생것', 2, 0,
         0.0, 20.56, 7.92, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1725, '돼지고기, 앞다리(앞사태살), 생것', 2, 0,
         0.0, 20.82, 4.68, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1726, '돼지고기, 앞다리(주걱살), 생것', 2, 0,
         0.0, 20.49, 6.13, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1727, '돼지고기, 앞다리(항정살), 생것', 2, 0,
         0.0, 17.98, 24.52, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1728, '돼지 부산물, 간, 생것', 2, 0,
         2.47, 21.39, 3.65, 95.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1729, '돼지 부산물, 간, 삶은것', 2, 0,
         2.41, 28.06, 4.8, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1730, '돼지 부산물, 대장, 생것', 2, 0,
         0.0, 8.7, 20.2, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1731, '돼지 부산물, 대장, 삶은것', 2, 0,
         0.0, 11.7, 13.8, 103.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1732, '돼지 부산물, 맹장, 생것', 2, 0,
         0.0, 10.8, 34.6, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1734, '돼지 부산물, 비장, 생것', 2, 0,
         0.0, 18.0, 1.0, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1735, '돼지 부산물, 소창(곱창), 생것', 2, 0,
         0.0, 7.64, 16.61, 98.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1736, '돼지 부산물, 소창(곱창), 삶은것', 2, 0,
         0.0, 15.48, 16.12, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1737, '돼지 부산물, 신장, 생것', 2, 0,
         1.2, 16.7, 3.7, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1738, '돼지 부산물, 신장, 삶은것', 2, 0,
         0.0, 25.4, 4.7, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1739, '돼지 부산물, 심장(염통), 생것', 2, 0,
         1.33, 17.27, 4.36, 96.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1740, '돼지 부산물, 심장(염통), 삶은것', 2, 0,
         0.0, 25.58, 7.04, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1741, '돼지 부산물, 위(오소리감투), 생것', 2, 0,
         0.0, 17.3, 4.1, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1742, '돼지 부산물, 위(오소리감투), 삶은것', 2, 0,
         0.0, 22.36, 8.62, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1743, '돼지 부산물, 자궁, 생것', 2, 0,
         0.0, 15.4, 0.8, 94.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1744, '돼지 부산물, 족발, 생것', 2, 0,
         0.0, 23.16, 12.59, 97.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1745, '돼지 부산물, 족발, 삶은것', 2, 0,
         0.0, 21.94, 16.05, 97.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1746, '돼지 부산물, 족발, 조미, 삶은것', 2, 0,
         0.0, 28.91, 11.65, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1747, '돼지 부산물, 직장, 생것', 2, 0,
         0.0, 9.9, 32.1, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1748, '돼지 부산물, 췌장, 생것', 2, 0,
         0.0, 20.7, 7.1, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1749, '돼지 부산물, 허파, 생것', 2, 0,
         0.0, 14.08, 2.72, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1750, '돼지 부산물, 허파, 삶은것', 2, 0,
         0.0, 15.56, 2.78, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1751, '베이컨', 2, 0,
         1.2, 16.58, 21.6, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1752, '베이컨, 구운것(팬)', 2, 0,
         3.02, 32.28, 26.67, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1753, '소시지, 말린것', 2, 0,
         2.6, 26.7, 42.0, 106.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1754, '소시지, 리용소시지', 2, 0,
         3.7, 14.9, 13.1, 102.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1755, '소시지, 볼로냐소시지', 2, 0,
         2.9, 12.5, 21.0, 103.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1756, '소시지, 위너(비엔나)소시지', 2, 0,
         9.36, 15.27, 16.91, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1757, '소시지, 이탈리안소시지', 2, 0,
         2.97, 13.9, 24.26, 98.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1758, '소시지, 프랑크푸르트소시지', 2, 0,
         5.9, 14.41, 17.7, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1759, '햄, 등심햄', 2, 0,
         1.97, 20.66, 3.34, 99.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1760, '햄, 런천미트햄', 2, 0,
         7.92, 15.43, 11.53, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1761, '햄, 본레스햄, 구운것', 2, 0,
         1.5, 20.93, 5.53, 96.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1762, '햄, 프레스햄', 2, 0,
         2.77, 15.11, 18.02, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1763, '햄, 프레스햄, 데친것', 2, 0,
         3.91, 15.92, 17.23, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1764, '햄, 프레스햄, 구운것(팬)', 2, 0,
         3.78, 16.2, 18.77, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1765, '햄, 슬라이스햄', 2, 0,
         2.3, 17.01, 12.82, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1766, '햄, 슬라이스햄, 데친것', 2, 0,
         3.94, 17.26, 13.14, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1767, '햄, 슬라이스햄, 구운것(팬)', 2, 0,
         4.05, 19.7, 15.43, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1768, '돼지불고기, 생것', 2, 0,
         2.4, 14.1, 6.9, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1769, '순대, 선지 비율 낮은것', 2, 0,
         32.28, 3.18, 3.96, 99.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1770, '순대, 선지 비율 높은것', 2, 0,
         11.65, 9.22, 7.37, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1771, '포크커틀릿, 냉동', 2, 0,
         21.0, 9.4, 18.2, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1772, '포크커틀릿, 냉동, 튀긴것(빵가루)', 2, 0,
         21.2, 16.6, 23.7, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1773, '말고기, 살코기, 생것', 2, 0,
         0.3, 20.1, 2.5, 102.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1774, '메추리고기, 생것', 2, 0,
         0.1, 20.5, 12.9, 102.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1775, '멧돼지고기, 생것', 2, 0,
         0.5, 18.8, 19.8, 102.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1776, '멧돼지고기, 앞다리, 생것', 2, 0,
         0.0, 21.5, 10.7, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1777, '소고기, 수입산, 갈비, 구운것(오븐)', 2, 0,
         0.0, 22.57, 33.7, 98.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1778, '소고기, 수입산, 목심(목심살), 생것', 2, 0,
         0.97, 16.98, 21.31, 98.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1779, '소고기, 수입산, 목심(목심살), 삶은것', 2, 0,
         0.0, 26.37, 27.26, 97.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1780, '소고기, 수입산, 사태, 끓인것', 2, 0,
         0.0, 33.68, 6.36, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1781, '소고기, 수입산, 설도, 구운것(석쇠)', 2, 0,
         0.0, 28.45, 4.67, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1782, '소고기, 수입산, 안심(안심살), 구운것', 2, 0,
         0.0, 26.46, 17.12, 97.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1783, '소고기, 한우, 갈비, 생것', 2, 0,
         1.9, 16.5, 24.4, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1784, '소고기, 한우, 등심, 생것', 2, 0,
         0.0, 15.61, 26.3, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1785, '소고기, 한우, 등심, 삶은것', 2, 0,
         0.0, 25.2, 26.63, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1786, '소고기, 한우, 등심, 구운것(팬)', 2, 0,
         0.0, 18.9, 33.99, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1787, '소고기, 한우, 양지, 생것', 2, 0,
         0.0, 18.58, 18.59, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1788, '소고기, 한우, 양지, 삶은것', 2, 0,
         0.0, 33.09, 14.05, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1789, '소고기, 한우, 양지, 구운것(팬)', 2, 0,
         0.0, 25.6, 21.32, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1790, '소고기, 한우, 채끝, 생것', 2, 0,
         0.2, 17.1, 5.6, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1791, '소고기, 한우(1++등급), 살코기, 생것', 2, 0,
         0.0, 17.88, 20.6, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1792, '소고기, 한우(1++등급), 갈비, 생것', 2, 0,
         0.0, 13.86, 36.93, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1793, '소고기, 한우(1++등급), 갈비(꽃갈비), 생것', 2, 0,
         0.0, 12.62, 39.35, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1794, '소고기, 한우(1++등급), 갈비(본갈비), 생것', 2, 0,
         0.0, 14.64, 33.38, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1795, '소고기, 한우(1++등급), 갈비(안창살), 생것', 2, 0,
         0.0, 14.57, 26.73, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1796, '소고기, 한우(1++등급), 갈비(제비추리), 생것', 2, 0,
         0.0, 20.04, 12.49, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1797, '소고기, 한우(1++등급), 갈비(참갈비), 생것', 2, 0,
         0.0, 12.17, 38.65, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1798, '소고기, 한우(1++등급), 갈비(토시살), 생것', 2, 0,
         0.0, 16.46, 21.62, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1799, '소고기, 한우(1++등급), 등심, 생것', 2, 0,
         0.0, 15.76, 30.03, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1800, '소고기, 한우(1++등급), 등심(꽃등심살), 생것', 2, 0,
         0.0, 15.44, 31.86, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1801, '소고기, 한우(1++등급), 등심(살치살), 생것', 2, 0,
         0.0, 14.73, 31.96, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1802, '소고기, 한우(1++등급), 등심(아래등심살), 생것', 2, 0,
         0.0, 16.23, 29.73, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1803, '소고기, 한우(1++등급), 등심(윗등심살), 생것', 2, 0,
         0.0, 16.03, 28.46, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1804, '소고기, 한우(1++등급), 목심, 생것', 2, 0,
         0.0, 20.24, 13.96, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1805, '소고기, 한우(1++등급), 사태, 생것', 2, 0,
         0.0, 21.37, 8.91, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1806, '소고기, 한우(1++등급), 사태(뒷사태), 생것', 2, 0,
         0.0, 21.41, 9.31, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1807, '소고기, 한우(1++등급), 사태(뭉치사태), 생것', 2, 0,
         0.0, 22.45, 7.7, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1808, '소고기, 한우(1++등급), 사태(상박살), 생것', 2, 0,
         0.0, 20.22, 14.55, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1809, '소고기, 한우(1++등급), 사태(아롱사태), 생것', 2, 0,
         0.0, 21.76, 15.03, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1810, '소고기, 한우(1++등급), 사태(앞사태), 생것', 2, 0,
         0.0, 20.86, 7.58, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1811, '소고기, 한우(1++등급), 설도, 생것', 2, 0,
         0.0, 19.63, 14.21, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1812, '소고기, 한우(1++등급), 설도(도가니살), 생것', 2, 0,
         0.0, 20.28, 9.47, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1813, '소고기, 한우(1++등급), 설도(보섭살), 생것', 2, 0,
         0.0, 20.24, 14.05, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1814, '소고기, 한우(1++등급), 설도(삼각살), 생것', 2, 0,
         0.0, 16.89, 24.76, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1815, '소고기, 한우(1++등급), 설도(설깃머리살), 생것', 2, 0,
         0.0, 17.85, 18.03, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1816, '소고기, 한우(1++등급), 설도(설깃살), 생것', 2, 0,
         0.0, 19.74, 14.85, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1817, '소고기, 한우(1++등급), 안심, 생것', 2, 0,
         0.0, 17.4, 20.63, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1818, '소고기, 한우(1++등급), 앞다리, 생것', 2, 0,
         0.0, 18.9, 15.12, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1819, '소고기, 한우(1++등급), 앞다리(갈비덧살), 생것', 2, 0,
         0.0, 19.17, 15.21, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1820, '소고기, 한우(1++등급), 앞다리(꾸리살), 생것', 2, 0,
         0.0, 19.58, 11.58, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1821, '소고기, 한우(1++등급), 앞다리(부채덮개살), 생것', 2, 0,
         0.0, 21.26, 10.1, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1822, '소고기, 한우(1++등급), 앞다리(부채살), 생것', 2, 0,
         0.0, 17.02, 22.64, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1823, '소고기, 한우(1++등급), 앞다리(앞다리살), 생것', 2, 0,
         0.0, 18.93, 14.19, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1824, '소고기, 한우(1++등급), 양지, 생것', 2, 0,
         0.0, 16.81, 23.08, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1825, '소고기, 한우(1++등급), 양지(앞치마살), 생것', 2, 0,
         0.0, 14.29, 30.9, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1826, '소고기, 한우(1++등급), 양지(양지머리), 생것', 2, 0,
         0.0, 19.88, 13.75, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1827, '소고기, 한우(1++등급), 양지(업진살), 생것', 2, 0,
         0.0, 12.64, 38.19, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1828, '소고기, 한우(1++등급), 양지(업진안살), 생것', 2, 0,
         0.0, 15.43, 27.21, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1829, '소고기, 한우(1++등급), 양지(차돌박이), 생것', 2, 0,
         0.0, 14.12, 29.96, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1830, '소고기, 한우(1++등급), 양지(치마살), 생것', 2, 0,
         0.0, 16.37, 21.84, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1831, '소고기, 한우(1++등급), 양지(치마양지), 생것', 2, 0,
         0.0, 18.04, 18.82, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1832, '소고기, 한우(1++등급), 우둔, 생것', 2, 0,
         0.0, 20.4, 11.11, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1833, '소고기, 한우(1++등급), 우둔(우둔살), 생것', 2, 0,
         0.0, 20.39, 11.17, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1834, '소고기, 한우(1++등급), 우둔(홍두깨살), 생것', 2, 0,
         0.0, 20.44, 10.87, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1835, '소고기, 한우(1++등급), 채끝, 생것', 2, 0,
         0.0, 16.48, 30.84, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1836, '소고기, 한우(1+등급), 살코기, 생것', 2, 0,
         0.0, 19.01, 18.18, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1837, '소고기, 한우(1+등급), 갈비, 생것', 2, 0,
         0.0, 15.5, 34.29, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1838, '소고기, 한우(1+등급), 갈비(꽃갈비), 생것', 2, 0,
         0.0, 14.7, 36.43, 98.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1839, '소고기, 한우(1+등급), 갈비(본갈비), 생것', 2, 0,
         0.0, 14.69, 34.65, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1840, '소고기, 한우(1+등급), 갈비(안창살), 생것', 2, 0,
         0.0, 15.25, 26.4, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1841, '소고기, 한우(1+등급), 갈비(제비추리), 생것', 2, 0,
         0.0, 21.13, 10.45, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1842, '소고기, 한우(1+등급), 갈비(참갈비), 생것', 2, 0,
         0.0, 14.82, 32.98, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1843, '소고기, 한우(1+등급), 갈비(토시살), 생것', 2, 0,
         0.0, 15.69, 21.52, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1844, '소고기, 한우(1+등급), 등심, 생것', 2, 0,
         0.0, 16.87, 27.84, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1845, '소고기, 한우(1+등급), 등심(꽃등심살), 생것', 2, 0,
         0.0, 17.1, 28.72, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1846, '소고기, 한우(1+등급), 등심(살치살), 생것', 2, 0,
         0.0, 13.53, 31.28, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1847, '소고기, 한우(1+등급), 등심(아래등심살), 생것', 2, 0,
         0.0, 18.23, 23.34, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1848, '소고기, 한우(1+등급), 등심(윗등심살), 생것', 2, 0,
         0.0, 16.98, 28.45, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1849, '소고기, 한우(1+등급), 목심, 생것', 2, 0,
         0.0, 20.83, 14.75, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1850, '소고기, 한우(1+등급), 사태, 생것', 2, 0,
         0.0, 21.29, 7.06, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1851, '소고기, 한우(1+등급), 사태(뒷사태), 생것', 2, 0,
         0.0, 20.57, 7.01, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1852, '소고기, 한우(1+등급), 사태(뭉치사태), 생것', 2, 0,
         0.0, 21.89, 4.85, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1853, '소고기, 한우(1+등급), 사태(상박살), 생것', 2, 0,
         0.0, 20.12, 13.38, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1854, '소고기, 한우(1+등급), 사태(아롱사태), 생것', 2, 0,
         0.0, 20.6, 16.38, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1855, '소고기, 한우(1+등급), 사태(앞사태), 생것', 2, 0,
         0.0, 22.05, 6.41, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1856, '소고기, 한우(1+등급), 설도, 생것', 2, 0,
         0.0, 20.82, 10.96, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1857, '소고기, 한우(1+등급), 설도(도가니살), 생것', 2, 0,
         0.0, 20.02, 9.18, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1858, '소고기, 한우(1+등급), 설도(보섭살), 생것', 2, 0,
         0.0, 21.82, 9.21, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1859, '소고기, 한우(1+등급), 설도(삼각살), 생것', 2, 0,
         0.0, 19.38, 13.74, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1860, '소고기, 한우(1+등급), 설도(설깃머리살), 생것', 2, 0,
         0.0, 19.2, 13.81, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1861, '소고기, 한우(1+등급), 설도(설깃살), 생것', 2, 0,
         0.0, 21.5, 12.38, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1862, '소고기, 한우(1+등급), 안심, 생것', 2, 0,
         0.0, 20.69, 13.03, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1863, '소고기, 한우(1+등급), 앞다리, 생것', 2, 0,
         0.0, 19.72, 12.37, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1864, '소고기, 한우(1+등급), 앞다리(갈비덧살), 생것', 2, 0,
         0.0, 18.61, 14.51, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1865, '소고기, 한우(1+등급), 앞다리(꾸리살), 생것', 2, 0,
         0.0, 19.04, 11.51, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1866, '소고기, 한우(1+등급), 앞다리(부채덮개살), 생것', 2, 0,
         0.0, 20.7, 7.85, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1867, '소고기, 한우(1+등급), 앞다리(부채살), 생것', 2, 0,
         0.0, 17.42, 18.84, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1868, '소고기, 한우(1+등급), 앞다리(앞다리살), 생것', 2, 0,
         0.0, 20.74, 10.71, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1869, '소고기, 한우(1+등급), 양지, 생것', 2, 0,
         0.0, 17.77, 21.09, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1870, '소고기, 한우(1+등급), 양지(앞치마살), 생것', 2, 0,
         0.0, 17.38, 23.81, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1871, '소고기, 한우(1+등급), 양지(양지머리), 생것', 2, 0,
         0.0, 19.77, 12.11, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1872, '소고기, 한우(1+등급), 양지(업진살), 생것', 2, 0,
         0.0, 15.09, 28.85, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1873, '소고기, 한우(1+등급), 양지(업진안살), 생것', 2, 0,
         0.0, 18.09, 24.35, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1874, '소고기, 한우(1+등급), 양지(차돌박이), 생것', 2, 0,
         0.0, 11.16, 46.45, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1875, '소고기, 한우(1+등급), 양지(치마살), 생것', 2, 0,
         0.0, 17.64, 17.69, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1876, '소고기, 한우(1+등급), 양지(치마양지), 생것', 2, 0,
         0.0, 20.81, 13.71, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1877, '소고기, 한우(1+등급), 우둔, 생것', 2, 0,
         0.0, 22.47, 8.92, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1878, '소고기, 한우(1+등급), 우둔(우둔살), 생것', 2, 0,
         0.0, 22.68, 9.32, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1879, '소고기, 한우(1+등급), 우둔(홍두깨살), 생것', 2, 0,
         0.0, 21.61, 7.31, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1880, '소고기, 한우(1+등급), 채끝, 생것', 2, 0,
         0.0, 17.92, 25.29, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1881, '소고기, 한우(1등급), 살코기, 생것', 2, 0,
         0.0, 20.22, 15.7, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1882, '소고기, 한우(1등급), 갈비, 생것', 2, 0,
         0.0, 16.78, 32.39, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1883, '소고기, 한우(1등급), 갈비(꽃갈비), 생것', 2, 0,
         0.0, 15.35, 35.25, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1884, '소고기, 한우(1등급), 갈비(본갈비), 생것', 2, 0,
         0.0, 16.94, 25.61, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1885, '소고기, 한우(1등급), 갈비(안창살), 생것', 2, 0,
         0.0, 15.46, 24.16, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1886, '소고기, 한우(1등급), 갈비(제비추리), 생것', 2, 0,
         0.0, 21.95, 9.06, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1887, '소고기, 한우(1등급), 갈비(참갈비), 생것', 2, 0,
         0.0, 15.89, 35.76, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1888, '소고기, 한우(1등급), 갈비(토시살), 생것', 2, 0,
         0.0, 19.63, 20.02, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1889, '소고기, 한우(1등급), 등심, 생것', 2, 0,
         0.0, 18.6, 24.45, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1890, '소고기, 한우(1등급), 등심(꽃등심살), 생것', 2, 0,
         0.0, 17.76, 27.73, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1891, '소고기, 한우(1등급), 등심(살치살), 생것', 2, 0,
         0.0, 16.68, 26.39, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1892, '소고기, 한우(1등급), 등심(아래등심살), 생것', 2, 0,
         0.0, 17.79, 19.95, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1893, '소고기, 한우(1등급), 등심(윗등심살), 생것', 2, 0,
         0.0, 20.05, 23.89, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1894, '소고기, 한우(1등급), 목심, 생것', 2, 0,
         0.0, 21.6, 12.04, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1895, '소고기, 한우(1등급), 사태, 생것', 2, 0,
         0.0, 23.06, 6.39, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1896, '소고기, 한우(1등급), 사태(뒷사태), 생것', 2, 0,
         0.0, 22.93, 6.84, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1897, '소고기, 한우(1등급), 사태(뭉치사태), 생것', 2, 0,
         0.0, 24.04, 4.86, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1898, '소고기, 한우(1등급), 사태(상박살), 생것', 2, 0,
         0.0, 21.38, 10.06, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1899, '소고기, 한우(1등급), 사태(아롱사태), 생것', 2, 0,
         0.0, 21.47, 15.55, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1900, '소고기, 한우(1등급), 사태(앞사태), 생것', 2, 0,
         0.0, 23.1, 5.24, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1901, '소고기, 한우(1등급), 설도, 생것', 2, 0,
         0.0, 20.98, 10.06, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1902, '소고기, 한우(1등급), 설도(도가니살), 생것', 2, 0,
         0.0, 20.37, 8.14, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1903, '소고기, 한우(1등급), 설도(보섭살), 생것', 2, 0,
         0.0, 21.75, 7.57, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1904, '소고기, 한우(1등급), 설도(삼각살), 생것', 2, 0,
         0.0, 21.01, 14.52, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1905, '소고기, 한우(1등급), 설도(설깃머리살), 생것', 2, 0,
         0.0, 20.22, 11.84, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1906, '소고기, 한우(1등급), 설도(설깃살), 생것', 2, 0,
         0.0, 21.09, 12.22, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1907, '소고기, 한우(1등급), 안심, 생것', 2, 0,
         0.0, 19.17, 13.14, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1908, '소고기, 한우(1등급), 앞다리, 생것', 2, 0,
         0.0, 21.15, 10.49, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1909, '소고기, 한우(1등급), 앞다리(갈비덧살), 생것', 2, 0,
         0.0, 20.39, 10.73, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1910, '소고기, 한우(1등급), 앞다리(꾸리살), 생것', 2, 0,
         0.0, 20.61, 7.43, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1911, '소고기, 한우(1등급), 앞다리(부채덮개살), 생것', 2, 0,
         0.0, 21.39, 6.34, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1912, '소고기, 한우(1등급), 앞다리(부채살), 생것', 2, 0,
         0.0, 20.7, 17.64, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1913, '소고기, 한우(1등급), 앞다리(앞다리살), 생것', 2, 0,
         0.0, 21.53, 9.38, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1914, '소고기, 한우(1등급), 양지, 생것', 2, 0,
         0.0, 20.21, 17.27, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1915, '소고기, 한우(1등급), 양지(앞치마살), 생것', 2, 0,
         0.0, 18.69, 22.65, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1916, '소고기, 한우(1등급), 양지(양지머리), 생것', 2, 0,
         0.0, 21.16, 11.55, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1917, '소고기, 한우(1등급), 양지(업진살), 생것', 2, 0,
         0.0, 19.34, 22.22, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1918, '소고기, 한우(1등급), 양지(업진안살), 생것', 2, 0,
         0.0, 17.76, 20.62, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1919, '소고기, 한우(1등급), 양지(차돌박이), 생것', 2, 0,
         0.0, 16.45, 35.94, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1920, '소고기, 한우(1등급), 양지(치마살), 생것', 2, 0,
         0.0, 20.43, 13.75, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1921, '소고기, 한우(1등급), 양지(치마양지), 생것', 2, 0,
         0.0, 22.27, 10.57, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1922, '소고기, 한우(1등급), 우둔, 생것', 2, 0,
         0.0, 23.0, 6.92, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1923, '소고기, 한우(1등급), 우둔(우둔살), 생것', 2, 0,
         0.0, 23.08, 7.29, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1924, '소고기, 한우(1등급), 우둔(홍두깨살), 생것', 2, 0,
         0.0, 22.66, 5.38, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1925, '소고기, 한우(1등급), 채끝, 생것', 2, 0,
         0.0, 17.59, 16.51, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1926, '소고기, 한우(2등급), 살코기, 생것', 2, 0,
         0.0, 19.99, 13.78, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1927, '소고기, 한우(2등급), 갈비, 생것', 2, 0,
         0.0, 18.02, 24.41, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1928, '소고기, 한우(2등급), 갈비(꽃갈비), 생것', 2, 0,
         0.0, 17.35, 25.48, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1929, '소고기, 한우(2등급), 갈비(본갈비), 생것', 2, 0,
         0.0, 16.65, 25.5, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1930, '소고기, 한우(2등급), 갈비(안창살), 생것', 2, 0,
         0.0, 16.63, 17.79, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1931, '소고기, 한우(2등급), 갈비(제비추리), 생것', 2, 0,
         0.0, 21.53, 8.58, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1932, '소고기, 한우(2등급), 갈비(참갈비), 생것', 2, 0,
         0.0, 17.73, 22.98, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1933, '소고기, 한우(2등급), 갈비(토시살), 생것', 2, 0,
         0.0, 18.25, 19.42, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1934, '소고기, 한우(2등급), 등심, 생것', 2, 0,
         0.0, 18.25, 21.06, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1935, '소고기, 한우(2등급), 등심(꽃등심살), 생것', 2, 0,
         0.0, 17.12, 24.34, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1936, '소고기, 한우(2등급), 등심(살치살), 생것', 2, 0,
         0.0, 17.19, 21.44, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1937, '소고기, 한우(2등급), 등심(아래등심살), 생것', 2, 0,
         0.0, 20.04, 17.21, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1938, '소고기, 한우(2등급), 등심(윗등심살), 생것', 2, 0,
         0.0, 18.43, 20.63, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1939, '소고기, 한우(2등급), 목심, 생것', 2, 0,
         0.0, 20.17, 11.6, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1940, '소고기, 한우(2등급), 사태, 생것', 2, 0,
         0.0, 21.77, 6.73, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1941, '소고기, 한우(2등급), 사태(뒷사태), 생것', 2, 0,
         0.0, 21.75, 7.06, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1942, '소고기, 한우(2등급), 사태(뭉치사태), 생것', 2, 0,
         0.0, 23.25, 5.0, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1943, '소고기, 한우(2등급), 사태(상박살), 생것', 2, 0,
         0.0, 21.05, 9.09, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1944, '소고기, 한우(2등급), 사태(아롱사태), 생것', 2, 0,
         0.0, 21.77, 13.69, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1945, '소고기, 한우(2등급), 사태(앞사태), 생것', 2, 0,
         0.0, 21.08, 6.28, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1946, '소고기, 한우(2등급), 설도, 생것', 2, 0,
         0.0, 21.17, 8.85, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1947, '소고기, 한우(2등급), 설도(도가니살), 생것', 2, 0,
         0.0, 21.56, 8.2, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1948, '소고기, 한우(2등급), 설도(보섭살), 생것', 2, 0,
         0.0, 21.26, 8.33, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1949, '소고기, 한우(2등급), 설도(삼각살), 생것', 2, 0,
         0.0, 20.36, 12.31, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1950, '소고기, 한우(2등급), 설도(설깃머리살), 생것', 2, 0,
         0.0, 19.72, 12.36, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1951, '소고기, 한우(2등급), 설도(설깃살), 생것', 2, 0,
         0.0, 21.43, 7.95, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1952, '소고기, 한우(2등급), 안심, 생것', 2, 0,
         0.0, 19.84, 13.11, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1953, '소고기, 한우(2등급), 앞다리, 생것', 2, 0,
         0.0, 21.11, 9.07, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1954, '소고기, 한우(2등급), 앞다리(갈비덧살), 생것', 2, 0,
         0.0, 20.6, 9.3, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1955, '소고기, 한우(2등급), 앞다리(꾸리살), 생것', 2, 0,
         0.0, 20.57, 8.07, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1956, '소고기, 한우(2등급), 앞다리(부채덮개살), 생것', 2, 0,
         0.0, 22.84, 6.36, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1957, '소고기, 한우(2등급), 앞다리(부채살), 생것', 2, 0,
         0.0, 19.93, 14.36, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1958, '소고기, 한우(2등급), 앞다리(앞다리살), 생것', 2, 0,
         0.0, 21.44, 7.85, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1959, '소고기, 한우(2등급), 양지, 생것', 2, 0,
         0.0, 19.37, 15.99, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1960, '소고기, 한우(2등급), 양지(앞치마살), 생것', 2, 0,
         0.0, 18.31, 18.74, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1961, '소고기, 한우(2등급), 양지(양지머리), 생것', 2, 0,
         0.0, 20.35, 11.91, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1962, '소고기, 한우(2등급), 양지(업진살), 생것', 2, 0,
         0.0, 17.43, 23.86, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1963, '소고기, 한우(2등급), 양지(업진안살), 생것', 2, 0,
         0.0, 18.69, 15.38, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1964, '소고기, 한우(2등급), 양지(차돌박이), 생것', 2, 0,
         0.0, 16.06, 27.39, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1965, '소고기, 한우(2등급), 양지(치마살), 생것', 2, 0,
         0.0, 19.05, 13.32, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1966, '소고기, 한우(2등급), 양지(치마양지), 생것', 2, 0,
         0.0, 21.82, 9.52, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1967, '소고기, 한우(2등급), 우둔, 생것', 2, 0,
         0.0, 22.18, 6.33, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1968, '소고기, 한우(2등급), 우둔(우둔살), 생것', 2, 0,
         0.0, 22.14, 6.73, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1969, '소고기, 한우(2등급), 우둔(홍두깨살), 생것', 2, 0,
         0.0, 22.35, 4.69, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1970, '소고기, 한우(2등급), 채끝, 생것', 2, 0,
         0.0, 20.35, 16.9, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1971, '소고기, 한우(3등급), 등심, 생것', 2, 0,
         0.0, 21.3, 2.9, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1972, '소고기, 한우(3등급), 목심, 생것', 2, 0,
         0.0, 21.4, 1.2, 94.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1973, '소고기, 한우(3등급), 설도(보섭살), 생것', 2, 0,
         0.0, 22.2, 1.5, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1974, '소고기, 한우(3등급), 설도(설깃살), 생것', 2, 0,
         0.0, 22.2, 1.0, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1975, '소고기, 한우(3등급), 앞다리(꾸리살), 생것', 2, 0,
         0.0, 21.5, 1.2, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1976, '소고기, 한우(3등급), 우둔(우둔살), 생것', 2, 0,
         0.0, 22.8, 1.1, 94.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1977, '소고기, 한우(3등급), 우둔(홍두깨살), 생것', 2, 0,
         0.0, 22.5, 1.0, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1978, '소고기, 한우(3등급), 양지(양지머리), 생것', 2, 0,
         0.0, 21.4, 1.5, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1979, '소고기, 한우(3등급), 양지(업진살), 생것', 2, 0,
         0.0, 21.7, 2.1, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1980, '소고기, 한우(3등급), 채끝, 생것', 2, 0,
         0.0, 22.4, 2.0, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1981, '소 부산물, 간, 생것', 2, 0,
         3.89, 20.36, 3.63, 96.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1982, '소 부산물, 간, 삶은것', 2, 0,
         5.13, 29.08, 5.26, 96.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1983, '소 부산물, 간, 구운것(팬)', 2, 0,
         5.16, 26.52, 4.68, 96.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1984, '소 부산물, 골, 생것', 2, 0,
         1.7, 9.3, 8.2, 95.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1985, '소 부산물, 꼬리, 생것', 2, 0,
         0.0, 17.4, 19.0, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1986, '소 부산물, 선지(피), 생것', 2, 0,
         2.2, 10.1, 0.0, 96.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1987, '소 부산물, 소장(곱창), 생것', 2, 0,
         0.1, 9.0, 11.3, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1988, '소 부산물, 신장, 생것', 2, 0,
         0.29, 17.4, 3.09, 99.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1989, '소 부산물, 신장, 삶은것', 2, 0,
         0.0, 27.27, 4.65, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1990, '소 부산물, 심장, 생것', 2, 0,
         0.14, 17.72, 3.94, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1991, '소 부산물, 심장, 삶은것', 2, 0,
         0.15, 28.48, 4.73, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1992, '소 부산물, 양(위), 생것', 2, 0,
         0.1, 9.9, 2.0, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1993, '소 부산물, 양(위), 삶은것', 2, 0,
         0.0, 24.5, 8.4, 104.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1994, '소 부산물, 천엽, 생것', 2, 0,
         0.0, 11.7, 1.3, 102.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1995, '소 부산물, 허파, 생것', 2, 0,
         0.0, 16.2, 2.5, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1996, '소 부산물, 허파, 삶은것', 2, 0,
         0.0, 20.4, 3.7, 95.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1997, '소 부산물, 혀, 생것', 2, 0,
         0.0, 13.0, 14.5, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1998, '소고기, 육포', 2, 0,
         20.2, 49.0, 8.2, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2000, '양지국물', 2, 0,
         0.0, 1.0, 0.0, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2001, '우족국물, 중량3배물', 2, 0,
         0.0, 0.3, 0.1, 105.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2002, '잡뼈국물', 2, 0,
         0.0, 4.3, 1.0, 93.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2003, '송아지고기, 수입산, 갈비, 생것', 2, 0,
         0.0, 18.86, 9.01, 96.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2004, '송아지고기, 수입산, 갈비, 삶은것', 2, 0,
         0.0, 32.43, 12.53, 96.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2005, '송아지고기, 수입산, 갈비, 구운것', 2, 0,
         0.0, 23.96, 13.96, 97.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2006, '송아지고기, 수입산, 등심, 생것', 2, 0,
         0.07, 20.07, 10.07, 96.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2007, '송아지고기, 수입산, 등심, 삶은것', 2, 0,
         0.0, 30.19, 17.21, 97.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2008, '송아지고기, 수입산, 등심, 구운것', 2, 0,
         0.0, 24.8, 12.32, 96.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2009, '송아지고기, 수입산, 살코기, 생것', 2, 0,
         0.0, 20.04, 2.16, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2010, '송아지고기, 수입산, 살코기, 삶은것', 2, 0,
         0.0, 35.73, 5.33, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2011, '송아지고기, 수입산, 어깨, 생것', 2, 0,
         0.0, 19.34, 5.44, 95.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2012, '송아지고기, 수입산, 어깨, 삶은것', 2, 0,
         0.0, 33.63, 10.24, 96.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2013, '송아지고기, 수입산, 어깨, 구운것', 2, 0,
         0.0, 25.46, 8.25, 96.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2014, '송아지고기, 수입산, 채끝(채끝살), 생것', 2, 0,
         0.0, 19.07, 7.81, 96.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2015, '송아지고기, 수입산, 채끝(채끝살), 삶은것', 2, 0,
         0.0, 31.26, 13.14, 96.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2016, '송아지고기, 수입산, 채끝(채끝살), 구운것(오븐)', 2, 0,
         0.0, 25.14, 10.45, 96.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2017, '송아지 부산물, 수입산, 간, 생것', 2, 0,
         2.91, 19.93, 4.85, 96.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2018, '송아지 부산물, 수입산, 간, 삶은것', 2, 0,
         3.77, 28.42, 6.26, 96.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2019, '송아지 부산물, 수입산, 골, 생것', 2, 0,
         0.0, 10.32, 8.21, 97.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2020, '송아지 부산물, 수입산, 골, 삶은것', 2, 0,
         0.0, 11.48, 9.63, 97.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2021, '송아지 부산물, 수입산, 신장, 생것', 2, 0,
         0.85, 15.76, 3.12, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2022, '송아지 부산물, 수입산, 신장, 삶은것', 2, 0,
         0.0, 26.32, 5.66, 95.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2023, '송아지 부산물, 수입산, 심장, 생것', 2, 0,
         0.08, 17.18, 3.98, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2024, '송아지 부산물, 수입산, 심장, 삶은것', 2, 0,
         0.13, 29.12, 6.75, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2025, '송아지 부산물, 수입산, 허파, 생것', 2, 0,
         0.0, 16.3, 2.3, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2026, '송아지 부산물, 수입산, 허파, 삶은것', 2, 0,
         0.0, 18.74, 2.64, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2027, '송아지 부산물, 수입산, 혀, 생것', 2, 0,
         1.91, 17.18, 5.48, 95.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2028, '송아지 부산물, 수입산, 혀, 삶은것', 2, 0,
         0.0, 25.85, 10.1, 96.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2029, '양고기, 수입산, 다리, 생것', 2, 0,
         0.1, 18.8, 15.3, 104.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2030, '어린양고기, 수입산, 갈비, 생것', 2, 0,
         0.0, 14.52, 34.39, 98.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2031, '어린양고기, 수입산, 갈비, 구운것(오븐)', 2, 0,
         0.0, 21.12, 29.82, 98.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2032, '어린양고기, 수입산, 다리, 생것', 2, 0,
         0.0, 18.58, 13.49, 97.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2033, '어린양고기, 수입산, 다리, 구운것(오븐)', 2, 0,
         0.0, 26.41, 12.45, 96.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2034, '어린양고기, 수입산, 살코기, 생것', 2, 0,
         0.0, 20.88, 5.94, 95.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2035, '어린양고기, 수입산, 어깨, 생것', 2, 0,
         0.0, 16.58, 21.45, 98.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2036, '어린양고기, 수입산, 어깨, 삶은것', 2, 0,
         0.0, 28.68, 24.55, 97.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2037, '어린양고기, 수입산, 어깨, 구운것(오븐)', 2, 0,
         0.0, 22.51, 19.97, 97.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2038, '어린양 부산물, 수입산, 간, 생것', 2, 0,
         1.78, 20.38, 5.02, 96.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2039, '어린양 부산물, 수입산, 간, 삶은것', 2, 0,
         2.53, 30.57, 8.81, 96.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2040, '염소고기, 생것', 2, 0,
         0.0, 19.88, 10.31, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2041, '염소고기, 삶은것', 2, 0,
         0.0, 29.39, 13.51, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2042, '염소고기, 수입산, 생것', 2, 0,
         0.2, 21.9, 1.5, 102.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2043, '오리고기, 살코기, 생것', 2, 0,
         0.0, 21.0, 3.07, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2044, '오리고기, 생것, 껍질 포함', 2, 0,
         0.0, 16.63, 18.99, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2048, '자라고기, 수입산, 생것', 2, 0,
         0.5, 16.4, 13.4, 107.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2049, '칠면조고기, 생것', 2, 0,
         0.13, 21.64, 5.64, 95.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2050, '칠면조고기, 구운것', 2, 0,
         0.06, 28.55, 7.39, 95.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2051, '토끼고기, 집토끼, 생것', 2, 0,
         0.6, 21.7, 4.4, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2052, '토끼고기, 집토끼, 끓인것', 2, 0,
         0.0, 33.02, 3.51, 94.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2053, '토끼고기, 살코기, 생것', 2, 0,
         0.0, 20.97, 7.68, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2054, '토끼고기, 살코기, 삶은것', 2, 0,
         0.0, 28.23, 8.87, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2055, '거위알, 생것', 2, 0,
         0.8, 13.2, 14.1, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2056, '거위알, 삶은것', 2, 0,
         1.0, 12.7, 13.6, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2057, '기러기알, 생것', 2, 0,
         2.4, 12.3, 13.9, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2058, '기러기알, 삶은것', 2, 0,
         4.0, 13.1, 14.9, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2059, '달걀, 생것', 2, 0,
         0.79, 12.91, 8.25, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2060, '달걀, 삶은것', 2, 0,
         1.37, 13.49, 8.69, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2061, '달걀, 난백, 생것', 2, 0,
         0.14, 11.46, 0.05, 93.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2062, '달걀, 난백, 삶은것', 2, 0,
         0.22, 11.63, 0.01, 93.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2063, '달걀, 난황, 생것', 2, 0,
         5.77, 15.66, 25.18, 95.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2064, '달걀, 난황, 삶은것', 2, 0,
         1.37, 16.46, 32.16, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2065, '달걀, 가루', 2, 0,
         4.47, 82.4, 0.04, 92.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2066, '달걀, 부침(달걀프라이)', 2, 0,
         3.79, 15.12, 13.46, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2067, '달걀, 수란, 중탕', 2, 0,
         0.2, 12.3, 11.7, 107.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2068, '달걀, 스크램블에그', 2, 0,
         1.61, 9.99, 10.98, 97.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2069, '달걀, 유정란, 생것', 2, 0,
         8.1, 10.9, 8.4, 97.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2070, '달걀, 유정란, 난백, 생것', 2, 0,
         3.6, 8.5, 0.0, 96.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2071, '달걀, 유정란, 난황, 생것', 2, 0,
         21.7, 14.4, 20.3, 98.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2072, '메추리알, 생것', 2, 0,
         1.66, 12.8, 9.02, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2073, '메추리알, 삶은것', 2, 0,
         1.67, 12.48, 10.12, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2074, '메추리알, 난백, 생것', 2, 0,
         0.05, 11.77, 0.11, 92.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2075, '메추리알, 난백, 삶은것', 2, 0,
         0.0, 11.35, 0.1, 92.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2076, '메추리알, 난황, 생것', 2, 0,
         3.74, 14.77, 23.24, 95.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2077, '메추리알, 난황, 삶은것', 2, 0,
         1.39, 15.44, 30.58, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2078, '오리알, 생것', 2, 0,
         2.03, 13.11, 11.32, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2079, '오리알, 삶은것', 2, 0,
         2.41, 13.39, 12.4, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2080, '오리알, 난백, 생것', 2, 0,
         1.39, 10.78, 0.09, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2081, '오리알, 난백, 삶은것', 2, 0,
         2.05, 11.51, 0.08, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2082, '오리알, 난황, 생것', 2, 0,
         3.02, 16.68, 28.48, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2083, '오리알, 난황, 삶은것', 2, 0,
         2.97, 16.25, 31.22, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2084, '오리알, 피단', 2, 0,
         4.21, 12.98, 10.05, 95.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2085, '오리알, 청둥오리, 생것', 2, 0,
         1.0, 13.6, 12.3, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2086, '가라지, 생것', 2, 0,
         0.7, 14.8, 1.3, 94.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2087, '가물치, 생것', 2, 0,
         0.3, 18.2, 0.8, 94.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2088, '가시망둑, 생것', 2, 0,
         0.0, 22.4, 0.7, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2089, '가오리, 나비가오리, 생것', 2, 0,
         0.0, 17.3, 0.7, 94.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2090, '가오리, 노랑가오리, 생것', 2, 0,
         0.0, 21.6, 0.6, 94.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2091, '가오리, 목탁가오리, 생것', 2, 0,
         0.0, 22.2, 0.5, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2092, '가오리, 전기가오리, 생것', 2, 0,
         0.0, 13.0, 1.0, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2093, '가오리, 조미하여 말린것', 2, 0,
         35.8, 39.3, 0.6, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2094, '가자미, 생것', 2, 0,
         0.3, 22.1, 3.7, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2095, '가자미, 각시가자미, 생것', 2, 0,
         0.0, 16.8, 1.4, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2096, '가자미, 갈가자미, 생것', 2, 0,
         0.2, 18.3, 1.3, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2097, '가자미, 기름가자미, 생것', 2, 0,
         0.7, 18.2, 0.4, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2098, '가자미, 눈가자미, 생것', 2, 0,
         0.3, 19.4, 1.1, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2099, '가자미, 돌가자미, 생것', 2, 0,
         0.0, 20.0, 0.6, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2100, '가자미, 문치가자미, 생것', 2, 0,
         0.5, 19.9, 0.7, 94.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2101, '가자미, 범가자미, 생것', 2, 0,
         0.8, 18.2, 0.2, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2102, '가자미, 술봉가자미, 생것', 2, 0,
         0.0, 16.8, 1.4, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2103, '가자미, 용가자미, 생것', 2, 0,
         0.1, 18.1, 0.6, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2104, '가자미, 줄가자미, 생것', 2, 0,
         0.2, 17.4, 0.2, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2105, '가자미, 참가자미, 생것', 2, 0,
         0.4, 19.4, 0.2, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2106, '갈치, 생것', 2, 0,
         0.1, 18.5, 7.5, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2107, '갈치, 동갈치, 생것', 2, 0,
         0.4, 19.8, 1.3, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2108, '갈치, 동동갈치, 생것', 2, 0,
         0.0, 20.0, 3.9, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2109, '갈치, 얼간', 2, 0,
         0.1, 26.3, 8.1, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2110, '갈치, 젓갈', 2, 0,
         28.2, 8.6, 3.2, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2111, '강달이, 눈강달이, 생것', 2, 0,
         0.1, 17.0, 3.9, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2112, '강달이, 눈강달이, 젓갈', 2, 0,
         0.0, 14.0, 5.1, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2113, '게르치, 생것', 2, 0,
         0.0, 20.8, 7.5, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2114, '게르치, 삶은것', 2, 0,
         0.0, 22.2, 8.4, 102.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2115, '고등어, 생것', 2, 0,
         0.0, 20.2, 10.4, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2116, '고등어, 남해, 생것', 2, 0,
         0.0, 21.06, 13.34, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2117, '고등어, 서해, 생것', 2, 0,
         0.0, 20.26, 21.23, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2118, '고등어, 삶은것', 2, 0,
         0.3, 22.6, 22.6, 116.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2119, '고등어, 구운것', 2, 0,
         0.4, 25.2, 22.4, 115.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2120, '고등어, 반건조', 2, 0,
         0.2, 18.7, 28.5, 109.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2121, '고등어, 자반고등어', 2, 0,
         6.36, 18.99, 16.14, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2122, '고등어, 통조림', 2, 0,
         0.0, 15.6, 4.46, 99.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2123, '고등어, 통조림, 고형물', 2, 0,
         0.64, 23.47, 7.14, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2124, '괴도라치, 생것', 2, 0,
         0.0, 17.2, 0.1, 94.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2125, '군평선이, 생것', 2, 0,
         0.2, 18.5, 2.6, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2126, '기름종개, 생것', 2, 0,
         0.5, 17.5, 3.3, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2127, '까나리, 생것', 2, 0,
         0.3, 16.0, 4.8, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2128, '까나리, 삶아서 말린것', 2, 0,
         1.5, 43.1, 6.1, 107.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2129, '까나리, 액젓', 2, 0,
         0.27, 7.16, 0.01, 99.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2130, '꺽저기, 생것', 2, 0,
         0.1, 19.5, 1.0, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2131, '꼬치고기, 생것', 2, 0,
         0.7, 20.5, 0.8, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2132, '꼼치, 생것', 2, 0,
         0.0, 16.4, 0.1, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2133, '꽁치, 생것', 2, 0,
         0.4, 22.7, 4.7, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2134, '꽁치, 구운것', 2, 0,
         0.2, 23.3, 22.8, 106.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2135, '꽁치(과메기), 동건품', 2, 0,
         0.9, 32.1, 29.9, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2136, '꽁치, 염장', 2, 0,
         0.2, 20.1, 9.8, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2137, '꽁치, 통조림', 2, 0,
         0.0, 13.12, 6.76, 100.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2138, '꽁치, 통조림, 고형물', 2, 0,
         2.64, 20.31, 10.67, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2139, '꽁치, 통조림, 조미', 2, 0,
         2.4, 19.0, 10.3, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2140, '날치, 생것', 2, 0,
         0.1, 22.2, 0.5, 94.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2141, '날치, 염장', 2, 0,
         0.0, 26.4, 1.3, 94.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2142, '날치, 알, 생것', 2, 0,
         8.3, 10.2, 2.2, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2143, '납지리, 생것', 2, 0,
         0.1, 17.5, 1.2, 94.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2144, '넙치(광어), 생것', 2, 0,
         0.0, 22.36, 3.28, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2145, '넙치(광어), 껍질, 생것', 2, 0,
         0.0, 29.3, 4.7, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2146, '네동가리, 생것', 2, 0,
         0.1, 19.2, 0.1, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2147, '노랑촉수, 생것', 2, 0,
         8.3, 7.1, 19.5, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2148, '노래미, 생것', 2, 0,
         0.8, 17.5, 1.3, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2149, '노래미, 줄노래미, 생것', 2, 0,
         0.0, 17.5, 1.2, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2150, '노래미, 쥐노래미, 생것', 2, 0,
         0.5, 21.0, 3.0, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2151, '놀래기, 생것', 2, 0,
         0.0, 19.2, 2.8, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2152, '놀래기, 사랑놀래기, 생것', 2, 0,
         0.0, 20.3, 1.9, 94.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2153, '놀래기, 용치놀래기, 생것', 2, 0,
         0.4, 19.3, 0.2, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2154, '놀래기, 황놀래기, 생것', 2, 0,
         0.1, 18.9, 1.9, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2155, '농어, 생것', 2, 0,
         0.2, 18.2, 1.9, 94.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2156, '농어, 구운것', 2, 0,
         0.0, 23.63, 2.56, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2157, '농어, 점농어, 생것', 2, 0,
         0.4, 18.5, 5.2, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2158, '누치, 생것', 2, 0,
         0.8, 17.3, 3.0, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2159, '눈볼대, 생것', 2, 0,
         0.0, 22.3, 5.3, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2160, '눈퉁멸, 생것', 2, 0,
         0.4, 18.5, 6.2, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2161, '눈퉁멸, 포, 말린것', 2, 0,
         11.1, 58.6, 5.4, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2162, '능성어, 생것', 2, 0,
         0.3, 18.8, 1.3, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2163, '다금바리, 생것', 2, 0,
         0.1, 19.3, 1.9, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2164, '다랑어, 가다랑어, 생것', 2, 0,
         0.3, 25.9, 1.8, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2165, '다랑어, 가다랑어 육수', 2, 0,
         0.0, 0.4, 0.0, 80.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2166, '다랑어, 가다랑어, 통조림, 유지', 2, 0,
         0.0, 22.31, 10.6, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2167, '다랑어, 참다랑어, 생것', 2, 0,
         0.0, 23.99, 8.09, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2168, '다랑어, 참다랑어, 붉은살, 생것', 2, 0,
         0.1, 26.4, 1.4, 103.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2169, '다랑어, 참다랑어, 지방육, 생것', 2, 0,
         0.1, 20.1, 27.5, 106.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2170, '다랑어, 참다랑어, 구운것', 2, 0,
         0.0, 29.91, 6.28, 95.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2171, '다랑어, 참다랑어, 냉동', 2, 0,
         0.1, 24.5, 1.0, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2172, '참다랑어 샐러드', 2, 0,
         9.41, 16.04, 9.26, 99.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2173, '다랑어, 황다랑어, 생것', 2, 0,
         0.2, 23.9, 1.3, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2174, '달강어, 생것', 2, 0,
         0.1, 19.7, 4.0, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2175, '달고기, 생것', 2, 0,
         0.7, 19.1, 1.4, 94.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2176, '대구, 생것', 2, 0,
         0.3, 19.5, 0.3, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2177, '대구, 수컷, 생것', 2, 0,
         0.0, 18.2, 0.43, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2178, '대구, 암컷, 생것', 2, 0,
         0.0, 15.42, 0.32, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2179, '대구, 구운것', 2, 0,
         0.2, 25.2, 0.2, 100.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2180, '대구, 말린것', 2, 0,
         0.3, 56.0, 2.0, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2181, '대구, 냉동', 2, 0,
         0.1, 18.0, 0.5, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2182, '대구, 소금에 절여 반건조', 2, 0,
         0.0, 45.1, 1.1, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2183, '대구, 염장', 2, 0,
         0.1, 20.0, 0.7, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2184, '대구, 포, 말린것', 2, 0,
         1.8, 65.4, 3.0, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2185, '대구 튀김, 냉동', 2, 0,
         11.1, 13.7, 0.8, 100.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2186, '대구, 내장, 생것', 2, 0,
         0.1, 15.0, 2.3, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2187, '대구, 알, 생것', 2, 0,
         0.2, 23.4, 1.6, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2188, '대구, 젓갈', 2, 0,
         0.0, 14.7, 0.4, 100.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2189, '대구, 아가미, 젓갈', 2, 0,
         0.6, 14.4, 1.3, 99.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2190, '대구, 빨간대구, 생것', 2, 0,
         0.7, 12.6, 4.3, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2191, '대구, 은대구, 생것', 2, 0,
         0.0, 13.1, 7.9, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2192, '대구횟대, 생것', 2, 0,
         0.5, 19.5, 0.9, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2193, '대두어(흑연), 생것', 2, 0,
         0.5, 17.5, 2.1, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2194, '도다리, 생것', 2, 0,
         0.5, 17.6, 0.2, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2195, '도도바리, 생것', 2, 0,
         0.5, 19.4, 1.2, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2196, '도루묵, 생것', 2, 0,
         0.5, 16.0, 4.6, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2197, '도루묵, 소금에 절여 말린것', 2, 0,
         0.2, 44.8, 9.8, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2198, '도치, 생것', 2, 0,
         0.9, 7.2, 3.0, 95.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2199, '독가시치, 생것', 2, 0,
         0.0, 20.3, 1.2, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2200, '돔, 각시돔, 생것', 2, 0,
         0.0, 20.1, 0.6, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2201, '돔, 감성돔, 생것', 2, 0,
         0.1, 18.8, 2.3, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2202, '돔, 강담돔, 생것', 2, 0,
         0.0, 18.9, 1.4, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2203, '돔, 구갈돔, 생것', 2, 0,
         0.0, 20.4, 0.3, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2204, '돔, 금눈돔, 생것', 2, 0,
         0.3, 18.5, 4.5, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2205, '돔, 꼽새돔, 생것', 2, 0,
         0.1, 19.0, 2.3, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2206, '돔, 도화돔, 생것', 2, 0,
         0.0, 21.3, 4.3, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2207, '돔, 독돔, 생것', 2, 0,
         0.2, 20.8, 0.9, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2208, '돔, 돌돔, 생것', 2, 0,
         0.4, 17.8, 1.0, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2209, '돔, 백미돔, 생것', 2, 0,
         0.4, 21.0, 1.2, 94.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2210, '돔, 범돔, 생것', 2, 0,
         0.4, 19.5, 1.1, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2211, '돔, 벵에돔, 생것', 2, 0,
         0.0, 20.2, 1.4, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2212, '돔, 뿔돔, 생것', 2, 0,
         0.0, 18.0, 2.2, 94.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2213, '돔, 샛돔, 생것', 2, 0,
         0.2, 16.3, 5.5, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2214, '돔, 실꼬리돔, 생것', 2, 0,
         0.1, 19.8, 2.5, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2215, '돔, 실붉돔, 생것', 2, 0,
         0.0, 17.8, 2.7, 94.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2216, '돔, 어름돔, 생것', 2, 0,
         0.0, 19.5, 1.2, 94.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2217, '돔, 옥돔, 생것', 2, 0,
         0.9, 18.1, 0.2, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2218, '돔, 옥돔, 삶은것', 2, 0,
         0.0, 20.7, 4.0, 105.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2219, '돔, 옥돔, 구운것', 2, 0,
         0.0, 22.5, 2.6, 103.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2220, '돔, 옥돔, 반건조', 2, 0,
         0.0, 19.5, 2.3, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2221, '돔, 육동가리돔, 생것', 2, 0,
         0.0, 18.6, 2.6, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2222, '돔, 자리돔, 생것', 2, 0,
         0.4, 19.5, 0.4, 94.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2223, '돔, 참돔, 생것', 2, 0,
         0.8, 18.4, 0.1, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2224, '돔, 참돔, 삶은것', 2, 0,
         0.1, 22.2, 11.9, 107.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2225, '돔, 참돔, 구운것', 2, 0,
         0.1, 22.7, 12.0, 107.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2226, '돔, 참돔, 껍질, 생것', 2, 0,
         0.0, 16.6, 12.5, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2227, '돔, 호박돔, 생것', 2, 0,
         0.0, 20.3, 0.5, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2228, '돔, 혹돔, 생것', 2, 0,
         0.4, 18.5, 1.7, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2229, '돔, 황돔, 생것', 2, 0,
         0.3, 20.2, 1.7, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2230, '돔, 황줄돔, 생것', 2, 0,
         0.0, 19.3, 1.6, 94.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2231, '동사리, 생것', 2, 0,
         0.0, 16.9, 1.0, 94.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2232, '동자개(빠가사리), 생것', 2, 0,
         0.0, 15.7, 1.6, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2233, '둑중개, 생것', 2, 0,
         0.2, 15.0, 4.2, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2234, '둑중개, 삶은것', 2, 0,
         0.2, 15.8, 5.8, 107.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2235, '둑중개, 조린것', 2, 0,
         33.8, 29.4, 5.5, 103.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2236, '드렁허리, 생것', 2, 0,
         0.0, 17.9, 1.7, 94.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2237, '등가시치, 생것', 2, 0,
         0.0, 18.5, 0.1, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2238, '만새기, 생것', 2, 0,
         0.0, 21.3, 1.9, 102.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2239, '망둑어(풀망둑), 생것', 2, 0,
         0.3, 16.4, 0.7, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2240, '매퉁이, 생것', 2, 0,
         0.1, 20.8, 0.5, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2241, '메기, 생것', 2, 0,
         0.1, 15.1, 5.3, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2242, '메기, 물메기, 생것', 2, 0,
         0.1, 16.4, 0.9, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2243, '메기, 붉은메기, 생것', 2, 0,
         0.0, 18.2, 0.7, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2244, '멸치, 생것', 2, 0,
         0.3, 17.7, 5.4, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2245, '멸치, 대멸치, 삶아서 말린것', 2, 0,
         0.0, 59.31, 5.45, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2246, '멸치, 중멸치, 삶아서 말린것', 2, 0,
         1.07, 49.69, 3.3, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2247, '멸치, 잔멸치, 삶아서 말린것', 2, 0,
         0.32, 42.94, 4.59, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2248, '멸치 볶음, 멸치풋고추볶음', 2, 0,
         17.0, 23.3, 11.2, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2249, '멸치 볶음, 잔멸치볶음', 2, 0,
         26.2, 31.0, 12.6, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2250, '멸치 육수', 2, 0,
         0.19, 0.14, 0.01, 141.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2251, '멸치, 액젓', 2, 0,
         1.13, 6.53, 0.02, 99.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2252, '멸치, 젓갈', 2, 0,
         0.0, 14.0, 6.3, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2253, '멸치, 통조림, 유지', 2, 0,
         0.0, 9.7, 14.6, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2254, '명태, 생것', 2, 0,
         0.0, 17.5, 0.7, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2255, '명태, 구운것', 2, 0,
         0.0, 23.48, 1.18, 94.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2256, '명태, 노가리, 말린것', 2, 0,
         0.3, 74.3, 3.8, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2257, '명태, 동태, 냉동', 2, 0,
         0.1, 15.9, 0.5, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2258, '명태, 먹태, 포, 말린것', 2, 0,
         0.0, 82.7, 2.4, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2259, '명태, 북어, 말린것', 2, 0,
         0.32, 73.18, 3.09, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2260, '명태, 코다리, 반건조', 2, 0,
         0.0, 61.7, 3.1, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2261, '명태, 코다리, 반건조, 구운것', 2, 0,
         0.0, 25.2, 0.5, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2262, '명태, 황태, 포, 말린것', 2, 0,
         2.8, 79.0, 0.4, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2263, '명태, 포, 조미하여 말린것', 2, 0,
         29.2, 43.9, 1.5, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2264, '명태, 내장, 양념젓갈(창난젓)', 2, 0,
         22.22, 10.83, 1.2, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2265, '명태, 알, 생것', 2, 0,
         2.7, 20.5, 3.0, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2266, '명태, 알, 양념젓갈(명란젓)', 2, 0,
         4.52, 22.38, 3.01, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2267, '모래무지, 생것', 2, 0,
         0.0, 15.7, 1.1, 94.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2268, '몽치다래, 생것', 2, 0,
         0.5, 24.1, 5.9, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2269, '문절망둑, 생것', 2, 0,
         0.3, 18.7, 1.1, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2270, '문절망둑, 장조림', 2, 0,
         29.0, 28.3, 2.1, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2271, '물치다래, 생것', 2, 0,
         0.1, 23.4, 7.3, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2272, '미꾸리, 생것', 2, 0,
         0.2, 16.2, 2.8, 94.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2273, '미꾸리, 삶은것', 2, 0,
         0.0, 17.1, 1.2, 104.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2274, '민달고기, 생것', 2, 0,
         0.1, 20.3, 1.0, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2275, '민어, 생것', 2, 0,
         0.5, 18.0, 0.8, 94.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2276, '민어, 구운것', 2, 0,
         0.0, 23.4, 0.8, 100.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2277, '민어, 튀긴것(빵가루)', 2, 0,
         7.54, 18.2, 12.67, 98.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2278, '민어, 암치, 조미하여 말린것', 2, 0,
         35.2, 39.8, 1.5, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2279, '민어, 알, 염장', 2, 0,
         0.0, 35.1, 15.9, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2280, '민태, 생것', 2, 0,
         0.0, 15.2, 2.5, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2281, '박대, 생것', 2, 0,
         0.6, 19.2, 0.7, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2282, '박대, 말린것', 2, 0,
         0.9, 25.6, 2.2, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2283, '박대, 반건조', 2, 0,
         0.1, 21.4, 1.4, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2284, '방어, 생것', 2, 0,
         0.4, 21.7, 0.8, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2285, '방어, 구운것', 2, 0,
         0.3, 26.2, 20.4, 111.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2286, '방어, 통조림, 훈제', 2, 0,
         0.5, 27.2, 22.4, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2287, '방어, 양식, 어린것, 생것', 2, 0,
         0.3, 20.7, 17.2, 110.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2288, '방어, 자연산, 어린것, 생것', 2, 0,
         0.3, 21.0, 8.0, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2289, '백연, 생것', 2, 0,
         0.3, 19.0, 0.8, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2290, '밴댕이, 생것', 2, 0,
         0.2, 16.3, 16.5, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2291, '밴댕이, 삶아서 말린것', 2, 0,
         0.5, 48.2, 10.3, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2292, '밴댕이, 젓갈', 2, 0,
         0.6, 16.3, 4.9, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2293, '뱅어, 생것', 2, 0,
         0.3, 13.3, 1.1, 94.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2294, '뱅어, 말린것', 2, 0,
         0.0, 56.1, 7.9, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2295, '뱅어, 포, 말린것', 2, 0,
         1.2, 60.4, 11.0, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2296, '베도라치, 생것', 2, 0,
         0.0, 20.7, 1.9, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2297, '베도라치, 그물베도라치, 생것', 2, 0,
         0.7, 22.0, 1.2, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2298, '베도라치, 장어베도라치, 생것', 2, 0,
         0.7, 19.3, 5.4, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2299, '베로치, 생것', 2, 0,
         0.0, 19.5, 0.4, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2300, '베스, 생것', 2, 0,
         0.1, 18.2, 0.4, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2301, '벤자리, 생것', 2, 0,
         0.3, 17.0, 5.3, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2302, '벤자리, 노랑벤자리, 생것', 2, 0,
         0.2, 17.3, 2.1, 94.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2303, '병어, 생것', 2, 0,
         0.3, 16.4, 6.3, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2304, '보구치, 생것', 2, 0,
         0.3, 19.3, 3.9, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2305, '보리멸, 생것', 2, 0,
         0.0, 19.5, 1.1, 94.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2306, '보리멸, 냉동', 2, 0,
         0.3, 19.6, 1.5, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2307, '복어, 검복, 생것', 2, 0,
         0.1, 21.5, 0.3, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2308, '복어, 검복, 조미하여 말린것', 2, 0,
         17.6, 47.7, 2.3, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2309, '복어, 국매리복, 생것', 2, 0,
         0.2, 20.7, 0.3, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2310, '복어, 까치복, 생것', 2, 0,
         0.5, 19.3, 0.2, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2311, '복어, 까칠복, 생것', 2, 0,
         0.1, 19.3, 0.3, 94.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2312, '복어, 매리복, 생것', 2, 0,
         0.4, 19.8, 0.3, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2313, '복어, 밀복, 생것', 2, 0,
         0.1, 17.3, 0.7, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2314, '복어, 자주복, 생것', 2, 0,
         0.4, 18.8, 0.2, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2315, '복어, 졸복, 생것', 2, 0,
         0.5, 18.9, 0.1, 94.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2316, '복어, 흰점복, 생것', 2, 0,
         0.0, 15.9, 0.5, 94.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2317, '볼기우럭, 생것', 2, 0,
         0.0, 18.7, 5.3, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2318, '볼락, 생것', 2, 0,
         0.6, 19.3, 1.0, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2319, '볼락, 구운것', 2, 0,
         0.0, 22.23, 1.62, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2320, '볼락, 개볼락, 생것', 2, 0,
         0.1, 19.1, 0.7, 94.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2321, '볼락, 누루시볼락, 생것', 2, 0,
         0.0, 22.4, 5.8, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2322, '볼락, 불볼락, 생것', 2, 0,
         0.7, 18.6, 4.6, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2323, '볼락, 우럭볼락, 생것', 2, 0,
         0.1, 18.3, 1.1, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2324, '볼락, 조피볼락(우럭), 생것', 2, 0,
         0.0, 18.41, 2.26, 102.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2325, '볼락, 탁자볼락, 생것', 2, 0,
         0.3, 19.7, 0.1, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2326, '볼락, 황점볼락, 생것', 2, 0,
         0.0, 21.3, 1.3, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2327, '부세, 생것', 2, 0,
         0.0, 17.2, 3.4, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2328, '부시리, 생것', 2, 0,
         0.1, 22.3, 1.5, 94.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2329, '부치, 빨강부치, 생것', 2, 0,
         0.0, 15.8, 0.5, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2330, '붉바리, 생것', 2, 0,
         0.1, 21.0, 1.1, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2331, '붕어, 생것', 2, 0,
         0.1, 18.1, 1.8, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2332, '붕어, 삶은것', 2, 0,
         28.6, 15.7, 4.4, 96.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2333, '붕어, 구운것', 2, 0,
         14.4, 18.0, 4.4, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2334, '붕어, 참붕어, 생것', 2, 0,
         0.1, 16.4, 5.1, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2335, '블루길, 생것', 2, 0,
         0.2, 17.8, 0.8, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2336, '빙어, 생것', 2, 0,
         0.0, 18.4, 0.8, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2337, '빙어, 삶아서 말린것', 2, 0,
         0.0, 34.2, 4.7, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2338, '빙어, 장조림', 2, 0,
         27.0, 26.7, 5.1, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2339, '빙어, 바다빙어, 생것', 2, 0,
         0.1, 17.4, 1.9, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2340, '빙어, 바다빙어, 구운것(오븐)', 2, 0,
         0.0, 22.6, 3.1, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2341, '산천어, 생것', 2, 0,
         0.1, 20.3, 3.3, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2342, '살살치, 생것', 2, 0,
         0.6, 15.5, 0.2, 94.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2343, '삼세기, 생것', 2, 0,
         0.5, 18.6, 1.8, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2344, '삼치, 생것', 2, 0,
         0.0, 20.08, 2.93, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2345, '삼치, 구운것', 2, 0,
         0.1, 23.6, 10.8, 104.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2346, '삼치, 줄삼치, 생것', 2, 0,
         0.2, 24.6, 3.1, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2347, '삼치, 평삼치, 생것', 2, 0,
         0.0, 17.9, 4.8, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2348, '삼치, 젓갈', 2, 0,
         0.0, 22.7, 1.1, 99.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2349, '상어, 가래상어, 생것', 2, 0,
         0.1, 22.2, 0.5, 94.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2350, '상어, 곱상어, 생것', 2, 0,
         0.3, 16.2, 10.0, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2351, '상어, 까치상어, 생것', 2, 0,
         0.9, 24.1, 0.7, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2352, '상어, 돔발상어, 생것', 2, 0,
         0.0, 17.9, 1.0, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2353, '상어, 두툽상어, 생것', 2, 0,
         0.3, 21.4, 0.3, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2354, '상어, 망상어, 생것', 2, 0,
         0.2, 18.9, 0.9, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2355, '상어, 모조리상어, 생것', 2, 0,
         0.0, 21.7, 1.7, 94.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2356, '상어, 별상어, 생것', 2, 0,
         0.3, 23.5, 0.3, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2357, '상어, 악상어, 생것', 2, 0,
         0.0, 13.4, 24.2, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2358, '상어, 은상어, 생것', 2, 0,
         0.0, 22.9, 0.5, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2359, '상어, 청새리상어, 생것', 2, 0,
         0.1, 18.5, 2.4, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2360, '상어, 흉상어, 생것', 2, 0,
         0.0, 23.5, 1.4, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2361, '상어, 지느러미, 생것', 2, 0,
         0.0, 80.7, 0.0, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2362, '상어, 알, 생것', 2, 0,
         0.5, 25.0, 23.5, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2363, '새다래, 생것', 2, 0,
         0.0, 18.9, 2.6, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2364, '샛멸, 생것', 2, 0,
         0.0, 19.5, 0.6, 101.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2365, '서대, 각시서대, 생것', 2, 0,
         0.2, 18.4, 1.8, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2366, '서대, 궁제기서대, 생것', 2, 0,
         0.1, 18.9, 1.2, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2367, '서대, 참서대, 생것', 2, 0,
         0.5, 18.6, 0.4, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2368, '성대, 생것', 2, 0,
         0.2, 19.9, 1.0, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2369, '성대, 별성대, 생것', 2, 0,
         0.0, 19.3, 1.0, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2370, '성대, 별쭉지성대, 생것', 2, 0,
         0.0, 19.2, 5.1, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2371, '송어, 생것', 2, 0,
         0.1, 21.0, 3.4, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2372, '송어, 염장', 2, 0,
         0.8, 36.0, 8.4, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2373, '송어, 젓갈', 2, 0,
         0.0, 24.8, 6.3, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2374, '송어, 통조림', 2, 0,
         0.0, 18.2, 8.8, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2375, '송어, 무지개송어, 생것', 2, 0,
         0.1, 21.1, 3.9, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2376, '송어, 무지개송어, 구운것', 2, 0,
         0.0, 22.92, 5.82, 96.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2377, '송어, 무지개송어, 냉동', 2, 0,
         0.3, 20.0, 8.0, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2378, '숭어, 생것', 2, 0,
         0.4, 21.7, 1.5, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2379, '숭어, 구운것', 2, 0,
         0.0, 24.81, 4.86, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2380, '숭어, 알, 소금에 절여 말린것', 2, 0,
         0.3, 40.4, 28.9, 119.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2381, '쌍동가리, 생것', 2, 0,
         0.0, 20.8, 1.4, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2382, '쌍뿔달재, 생것', 2, 0,
         0.1, 16.9, 0.4, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2383, '쏘가리, 생것', 2, 0,
         0.0, 17.2, 4.1, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2384, '쏘가리, 냉동', 2, 0,
         0.1, 21.2, 3.7, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2385, '쏨뱅이, 생것', 2, 0,
         0.1, 19.9, 0.6, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2386, '쑤기미, 생것', 2, 0,
         0.5, 18.5, 0.4, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2387, '쑥감펭, 생것', 2, 0,
         0.0, 19.0, 0.3, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2388, '아귀, 생것', 2, 0,
         0.5, 14.1, 0.2, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2389, '아귀, 간, 생것', 2, 0,
         5.2, 10.4, 39.0, 95.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2390, '아귀, 황아귀, 생것', 2, 0,
         0.1, 16.3, 0.2, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2391, '아홉동가리, 생것', 2, 0,
         0.1, 19.8, 2.3, 94.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2392, '애꼬치, 생것', 2, 0,
         0.1, 18.9, 7.2, 102.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2393, '애꼬치, 구운것', 2, 0,
         0.1, 23.3, 4.9, 102.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2394, '양미리, 생것', 2, 0,
         0.0, 21.5, 3.4, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2395, '양미리, 말린것', 2, 0,
         1.2, 29.9, 8.5, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2396, '양태, 생것', 2, 0,
         0.1, 20.0, 0.2, 94.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2397, '양태, 꽁지양태, 생것', 2, 0,
         0.6, 16.5, 0.6, 94.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2398, '양태, 눈양태, 생것', 2, 0,
         0.1, 20.1, 0.5, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2399, '양태, 도화양태, 생것', 2, 0,
         0.3, 16.9, 0.5, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2400, '양태, 돛양태, 생것', 2, 0,
         0.6, 18.5, 0.1, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2401, '어묵', 2, 0,
         20.69, 11.44, 4.49, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2402, '어묵 국물', 2, 0,
         0.4, 0.09, 0.15, 110.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2403, '어묵, 게맛살 첨가', 2, 0,
         15.2, 10.8, 0.8, 99.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2404, '어묵, 구운것', 2, 0,
         15.6, 15.4, 1.7, 98.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2405, '어묵, 찐어묵', 2, 0,
         16.53, 9.75, 1.09, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2406, '어묵국', 2, 0,
         5.7, 3.1, 0.8, 101.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2407, '어육소시지', 2, 0,
         17.75, 9.01, 7.45, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2408, '얼룩통구멍, 생것', 2, 0,
         0.0, 18.2, 0.5, 94.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2409, '여덟동가리, 생것', 2, 0,
         0.0, 19.2, 3.1, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2410, '연어, 생것', 2, 0,
         0.2, 20.6, 1.9, 94.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2411, '연어, 생것, 소금첨가', 2, 0,
         0.1, 22.8, 6.1, 106.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2412, '연어, 구운것, 소금첨가', 2, 0,
         0.1, 29.3, 7.9, 106.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2413, '연어, 훈제', 2, 0,
         0.19, 23.48, 11.96, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2414, '연어, 통조림', 2, 0,
         0.31, 16.29, 11.27, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2415, '연어, 통조림, 고형물', 2, 0,
         2.85, 16.36, 12.32, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2416, '연어, 알, 생것', 2, 0,
         0.8, 25.0, 15.0, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2417, '연어, 알, 염장', 2, 0,
         3.4, 27.3, 13.6, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2418, '연어, 은연어, 생것', 2, 0,
         0.2, 21.7, 1.4, 94.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2419, '연어, 홍연어, 생것', 2, 0,
         0.1, 22.5, 4.5, 103.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2420, '연어, 홍연어, 구운것', 2, 0,
         0.1, 28.5, 6.0, 103.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2421, '연어, 홍연어, 훈제', 2, 0,
         0.1, 25.7, 5.5, 106.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2422, '열쌍동가리, 생것', 2, 0,
         0.1, 18.3, 0.9, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2423, '우각바리, 생것', 2, 0,
         0.0, 19.0, 1.2, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2424, '웅어, 생것', 2, 0,
         0.0, 15.9, 10.8, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2425, '은어, 생것', 2, 0,
         0.2, 16.7, 4.5, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2426, '은어, 구운것', 2, 0,
         0.1, 26.6, 6.8, 112.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2427, '은어, 내장, 생것', 2, 0,
         0.3, 9.5, 17.5, 109.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2428, '은어, 내장, 구운것', 2, 0,
         0.4, 23.0, 10.1, 114.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2429, '은어, 양식, 생것', 2, 0,
         0.6, 17.8, 7.9, 104.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2430, '은어, 양식, 구운것', 2, 0,
         0.8, 22.6, 15.1, 113.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2431, '은어, 양식, 내장, 생것', 2, 0,
         0.3, 7.4, 55.0, 108.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2432, '은어, 양식, 내장, 구운것', 2, 0,
         0.4, 15.2, 52.3, 106.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2433, '은어, 내장, 젓갈', 2, 0,
         0.8, 11.4, 8.5, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2434, '인상어, 생것', 2, 0,
         0.4, 21.8, 4.2, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2435, '임연수어, 생것', 2, 0,
         0.5, 19.6, 7.1, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2436, '임연수어, 반건조', 2, 0,
         0.1, 20.6, 9.4, 104.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2437, '임연수어, 염장', 2, 0,
         0.2, 17.6, 13.1, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2438, '잉어, 생것', 2, 0,
         0.3, 17.5, 4.0, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2439, '잉어, 삶은것', 2, 0,
         0.2, 19.2, 13.4, 104.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2440, '잉어, 내장, 생것', 2, 0,
         1.3, 9.0, 25.9, 106.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2441, '장갱이, 생것', 2, 0,
         0.0, 19.1, 1.0, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2442, '장문볼락, 생것', 2, 0,
         0.2, 15.7, 2.1, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2443, '장문볼락, 구운것', 2, 0,
         0.0, 18.51, 1.87, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2444, '장어, 갯장어, 생것', 2, 0,
         0.4, 17.9, 9.9, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2445, '장어, 먹장어, 생것', 2, 0,
         0.4, 16.9, 6.0, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2446, '장어, 뱀장어, 생것', 2, 0,
         0.3, 14.4, 17.1, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2447, '장어, 뱀장어, 구운것', 2, 0,
         0.0, 23.65, 14.95, 97.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2448, '장어, 뱀장어, 조미, 구운것', 2, 0,
         0.0, 30.4, 14.2, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2449, '장어, 뱀장어, 간, 생것', 2, 0,
         22.3, 12.2, 6.3, 98.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2450, '장어, 붕장어, 생것', 2, 0,
         0.3, 17.4, 6.4, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2451, '장어, 붕장어, 냉동', 2, 0,
         0.5, 19.0, 8.0, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2452, '장어, 붕장어, 뼈, 튀긴것', 2, 0,
         31.2, 14.8, 41.3, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2453, '장어, 칠성장어, 생것', 2, 0,
         0.3, 21.0, 18.0, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2454, '장어, 칠성장어, 말린것', 2, 0,
         0.5, 33.3, 29.0, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2455, '장어, 양념, 구운것', 2, 0,
         5.9, 20.5, 20.4, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2456, '전갱이, 생것', 2, 0,
         0.1, 20.7, 4.8, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2457, '전갱이, 삶은것', 2, 0,
         0.1, 22.4, 5.9, 105.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2458, '전갱이, 구운것', 2, 0,
         0.1, 25.9, 6.4, 102.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2459, '전갱이, 냉동', 2, 0,
         0.3, 20.0, 3.5, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2460, '전갱이, 소금에 절여 말린것', 2, 0,
         0.7, 46.0, 6.9, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2461, '전갱이, 조미반건조', 2, 0,
         0.1, 20.2, 8.8, 106.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2462, '전갱이, 조미반건조, 구운것', 2, 0,
         0.1, 24.6, 12.3, 108.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2463, '전갱이, 통조림, 조미', 2, 0,
         17.9, 14.7, 0.1, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2464, '전갱이 튀김, 냉동', 2, 0,
         14.8, 16.1, 2.3, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2465, '전갱이, 어린것, 생것', 2, 0,
         0.3, 19.9, 1.5, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2466, '전갱이, 갈전갱이, 생것', 2, 0,
         0.1, 19.6, 3.0, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2467, '전갱이, 줄전갱이, 생것', 2, 0,
         0.1, 24.0, 1.1, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2468, '전어, 생것', 2, 0,
         0.2, 19.2, 2.7, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2469, '전어, 젓갈', 2, 0,
         0.5, 15.3, 6.7, 99.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2470, '점감펭, 생것', 2, 0,
         0.3, 19.4, 0.7, 94.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2471, '점줄우럭, 생것', 2, 0,
         0.1, 19.3, 1.9, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2472, '점줄우럭, 구운것(오븐)', 2, 0,
         0.0, 24.84, 1.3, 94.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2473, '정어리, 생것', 2, 0,
         0.2, 20.0, 9.1, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2474, '정어리, 삶은것', 2, 0,
         0.2, 22.4, 8.7, 92.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2475, '정어리, 구운것', 2, 0,
         0.2, 25.3, 9.4, 93.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2476, '정어리, 말린것', 2, 0,
         0.6, 45.6, 14.8, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2477, '정어리, 삶아서 말린것', 2, 0,
         0.1, 24.5, 2.1, 103.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2478, '정어리, 소금에 절여 말린것', 2, 0,
         0.5, 29.6, 6.5, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2479, '정어리, 염장', 2, 0,
         0.2, 23.3, 5.7, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2480, '정어리, 통조림', 2, 0,
         0.3, 19.3, 4.8, 99.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2481, '정어리, 통조림, 유지', 2, 0,
         0.3, 21.7, 20.0, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2482, '정어리, 통조림, 조미', 2, 0,
         0.4, 16.5, 5.9, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2483, '조기(참조기), 생것', 2, 0,
         0.0, 19.02, 4.04, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2484, '조기(참조기), 굴비, 소금에 절여 말린것', 2, 0,
         0.4, 44.4, 15.2, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2485, '조기(참조기), 젓갈', 2, 0,
         8.0, 15.5, 2.8, 96.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2486, '준치, 생것', 2, 0,
         0.0, 20.1, 4.7, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2487, '준치, 강준치, 생것', 2, 0,
         0.2, 18.7, 1.1, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2488, '쥐치, 생것', 2, 0,
         0.3, 19.1, 0.1, 94.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2489, '쥐치, 포, 말린것', 2, 0,
         34.3, 41.8, 2.3, 95.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2490, '쥐치, 포, 냉동', 2, 0,
         0.3, 18.0, 4.0, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2491, '쥐치, 포, 조미하여 말린것', 2, 0,
         32.01, 41.84, 1.3, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2492, '쥐치, 말쥐치, 생것', 2, 0,
         0.0, 17.3, 7.62, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2493, '쥐치, 말쥐치, 조미하여 말린것', 2, 0,
         34.3, 38.7, 2.2, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2494, '참마자, 생것', 2, 0,
         0.3, 17.7, 1.5, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2495, '청새치, 생것', 2, 0,
         0.1, 23.1, 1.8, 101.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2496, '청어, 생것', 2, 0,
         0.4, 16.3, 15.1, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2497, '청어, 말린것', 2, 0,
         1.0, 44.5, 24.0, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2498, '청어, 삶아서 말린것', 2, 0,
         0.0, 18.7, 4.7, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2499, '청어, 염장', 2, 0,
         0.2, 17.5, 9.0, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2500, '청어, 훈제', 2, 0,
         0.0, 23.1, 22.1, 104.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2501, '청어, 알, 생것', 2, 0,
         0.5, 19.6, 2.4, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2502, '청어, 알, 말린것', 2, 0,
         0.5, 65.2, 13.6, 107.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2503, '청어, 알, 염장', 2, 0,
         0.6, 15.0, 3.0, 111.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2504, '초어, 생것', 2, 0,
         0.2, 17.1, 1.7, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2505, '통치, 생것', 2, 0,
         0.1, 20.0, 5.7, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2506, '투라치, 생것', 2, 0,
         0.5, 18.1, 0.1, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2507, '틸라피아, 생것', 2, 0,
         0.2, 19.3, 4.7, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2508, '푸렁통구멍, 생것', 2, 0,
         0.2, 17.4, 0.2, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2509, '풀반지, 생것', 2, 0,
         0.2, 16.9, 10.1, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2510, '피라미, 생것', 2, 0,
         0.2, 18.5, 2.8, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2511, '학공치, 생것', 2, 0,
         0.7, 17.8, 1.7, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2512, '학공치, 조미하여 말린것', 2, 0,
         17.7, 59.1, 2.0, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2513, '향어, 생것', 2, 0,
         0.1, 18.4, 8.7, 96.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2514, '홍감펭, 생것', 2, 0,
         0.2, 16.7, 3.9, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2515, '홍어, 생것', 2, 0,
         0.0, 19.6, 0.5, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2516, '홍치, 생것', 2, 0,
         0.1, 18.9, 1.4, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2517, '황매퉁이, 생것', 2, 0,
         0.1, 20.0, 1.3, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2518, '황새치, 생것', 2, 0,
         0.0, 17.0, 1.0, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2519, '황새치, 구운것', 2, 0,
         0.0, 23.45, 7.93, 96.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2520, '황새치, 젓갈', 2, 0,
         2.7, 15.7, 4.8, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2521, '황어, 생것', 2, 0,
         0.2, 18.3, 1.8, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2522, '횟대, 빨간횟대, 생것', 2, 0,
         0.3, 17.1, 0.1, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2523, '히메치, 생것', 2, 0,
         0.0, 20.9, 1.1, 94.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2524, '가리비, 생것', 2, 0,
         0.0, 15.18, 1.73, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2525, '가리비, 삶은것', 2, 0,
         1.9, 17.6, 1.9, 106.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2526, '가리비, 튀긴것(빵가루)', 2, 0,
         10.13, 18.07, 10.94, 97.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2527, '가리비, 말린것', 2, 0,
         4.4, 77.6, 0.4, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2528, '가리비, 통조림', 2, 0,
         4.4, 21.6, 0.3, 99.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2529, '가리비, 관자, 생것', 2, 0,
         3.5, 16.9, 0.3, 102.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2530, '가리비, 관자, 삶아서 말린것', 2, 0,
         7.6, 65.7, 1.4, 101.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2531, '가리비, 관자, 냉동', 2, 0,
         2.4, 20.8, 0.8, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2532, '가리비, 국자가리비, 생것', 2, 0,
         1.5, 10.8, 0.8, 102.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2533, '가리비, 비단가리비, 생것', 2, 0,
         1.4, 14.5, 1.0, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2534, '가리비, 큰가리비, 생것', 2, 0,
         0.0, 12.3, 0.82, 94.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2535, '각시수랑, 생것', 2, 0,
         0.9, 15.0, 0.3, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2536, '고둥, 갈색고리돼지고둥, 생것', 2, 0,
         4.3, 16.1, 0.7, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2537, '고둥, 갈색띠매물고둥, 생것', 2, 0,
         3.0, 15.1, 0.2, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2538, '고둥, 관절매물고둥(보라골뱅이), 생것', 2, 0,
         4.5, 17.7, 1.1, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2539, '고둥, 긴고둥(긴뿔고둥), 생것', 2, 0,
         4.8, 17.2, 2.7, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2540, '고둥, 나팔고둥, 생것', 2, 0,
         3.9, 15.9, 3.0, 95.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2541, '고둥, 두드럭고둥, 생것', 2, 0,
         5.5, 14.2, 0.7, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2542, '고둥, 매끈이고둥, 생것', 2, 0,
         2.3, 22.5, 0.4, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2543, '고둥, 물레고둥, 생것', 2, 0,
         3.2, 17.1, 0.3, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2544, '고둥, 민허리돼지고둥, 생것', 2, 0,
         3.2, 16.5, 2.4, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2545, '고둥, 보말고둥, 생것', 2, 0,
         2.6, 14.6, 2.2, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2546, '고둥, 보말고둥, 삶은것', 2, 0,
         5.3, 18.4, 0.7, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2547, '고둥, 비단고둥, 생것', 2, 0,
         2.8, 17.0, 1.2, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2548, '고둥, 세고리물레고둥, 생것', 2, 0,
         2.4, 15.0, 0.1, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2549, '고둥, 위고둥, 생것', 2, 0,
         1.1, 11.2, 1.5, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2550, '고둥, 조각매물고둥, 생것', 2, 0,
         4.4, 17.7, 3.6, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2551, '고둥, 콩깍지고둥, 생것', 2, 0,
         3.0, 19.7, 0.5, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2552, '고둥, 털탑고둥, 생것', 2, 0,
         5.5, 20.7, 3.7, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2553, '고둥, 피뿔고둥, 생것', 2, 0,
         8.0, 17.9, 0.2, 95.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2554, '굴, 석굴, 생것', 2, 0,
         3.7, 8.9, 1.2, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2555, '굴, 참굴, 생것', 2, 0,
         5.27, 9.66, 2.19, 95.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2556, '굴, 참굴, 삶은것', 2, 0,
         7.1, 9.9, 3.6, 111.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2557, '굴, 참굴, 양식, 생것', 2, 0,
         5.1, 10.5, 2.4, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2558, '굴, 참굴, 양념젓갈(어리굴젓)', 2, 0,
         8.1, 8.6, 2.7, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2559, '굴, 토굴, 생것', 2, 0,
         5.3, 10.2, 1.8, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2560, '굴, 냉동', 2, 0,
         5.1, 10.0, 3.6, 95.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2561, '굴, 튀긴것(튀김옷)', 2, 0,
         11.62, 8.77, 12.58, 97.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2562, '굴, 통조림', 2, 0,
         0.0, 14.7, 2.7, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2563, '굴, 통조림, 훈제', 2, 0,
         11.2, 12.5, 22.6, 101.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2564, '꼬막, 생것', 2, 0,
         1.6, 12.6, 0.3, 94.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2565, '꼬막, 새꼬막, 생것', 2, 0,
         2.87, 12.29, 1.11, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2566, '다슬기, 생것', 2, 0,
         5.7, 11.9, 1.2, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2567, '다슬기, 곳체다슬기, 생것', 2, 0,
         4.0, 11.6, 0.6, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2568, '다슬기, 띠구슬다슬기, 생것', 2, 0,
         9.8, 16.9, 0.6, 95.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2569, '다슬기, 염주알다슬기, 생것', 2, 0,
         11.2, 12.7, 1.4, 95.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2570, '다슬기, 좀주름다슬기, 생것', 2, 0,
         6.0, 14.0, 0.5, 96.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2571, '다슬기, 주름다슬기, 생것', 2, 0,
         5.6, 14.2, 1.6, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2572, '다슬기, 참다슬기, 생것', 2, 0,
         4.9, 12.3, 0.4, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2573, '담치, 지중해담치, 생것', 2, 0,
         2.9, 8.9, 0.5, 95.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2574, '담치, 진주담치, 생것', 2, 0,
         5.1, 10.3, 1.1, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2575, '담치, 진주담치, 구운것', 2, 0,
         7.39, 23.8, 4.48, 96.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2576, '담치, 진주담치, 양식, 생것', 2, 0,
         4.4, 11.9, 1.7, 95.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2577, '담치, 참담치(홍합), 생것', 2, 0,
         3.1, 13.8, 1.2, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2578, '담치, 참담치(홍합), 삶아서 말린것', 2, 0,
         14.1, 56.1, 10.2, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2579, '담치, 참담치(홍합), 통조림', 2, 0,
         1.3, 15.8, 2.3, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2580, '대수리, 생것', 2, 0,
         1.9, 18.8, 2.6, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2581, '대합, 북방대합, 생것', 2, 0,
         1.0, 12.0, 0.8, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2582, '동죽, 생것', 2, 0,
         0.9, 11.8, 1.6, 94.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2583, '맛, 붉은맛(큰죽합), 생것', 2, 0,
         2.5, 16.1, 1.8, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2584, '바지락, 생것', 2, 0,
         3.2, 12.27, 0.93, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2585, '바지락, 양식, 생것', 2, 0,
         0.7, 13.0, 1.1, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2586, '바지락, 말린것', 2, 0,
         0.0, 74.0, 3.7, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2587, '바지락, 장조림', 2, 0,
         29.1, 24.8, 2.1, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2588, '바지락, 통조림', 2, 0,
         2.1, 15.2, 2.4, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2589, '바지락, 통조림, 조미', 2, 0,
         8.8, 16.0, 0.8, 100.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2590, '바지락, 젓갈', 2, 0,
         1.5, 8.5, 1.0, 96.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2591, '백합, 생것', 2, 0,
         3.6, 11.7, 1.0, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2592, '백합, 삶은것', 2, 0,
         2.9, 14.9, 1.5, 107.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2593, '백합, 구운것', 2, 0,
         2.8, 13.3, 1.0, 104.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2594, '백합, 통조림, 조미', 2, 0,
         10.9, 19.6, 0.1, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2595, '백합, 말백합, 생것', 2, 0,
         2.5, 10.1, 0.5, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2596, '소라, 생것', 2, 0,
         4.0, 20.7, 0.3, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2597, '소라, 통조림', 2, 0,
         10.9, 19.6, 0.1, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2598, '수랑, 생것', 2, 0,
         2.9, 15.9, 0.7, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2599, '오분자기, 생것', 2, 0,
         4.6, 13.3, 2.1, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2600, '우렁이, 논우렁이, 생것', 2, 0,
         3.8, 10.5, 1.4, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2601, '우렁이, 왕우렁, 생것', 2, 0,
         3.1, 10.6, 0.9, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2602, '우렁이, 큰구슬우렁이(골뱅이), 생것', 2, 0,
         0.3, 17.4, 0.1, 101.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2603, '우렁이, 큰구슬우렁이(골뱅이), 통조림, 고형물', 2, 0,
         5.97, 19.33, 0.83, 99.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2604, '큰우슬우렁이(골뱅이) 무침', 2, 0,
         15.7, 7.1, 2.0, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2605, '우렁이, 큰논우렁이, 생것', 2, 0,
         4.9, 9.8, 1.0, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2606, '재첩, 생것', 2, 0,
         5.8, 12.5, 1.9, 96.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2607, '전복, 둥근전복, 생것', 2, 0,
         4.5, 14.3, 0.7, 95.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2608, '전복, 말전복, 생것', 2, 0,
         3.8, 12.8, 0.8, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2609, '전복, 북방전복, 생것', 2, 0,
         5.1, 15.0, 0.7, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2610, '전복, 내장, 생것', 2, 0,
         0.0, 18.5, 7.6, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2611, '전복, 말린것', 2, 0,
         2.3, 56.0, 0.9, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2612, '전복, 튀긴것', 2, 0,
         11.05, 19.63, 6.78, 97.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2613, '전복, 통조림, 삶은것', 2, 0,
         7.3, 16.3, 0.2, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2614, '전복, 통조림, 조미', 2, 0,
         17.9, 14.7, 0.1, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2615, '전복, 젓갈', 2, 0,
         1.0, 12.2, 4.8, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2616, '조개, 가무락조개, 생것', 2, 0,
         2.8, 14.1, 0.6, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2617, '조개, 개량조개(명주조개), 생것', 2, 0,
         1.1, 12.0, 0.7, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2618, '조개, 개량조개(명주조개), 말린것', 2, 0,
         7.0, 54.2, 2.0, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2619, '조개, 개조개, 생것', 2, 0,
         3.0, 10.9, 0.6, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2620, '조개, 떡조개, 생것', 2, 0,
         7.4, 11.2, 1.0, 95.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2621, '조개, 맛조개, 생것', 2, 0,
         1.3, 9.7, 1.0, 94.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2622, '조개, 맛조개, 말린것', 2, 0,
         14.4, 57.9, 4.8, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2623, '조개, 살조개, 생것', 2, 0,
         3.6, 14.2, 1.5, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2624, '조개, 새조개, 생것', 2, 0,
         1.3, 21.5, 1.9, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2625, '조개, 새조개, 말린것', 2, 0,
         5.2, 61.1, 1.5, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2626, '조개, 새조개, 조미하여 말린것', 2, 0,
         7.9, 57.9, 4.1, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2627, '조개, 왕우럭조개, 생것', 2, 0,
         2.7, 16.4, 2.2, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2628, '조개, 우럭, 생것', 2, 0,
         2.7, 16.3, 2.0, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2629, '조개, 접시조개(비단조개), 생것', 2, 0,
         3.0, 11.9, 0.6, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2630, '조개, 진주조개, 생것', 2, 0,
         1.1, 10.1, 0.9, 94.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2631, '조개, 키조개, 생것', 2, 0,
         0.8, 10.3, 1.1, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2632, '조개, 키조개, 패주, 생것', 2, 0,
         1.9, 12.4, 1.1, 95.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2633, '조개, 키조개, 근육, 생것', 2, 0,
         2.7, 18.6, 0.2, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2634, '조개, 펄조개, 생것', 2, 0,
         6.0, 9.4, 1.0, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2635, '조개, 피조개, 생것', 2, 0,
         2.7, 11.6, 0.6, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2636, '조개, 피조개, 통조림, 조미', 2, 0,
         7.8, 18.0, 1.3, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2637, '조개, 피조개, 양식, 생것', 2, 0,
         3.0, 11.8, 2.2, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2638, '조개, 젓갈', 2, 0,
         5.45, 10.83, 0.63, 99.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2639, '가재, 갯가재, 생것', 2, 0,
         0.8, 16.1, 1.7, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2640, '가재, 갯가재, 삶은것', 2, 0,
         0.2, 19.2, 1.7, 104.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2641, '가재, 바닷가재, 생것', 2, 0,
         0.0, 15.97, 0.95, 94.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2642, '가재, 바닷가재, 찐것', 2, 0,
         0.0, 16.77, 1.2, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2643, '개불, 생것', 2, 0,
         1.6, 10.5, 0.2, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2644, '게, 꽃게, 생것', 2, 0,
         0.43, 16.19, 0.7, 94.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2645, '게, 꽃게, 찐것', 2, 0,
         0.0, 17.88, 0.74, 94.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2646, '게, 닭게, 생것', 2, 0,
         0.1, 15.2, 0.5, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2647, '게, 닭게, 삶은것', 2, 0,
         0.6, 16.1, 0.3, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2648, '게, 닭게, 젓갈', 2, 0,
         0.8, 12.2, 0.6, 100.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2649, '게, 대게, 생것', 2, 0,
         0.5, 17.4, 1.0, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2650, '게, 대게, 삶은것', 2, 0,
         0.1, 15.0, 0.6, 101.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2651, '게, 대게, 삶아서 말린것', 2, 0,
         2.0, 66.7, 2.6, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2652, '게, 대게, 통조림', 2, 0,
         0.2, 16.3, 0.4, 100.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2653, '게, 민꽃게, 생것', 2, 0,
         2.0, 14.8, 1.6, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2654, '게, 방게, 생것', 2, 0,
         0.9, 11.9, 1.3, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2655, '게, 붉은대게, 생것', 2, 0,
         0.3, 10.5, 0.3, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2656, '게, 왕게, 생것', 2, 0,
         0.6, 13.7, 0.7, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2657, '게, 왕게, 삶은것', 2, 0,
         0.3, 17.5, 1.5, 110.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2658, '게, 주름송편게, 생것', 2, 0,
         1.1, 18.8, 0.3, 94.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2659, '게, 참게, 생것', 2, 0,
         0.2, 14.4, 12.0, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2660, '게맛살, 어육함량이 낮은것', 2, 0,
         19.45, 7.7, 1.12, 99.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2661, '게맛살, 어육함량이 낮은것, 데친것', 2, 0,
         19.31, 7.71, 1.09, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2662, '게맛살, 어육함량이 높은것', 2, 0,
         9.52, 11.67, 0.87, 99.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2663, '군소, 생것', 2, 0,
         0.5, 5.8, 1.0, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2664, '군소, 풍선군소, 생것', 2, 0,
         0.5, 7.7, 0.9, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2665, '꼴뚜기, 불똥꼴뚜기, 생것', 2, 0,
         0.6, 14.4, 3.0, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2666, '꼴뚜기, 불똥꼴뚜기, 삶은것', 2, 0,
         0.4, 17.7, 2.9, 108.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2667, '꼴뚜기, 불똥꼴뚜기, 조린것', 2, 0,
         22.9, 27.0, 6.7, 106.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2668, '꼴뚜기, 불똥꼴뚜기, 조미훈제', 2, 0,
         21.3, 43.1, 7.5, 106.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2669, '꼴뚜기, 참꼴뚜기, 생것', 2, 0,
         1.0, 13.6, 1.8, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2670, '꼴뚜기, 참꼴뚜기, 삶아서 말린것', 2, 0,
         1.7, 51.3, 6.6, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2671, '꼴뚜기, 창꼴뚜기, 생것', 2, 0,
         0.8, 14.7, 0.5, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2672, '꼴뚜기, 젓갈', 2, 0,
         0.3, 16.0, 2.0, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2673, '꼴뚜기, 양념젓갈', 2, 0,
         14.8, 9.6, 1.8, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2674, '낙지, 생것', 2, 0,
         0.0, 16.3, 0.43, 94.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2675, '낙지, 세발낙지, 생것', 2, 0,
         0.1, 11.5, 0.6, 94.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2676, '낙지, 양념젓갈', 2, 0,
         27.14, 10.0, 1.36, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2677, '멍게(우렁쉥이), 생것', 2, 0,
         0.8, 5.0, 0.8, 112.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2678, '멍게, 양식, 생것', 2, 0,
         4.9, 8.7, 2.1, 100.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2679, '멍게, 양념젓갈', 2, 0,
         22.99, 9.25, 1.19, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2680, '멍게, 끈멍게, 생것', 2, 0,
         5.0, 7.4, 1.5, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2681, '멍게, 붉은멍게, 생것', 2, 0,
         3.7, 9.2, 2.6, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2682, '문어, 생것', 2, 0,
         0.1, 16.4, 0.7, 103.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2683, '문어, 삶은것', 2, 0,
         0.1, 21.7, 0.7, 102.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2684, '문어, 대문어, 생것', 2, 0,
         0.3, 12.2, 0.6, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2685, '문어, 대문어, 말린것', 2, 0,
         3.6, 72.0, 3.1, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2686, '문어, 참문어, 생것', 2, 0,
         0.1, 12.7, 0.2, 94.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2687, '미더덕, 생것', 2, 0,
         4.1, 4.3, 1.2, 100.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2688, '미더덕, 주름미더덕, 생것', 2, 0,
         2.3, 9.0, 0.7, 99.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2689, '새우, 가시발새우, 생것', 2, 0,
         0.6, 15.2, 0.5, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2690, '새우, 각시흰새우, 생것', 2, 0,
         1.0, 15.7, 1.6, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2691, '새우, 긴뿔천길새우, 생것', 2, 0,
         0.0, 20.0, 0.8, 94.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2692, '새우, 꽃새우, 생것', 2, 0,
         0.6, 22.0, 2.0, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2693, '새우, 꽃새우, 삶아서 말린것', 2, 0,
         4.1, 55.5, 5.9, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2694, '새우, 꽃새우, 찐것', 2, 0,
         1.52, 22.78, 1.7, 94.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2695, '새우, 꽃새우, 튀긴것(빵가루)', 2, 0,
         11.47, 21.39, 12.28, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2696, '새우, 꽃새우, 냉동', 2, 0,
         0.6, 22.0, 2.0, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2697, '새우, 꽃새우, 장조림', 2, 0,
         25.8, 25.9, 2.6, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2698, '새우, 닭새우, 생것', 2, 0,
         1.3, 17.0, 1.2, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2699, '새우, 대하, 생것', 2, 0,
         0.1, 18.1, 0.6, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2700, '새우, 대하, 말린것', 2, 0,
         15.6, 62.4, 3.5, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2701, '새우, 물렁가시붉은새우, 생것', 2, 0,
         0.6, 18.0, 0.5, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2702, '새우, 보리새우, 생것', 2, 0,
         0.1, 15.1, 0.7, 94.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2703, '새우, 보리새우, 삶은것', 2, 0,
         0.0, 28.2, 0.5, 101.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2704, '새우, 부채새우, 생것', 2, 0,
         0.0, 13.7, 0.8, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2705, '새우, 중하, 생것', 2, 0,
         0.1, 20.1, 0.9, 94.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2706, '새우, 중하, 삶아서 말린것', 2, 0,
         2.9, 54.4, 6.2, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2707, '새우, 중하, 조미하여 말린것', 2, 0,
         46.7, 28.5, 2.0, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2708, '새우, 중하, 통조림', 2, 0,
         0.6, 21.5, 0.7, 99.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2709, '새우, 중하, 젓갈', 2, 0,
         0.3, 15.8, 2.6, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2710, '새우, 젓새우, 생것', 2, 0,
         2.6, 9.6, 1.2, 96.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2711, '새우, 젓새우, 조린것', 2, 0,
         35.1, 19.1, 1.8, 101.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2712, '새우, 젓새우, 젓갈', 2, 0,
         0.7, 10.4, 0.9, 99.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2713, '새우, 징거미새우, 생것', 2, 0,
         0.0, 18.3, 1.4, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2714, '새우, 철모새우(도화새우), 생것', 2, 0,
         0.9, 18.5, 0.9, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2715, '새우, 펄닭새우, 생것', 2, 0,
         0.0, 13.2, 0.6, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2716, '새우, 흰다리새우, 생것', 2, 0,
         0.0, 21.17, 0.89, 94.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2717, '새우, 껍질, 생것', 2, 0,
         6.1, 44.0, 11.9, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2718, '새우 볶음, 말린것, 볶은것', 2, 0,
         28.5, 23.4, 13.4, 96.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2719, '새우 튀김용, 냉동', 2, 0,
         20.3, 10.2, 1.9, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2720, '새우 튀김용, 튀긴것(빵가루)', 2, 0,
         28.84, 6.43, 13.53, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2721, '새우, 젓갈', 2, 0,
         1.2, 8.09, 0.32, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2722, '새우, 젓갈, 추젓', 2, 0,
         1.2, 9.1, 0.6, 99.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2723, '새우, 젓갈, 토굴대때기젓', 2, 0,
         1.7, 10.1, 0.6, 99.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2724, '새우, 젓갈, 토굴동백하젓', 2, 0,
         1.6, 8.3, 1.0, 99.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2725, '새우, 젓갈, 토굴오젓', 2, 0,
         2.5, 10.8, 0.4, 99.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2726, '새우, 젓갈, 토굴육젓', 2, 0,
         1.9, 10.8, 0.6, 100.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2727, '새우, 젓갈, 토굴추젓', 2, 0,
         1.5, 8.9, 0.5, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2728, '성게, 생것', 2, 0,
         2.0, 15.8, 8.5, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2729, '성게, 젓갈', 2, 0,
         4.4, 21.4, 2.8, 100.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2730, '성게, 알, 젓갈', 2, 0,
         13.4, 9.2, 1.5, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2731, '성게, 보라성게, 생것', 2, 0,
         7.6, 16.1, 8.7, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2732, '성게, 보라성게, 알, 생것', 2, 0,
         7.6, 16.1, 8.7, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2733, '성게, 보라성게, 알, 젓갈', 2, 0,
         7.3, 18.3, 4.5, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2734, '성게, 통조림', 2, 0,
         8.9, 14.0, 5.1, 99.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2735, '오징어, 생것', 2, 0,
         0.16, 18.84, 1.44, 94.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2736, '오징어, 구운것', 2, 0,
         0.1, 23.6, 1.0, 96.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2737, '오징어, 튀긴것', 2, 0,
         7.79, 17.94, 7.48, 97.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2738, '오징어, 말린것', 2, 0,
         0.2, 67.8, 6.9, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2739, '오징어, 냉동', 2, 0,
         0.5, 17.0, 1.5, 94.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2740, '오징어, 조미, 구운것', 2, 0,
         26.6, 40.1, 3.7, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2741, '오징어, 조미훈제', 2, 0,
         12.4, 34.4, 2.0, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2742, '오징어, 채, 조미하여 말린것', 2, 0,
         22.79, 39.31, 2.41, 95.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2743, '오징어, 포, 조미하여 말린것', 2, 0,
         0.4, 63.5, 2.7, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2744, '오징어, 갑오징어, 생것', 2, 0,
         0.1, 15.1, 1.2, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2745, '오징어, 갑오징어, 말린것', 2, 0,
         3.2, 66.8, 4.7, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2746, '오징어, 살오징어, 생것', 2, 0,
         0.2, 15.7, 0.5, 94.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2747, '오징어, 쇠갑오징어, 생것', 2, 0,
         0.2, 16.9, 0.7, 94.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2748, '오징어, 참갑오징어, 생것', 2, 0,
         0.2, 17.3, 0.2, 94.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2749, '오징어, 양념젓갈', 2, 0,
         27.0, 9.88, 2.04, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2750, '오징어, 내장, 젓갈', 2, 0,
         5.0, 16.0, 1.5, 99.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2751, '오징어 튀김', 2, 0,
         24.3, 11.9, 18.1, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2752, '오징어채 볶음', 2, 0,
         41.4, 18.6, 4.2, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2753, '주꾸미, 생것', 2, 0,
         0.5, 10.8, 0.5, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2754, '크릴, 생것', 2, 0,
         0.2, 12.1, 2.6, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2755, '크릴, 삶은것', 2, 0,
         0.0, 13.8, 3.0, 105.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2756, '크릴 페이스트', 2, 0,
         2.0, 16.5, 5.5, 95.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2757, '한치, 생것', 2, 0,
         0.3, 14.9, 1.8, 95.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2758, '해삼, 생것', 2, 0,
         1.3, 3.7, 0.4, 98.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2759, '해삼, 말린것', 2, 0,
         3.0, 77.6, 0.9, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2760, '해삼, 염장', 2, 0,
         2.4, 4.9, 0.5, 99.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2761, '해삼, 젓갈', 2, 0,
         2.5, 5.5, 0.0, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2762, '해삼, 내장, 젓갈', 2, 0,
         0.8, 7.7, 1.0, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2763, '해파리, 생것', 2, 0,
         0.1, 1.3, 0.0, 93.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2857, '치즈, 모차렐라, 슈레드타입', 2, 0,
         5.66, 26.6, 17.37, 97.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3011, '간장, 개량, 양조', 2, 0,
         16.54, 9.15, 0.0, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3012, '간장, 개량, 산분해', 2, 0,
         5.59, 7.41, 0.19, 99.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3013, '간장, 재래', 2, 0,
         2.47, 5.92, 0.03, 99.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3024, '굴 소스', 2, 0,
         27.14, 2.07, 0.05, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3025, '깨소금, 가루, 볶은것', 2, 0,
         13.7, 18.1, 56.7, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3027, '데리야끼 소스', 2, 0,
         15.56, 5.93, 0.02, 96.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3028, '된장, 개량', 2, 0,
         18.94, 13.73, 7.25, 101.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3029, '된장, 개량, 찌개용', 2, 0,
         18.5, 12.5, 5.59, 100.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3030, '된장, 보리', 2, 0,
         25.3, 10.9, 2.1, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3031, '된장, 재래', 2, 0,
         7.26, 13.6, 6.89, 102.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3043, '바비큐 소스', 2, 0,
         33.08, 1.38, 0.54, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3089, '청국장', 2, 0,
         12.8, 20.79, 9.61, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3090, '청국장, 가루', 2, 0,
         26.81, 41.83, 21.61, 102.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3091, '청국장, 찌개용', 2, 0,
         10.42, 10.93, 5.88, 101.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3290, '두부, 유부, 조미', 2, 0,
         12.09, 9.77, 12.67, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3312, '닭 부산물, 간, 구운것(팬)', 2, 0,
         3.58, 18.54, 6.53, 95.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3313, '닭 부산물, 심장, 구운것(팬)', 2, 0,
         0.0, 24.44, 11.98, 95.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3314, '닭 부산물, 닭발, 생것', 2, 0,
         0.0, 17.64, 13.27, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3315, '닭 부산물, 닭발, 육수', 2, 0,
         0.0, 0.25, 0.28, 88.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3316, '치킨너겟, 냉동', 2, 0,
         13.5, 13.02, 16.47, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3317, '치킨너겟, 냉동, 튀긴것', 2, 0,
         16.63, 15.3, 22.7, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3318, '돼지고기, 앞다리, 수육용, 생것', 2, 0,
         0.0, 17.46, 21.32, 95.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3319, '돼지고기, 앞다리, 수육용, 삶은것', 2, 0,
         0.0, 27.47, 20.63, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3320, '돼지 부산물, 머리고기, 삶은것', 2, 0,
         0.0, 17.52, 30.67, 95.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3321, '베이컨, 데친것', 2, 0,
         3.58, 21.24, 17.87, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3322, '햄, 런천미트햄, 데친것', 2, 0,
         5.04, 15.82, 12.33, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3323, '햄, 런천미트햄, 구운것(팬)', 2, 0,
         6.42, 18.62, 14.15, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3324, '소불고기, 볶은것', 2, 0,
         6.73, 10.33, 13.1, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3325, '오리고기, 삶은것, 껍질포함', 2, 0,
         0.0, 28.74, 16.58, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3326, '오리고기, 구운것(팬), 껍질포함', 2, 0,
         0.0, 28.98, 19.76, 95.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3327, '오리고기, 조미훈제', 2, 0,
         2.37, 17.96, 21.74, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3328, '오리고기, 조미훈제, 구운것(팬)', 2, 0,
         3.86, 26.85, 15.16, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3329, '멸치 육수, 티백, 채소 포함', 2, 0,
         0.35, 0.14, 0.03, 111.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2817, '모유', 4, 0,
         7.2, 1.1, 3.5, 106.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2818, '분유', 4, 0,
         56.6, 13.98, 23.93, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2819, '분유, 1단계', 4, 0,
         56.88, 12.41, 25.75, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2820, '분유, 2단계', 4, 0,
         56.93, 12.63, 25.38, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2821, '분유, 3단계', 4, 0,
         56.04, 16.91, 20.65, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2822, '분유, 전지', 4, 0,
         39.07, 25.46, 27.32, 99.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2823, '분유, 탈지', 4, 0,
         53.16, 33.88, 0.97, 99.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2824, '산양유', 4, 0,
         4.03, 3.16, 3.62, 98.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2825, '셔벗', 4, 0,
         28.7, 0.9, 1.0, 99.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2826, '아이스밀크', 4, 0,
         23.9, 3.4, 6.4, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2828, '아이스크림, 바닐라맛', 4, 0,
         22.25, 4.98, 7.83, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2830, '아이스크림, 유지방 8%', 4, 0,
         23.2, 3.9, 8.0, 101.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2832, '아이스크림, 소프트 아이스크림, 바닐라맛', 4, 0,
         23.5, 2.38, 3.98, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2833, '연유, 점성이 낮은것', 4, 0,
         13.1, 5.56, 5.73, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2834, '연유, 점성이 높은것', 4, 0,
         66.31, 7.76, 7.84, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2835, '요구르트, 액상', 4, 0,
         15.23, 1.29, 0.02, 101.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2836, '요구르트, 액상, 저당', 4, 0,
         10.38, 1.11, 0.02, 102.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2837, '요구르트, 액상(농후), 딸기맛', 4, 0,
         13.49, 3.29, 2.22, 102.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2838, '요구르트, 액상(농후), 플레인', 4, 0,
         11.66, 3.03, 2.96, 100.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2839, '요구르트, 액상(농후), 식이섬유 첨가', 4, 0,
         13.81, 3.19, 3.26, 100.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2840, '요구르트, 액상(농후), 사과맛, 식이섬유 첨가', 4, 0,
         18.91, 2.57, 2.71, 101.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2841, '요구르트, 액상(농후), 저지방, 식이섬유 첨가', 4, 0,
         12.08, 3.54, 1.36, 101.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2842, '요구르트, 액상(농후), 플레인, 식이섬유 첨가', 4, 0,
         12.3, 2.31, 3.22, 100.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2843, '요구르트, 호상, 딸기맛', 4, 0,
         15.53, 2.95, 2.46, 101.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2844, '요구르트, 호상, 망고맛', 4, 0,
         12.44, 4.55, 2.7, 100.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2845, '요구르트, 호상, 플레인', 4, 0,
         9.69, 4.53, 3.21, 99.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2846, '우유', 4, 0,
         5.53, 3.08, 3.32, 99.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2847, '우유, 가공우유, 딸기맛', 4, 0,
         12.34, 2.29, 1.12, 100.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2848, '우유, 가공우유, 바나나맛', 4, 0,
         13.13, 2.63, 3.02, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2849, '우유, 가공우유, 초코맛', 4, 0,
         12.14, 2.61, 1.41, 101.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2850, '우유, 가공우유, 커피맛', 4, 0,
         9.82, 2.44, 1.38, 100.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2851, '우유, 강화우유, 고칼슘', 4, 0,
         6.53, 2.98, 2.77, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2852, '우유, 저지방우유', 4, 0,
         4.86, 3.43, 0.9, 98.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2853, '치즈, 고다', 4, 0,
         2.22, 24.94, 27.44, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2854, '치즈, 까망베르', 4, 0,
         0.46, 19.8, 24.26, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2855, '치즈, 리코타', 4, 0,
         6.7, 7.1, 11.5, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2856, '치즈, 모차렐라', 4, 0,
         3.15, 17.34, 16.49, 97.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2858, '치즈, 브리', 4, 0,
         0.45, 20.75, 27.68, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2859, '치즈, 브릭', 4, 0,
         2.79, 23.24, 29.68, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2860, '치즈, 블루', 4, 0,
         2.34, 21.4, 28.74, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2861, '치즈, 체다', 4, 0,
         6.17, 18.76, 21.3, 97.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2862, '치즈, 카테지', 4, 0,
         1.9, 13.3, 4.5, 102.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2863, '치즈, 크림', 4, 0,
         5.52, 6.15, 34.44, 101.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2864, '치즈, 파르메산(파마산)', 4, 0,
         13.91, 28.42, 27.84, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2865, '커피크리머, 가루', 4, 0,
         62.2, 1.57, 29.11, 100.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2866, '커피크리머, 액상, 식물성지방', 4, 0,
         1.8, 4.3, 24.8, 101.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2867, '커피크리머, 액상, 유지방', 4, 0,
         5.5, 5.2, 18.3, 101.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3330, '아이스크림, 딸기맛, 유지방12%', 4, 0,
         21.4, 2.93, 12.0, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3331, '아이스크림, 딸기맛, 유지방14.5%', 4, 0,
         21.69, 3.77, 15.41, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3332, '아이스크림, 초콜릿맛, 유지방12% ', 4, 0,
         26.86, 4.63, 13.24, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3333, '아이스크림, 초콜릿맛, 유지방14.7%', 4, 0,
         21.38, 4.56, 16.99, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3334, '아이스크림, 빙과, 딸기맛', 4, 0,
         26.5, 0.82, 6.56, 100.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3335, '아이스크림, 빙과, 초콜릿맛', 4, 0,
         29.86, 1.37, 6.34, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         613, '개암, 헤이즐넛, 말린것', 5, 0,
         16.7, 14.95, 60.75, 107.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         614, '개암, 헤이즐넛, 볶은것', 5, 0,
         17.6, 15.03, 62.4, 107.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         621, '도토리묵, 가루', 5, 0,
         87.09, 1.7, 1.23, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         622, '들깨, 말린것', 5, 0,
         29.26, 22.68, 39.74, 106.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         623, '들깨, 볶은것', 5, 0,
         35.53, 23.59, 36.23, 106.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         624, '땅콩, 말린것', 5, 0,
         18.36, 25.74, 42.57, 107.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         625, '땅콩, 검은색, 말린것', 5, 0,
         26.5, 19.3, 47.7, 106.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         626, '땅콩, 대립종, 말린것', 5, 0,
         17.1, 26.1, 49.1, 107.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         627, '땅콩, 중립종, 말린것', 5, 0,
         29.1, 20.3, 43.0, 106.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         628, '땅콩, 소립종, 말린것', 5, 0,
         24.2, 22.4, 46.3, 106.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         629, '땅콩, 삶은것, 소금첨가', 5, 0,
         21.26, 13.5, 22.01, 106.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         630, '땅콩, 볶은것', 5, 0,
         19.91, 28.5, 46.24, 107.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         631, '땅콩, 가루', 5, 0,
         24.62, 28.43, 43.11, 107.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         632, '땅콩, 조미, 볶은것', 5, 0,
         24.92, 26.54, 43.59, 107.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         633, '때죽, 말린것', 5, 0,
         31.8, 13.6, 44.7, 106.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         635, '마카다미아, 조미, 볶은것', 5, 0,
         12.2, 8.3, 76.7, 102.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         637, '목화씨, 구운것', 5, 0,
         21.9, 32.59, 36.29, 107.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         655, '밤, 구운것, 레토르트', 5, 0,
         42.81, 4.48, 1.1, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         657, '브라질너트, 말린것', 5, 0,
         11.74, 14.32, 67.1, 107.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         658, '브라질너트, 조미, 볶은것', 5, 0,
         9.6, 14.9, 69.1, 102.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         659, '삼씨(대마씨), 말린것', 5, 0,
         31.7, 29.9, 28.3, 111.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         661, '수박씨, 조미, 볶은것', 5, 0,
         13.4, 29.6, 46.4, 111.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         662, '아마씨, 볶은것', 5, 0,
         30.4, 21.8, 43.3, 110.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         663, '아몬드, 말린것', 5, 0,
         20.09, 23.44, 49.96, 107.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         664, '아몬드, 볶은것', 5, 0,
         20.49, 23.45, 51.29, 107.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         665, '아몬드, 조미, 볶은것', 5, 0,
         21.82, 25.74, 46.61, 107.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         666, '연씨, 생것', 5, 0,
         14.9, 5.9, 0.5, 108.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         670, '잣, 생것', 5, 0,
         19.38, 15.96, 59.28, 107.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         671, '잣, 볶은것', 5, 0,
         4.7, 17.6, 75.0, 107.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         672, '잣, 말린것', 5, 0,
         17.6, 15.4, 61.5, 107.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         675, '참깨, 검은색, 말린것', 5, 0,
         26.45, 20.85, 44.12, 106.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         676, '참깨, 검은색, 볶은것', 5, 0,
         27.42, 21.28, 42.3, 106.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         677, '참깨, 흰색, 말린것', 5, 0,
         21.77, 25.41, 45.31, 107.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         678, '참깨, 흰색, 볶은것', 5, 0,
         21.83, 25.96, 45.11, 107.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         682, '캐슈넛, 조미, 볶은것', 5, 0,
         30.16, 16.84, 47.77, 106.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         683, '코코넛, 말린것', 5, 0,
         23.65, 6.88, 64.53, 106.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         684, '코코넛, 볶은것', 5, 0,
         44.4, 5.3, 47.0, 105.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         685, '코코넛, 코코넛밀크', 5, 0,
         5.54, 2.29, 23.84, 106.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         687, '피스타치오, 말린것', 5, 0,
         27.17, 20.16, 45.32, 106.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         688, '피스타치오, 볶은것', 5, 0,
         20.82, 25.99, 48.89, 107.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         689, '피스타치오, 조미, 볶은것', 5, 0,
         24.66, 22.9, 48.22, 107.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         690, '피칸, 말린것', 5, 0,
         13.86, 9.17, 71.97, 107.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         691, '피칸, 조미, 볶은것', 5, 0,
         13.55, 9.5, 74.27, 107.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         692, '해바라기씨, 말린것', 5, 0,
         18.58, 21.93, 52.26, 107.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         693, '해바라기씨, 볶은것', 5, 0,
         24.07, 19.33, 49.8, 106.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         694, '해바라기씨, 조미, 볶은것', 5, 0,
         17.2, 20.1, 56.3, 111.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         695, '호두, 말린것', 5, 0,
         7.92, 15.47, 71.99, 107.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         696, '호두, 볶은것', 5, 0,
         11.7, 14.6, 68.8, 101.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         697, '호박씨, 말린것', 5, 0,
         5.34, 35.35, 48.18, 108.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         698, '호박씨, 조미, 볶은것', 5, 0,
         12.0, 26.5, 51.8, 105.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2868, '크림, 생크림', 5, 0,
         4.98, 2.03, 37.81, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2869, '크림, 휘핑, 동물성', 5, 0,
         6.43, 2.01, 35.55, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2870, '크림, 휘핑, 식물성', 5, 0,
         17.96, 0.11, 21.76, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2871, '고추기름', 5, 0,
         0.0, 0.02, 99.8, 97.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2872, '닭기름', 5, 0,
         0.0, 0.0, 99.8, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2873, '돼지기름', 5, 0,
         0.58, 0.0, 99.38, 98.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2874, '들기름', 5, 0,
         0.0, 0.0, 99.86, 97.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2875, '땅콩 버터', 5, 0,
         18.9, 25.8, 51.91, 98.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2876, '땅콩 버터, 청크', 5, 0,
         21.57, 24.06, 49.94, 107.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2877, '땅콩 버터, 크림', 5, 0,
         22.31, 22.21, 51.36, 107.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2878, '땅콩기름', 5, 0,
         0.0, 0.0, 100.0, 101.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2879, '마가린', 5, 0,
         12.06, 0.2, 72.41, 98.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2880, '면실유', 5, 0,
         0.0, 0.0, 100.0, 101.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2881, '버터, 가염', 5, 0,
         1.46, 0.59, 82.04, 98.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2882, '복숭아씨기름', 5, 0,
         0.3, 0.5, 98.9, 98.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2883, '쇠기름', 5, 0,
         0.0, 0.2, 99.8, 103.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2884, '쇼트닝', 5, 0,
         0.48, 0.0, 99.52, 97.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2885, '쌀겨기름(미강유)', 5, 0,
         0.05, 0.0, 99.95, 97.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2886, '아마씨유', 5, 0,
         0.0, 0.11, 99.98, 101.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2887, '아몬드유', 5, 0,
         0.0, 0.0, 100.0, 101.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2888, '아보카도유', 5, 0,
         0.48, 0.0, 99.52, 97.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2889, '연어기름', 5, 0,
         0.0, 0.0, 100.0, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2890, '옥수수기름', 5, 0,
         0.17, 0.0, 99.74, 97.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2891, '올리브유', 5, 0,
         0.0, 0.0, 100.0, 97.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2892, '유채씨기름', 5, 0,
         0.1, 0.02, 99.85, 97.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2893, '잇꽃씨기름', 5, 0,
         0.0, 0.0, 100.0, 100.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2894, '참기름', 5, 0,
         0.14, 0.0, 99.59, 97.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2895, '코코넛유', 5, 0,
         0.33, 0.0, 99.67, 97.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2896, '콩기름', 5, 0,
         0.66, 0.0, 99.31, 98.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2897, '팜유', 5, 0,
         0.44, 0.0, 99.56, 97.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2898, '포도씨유', 5, 0,
         0.01, 0.0, 99.93, 97.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2899, '해바라기유', 5, 0,
         0.2, 0.0, 99.76, 97.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2900, '호두유', 5, 0,
         0.39, 0.0, 99.57, 97.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2901, '혼합식물성유', 5, 0,
         0.0, 0.0, 100.0, 101.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3336, '버터, 무가염', 5, 0,
         4.11, 0.52, 81.0, 98.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         699, '가시오갈피, 순, 생것', 6, 0,
         15.87, 5.67, 0.7, 121.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         700, '가시오갈피, 순, 데친것', 6, 0,
         11.99, 5.25, 0.85, 121.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         701, '가지, 생것', 6, 0,
         4.36, 1.13, 0.03, 117.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         702, '가지, 데친것', 6, 0,
         4.4, 1.0, 0.1, 118.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         703, '가지, 말린것', 6, 0,
         65.59, 14.53, 2.4, 118.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         704, '가지, 염절임', 6, 0,
         5.2, 1.4, 0.1, 124.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         705, '갓, 생것', 6, 0,
         7.3, 3.5, 0.2, 125.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         706, '갓, 돌산갓, 생것', 6, 0,
         4.22, 2.66, 0.28, 125.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         707, '개비름, 생것', 6, 0,
         3.96, 2.72, 0.29, 127.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         708, '개비름, 데친것', 6, 0,
         4.51, 2.98, 0.41, 124.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         709, '갯기름나물, 생것', 6, 0,
         9.67, 3.71, 0.41, 121.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         710, '갯기름나물, 노지, 생것', 6, 0,
         7.91, 3.94, 0.32, 122.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         711, '갯기름나물, 노지, 어린잎, 생것', 6, 0,
         10.92, 4.17, 0.52, 122.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         712, '갯기름나물, 하우스, 생것', 6, 0,
         10.75, 3.12, 0.44, 118.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         713, '갯기름나물, 하우스, 어린잎, 생것', 6, 0,
         9.09, 3.59, 0.36, 122.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         714, '갯기름나물, 데친것', 6, 0,
         9.39, 3.86, 0.71, 121.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         715, '갯기름나물, 노지, 데친것', 6, 0,
         8.56, 3.62, 0.57, 122.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         716, '갯기름나물, 노지, 어린잎, 데친것', 6, 0,
         10.15, 4.11, 0.8, 121.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         717, '갯기름나물, 하우스, 데친것', 6, 0,
         10.25, 3.41, 0.79, 118.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         718, '갯기름나물, 하우스, 어린잎, 데친것', 6, 0,
         8.61, 4.28, 0.69, 122.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         719, '갯나물, 세발나물, 생것', 6, 0,
         3.59, 1.61, 0.14, 122.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         720, '갯나물, 세발나물, 데친것', 6, 0,
         4.2, 2.29, 0.28, 123.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         721, '갯나물, 칠면초, 생것', 6, 0,
         5.0, 2.7, 0.3, 124.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         722, '갯나물, 퉁퉁마디(함초), 노지, 생것', 6, 0,
         3.97, 1.4, 0.15, 120.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         723, '갯나물, 퉁퉁마디(함초), 하우스, 생것', 6, 0,
         4.13, 1.34, 0.15, 122.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         724, '갯나물, 퉁퉁마디(함초), 환', 6, 0,
         52.6, 9.28, 6.14, 115.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         725, '게걸무, 생것', 6, 0,
         12.43, 2.84, 0.2, 110.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         726, '게걸무, 잎, 생것', 6, 0,
         6.95, 2.08, 0.25, 119.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         727, '겨자, 녹색, 생것', 6, 0,
         4.19, 3.03, 0.17, 126.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         728, '겨자, 적색, 생것', 6, 0,
         3.57, 3.54, 0.27, 128.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         729, '경수채, 어린잎, 생것', 6, 0,
         5.57, 1.68, 0.24, 119.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         730, '고구마, 잎, 생것', 6, 0,
         7.34, 3.92, 0.44, 104.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         731, '고구마, 잎, 데친것', 6, 0,
         5.8, 3.44, 0.62, 103.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         732, '고구마, 줄기, 생것', 6, 0,
         3.63, 0.76, 0.02, 98.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         733, '고구마, 줄기, 데친것', 6, 0,
         3.64, 0.59, 0.05, 102.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         734, '고구마, 줄기, 삶은것', 6, 0,
         2.88, 0.45, 0.05, 98.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         735, '고구마, 줄기, 말린것', 6, 0,
         75.53, 6.07, 0.47, 99.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         736, '고구마, 줄기, 삶아서 말린것, 삶은것', 6, 0,
         4.96, 0.48, 0.11, 98.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         737, '고구마, 줄기, 껍질 포함, 생것', 6, 0,
         4.96, 0.88, 0.03, 102.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         738, '고구마, 줄기, 껍질 포함, 데친것', 6, 0,
         4.65, 0.74, 0.06, 100.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         739, '고구마, 줄기, 껍질 포함, 삶아서 말린것, 삶은것', 6, 0,
         7.51, 0.52, 0.06, 99.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         740, '고들빼기, 생것', 6, 0,
         5.8, 1.6, 0.5, 117.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         741, '고들빼기, 이고들빼기, 생것', 6, 0,
         8.2, 2.5, 0.4, 119.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         742, '고려엉겅퀴(곤드레), 재래종, 잎, 생것', 6, 0,
         4.67, 2.99, 0.52, 126.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         744, '고려엉겅퀴(곤드레), 말린것', 6, 0,
         49.84, 28.72, 5.01, 123.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         745, '고비, 야생, 생것', 6, 0,
         6.41, 1.72, 0.13, 120.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         746, '고비, 야생, 삶은것', 6, 0,
         5.43, 1.58, 0.16, 117.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         747, '고비, 야생, 말린것, 삶은것', 6, 0,
         6.84, 1.68, 0.26, 117.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         748, '고비, 야생, 삶아서 말린것', 6, 0,
         67.51, 17.95, 1.7, 119.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         749, '고비, 재배, 생것', 6, 0,
         6.2, 2.1, 0.1, 121.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         750, '고사리, 생것', 6, 0,
         3.8, 2.9, 0.17, 128.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         751, '고사리, 데친것', 6, 0,
         3.55, 2.74, 0.24, 130.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         752, '고사리, 말린것', 6, 0,
         54.2, 25.8, 0.6, 124.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         753, '고사리, 삶아서 말린것', 6, 0,
         56.58, 27.85, 2.11, 130.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         754, '고수(향채), 생것', 6, 0,
         4.53, 2.43, 0.31, 122.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         755, '고추, 싹, 생것', 6, 0,
         3.8, 2.6, 0.1, 126.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         756, '고추, 빨간색, 생것', 6, 0,
         15.34, 3.12, 2.73, 115.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         757, '고추, 빨간색, 녹광, 생것', 6, 0,
         6.9, 2.3, 1.3, 118.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         758, '고추, 빨간색, 수비초, 생것', 6, 0,
         14.8, 3.7, 1.8, 117.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         759, '고추, 빨간색, 말린것', 6, 0,
         57.47, 13.88, 8.71, 116.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         760, '고추, 연두색, 시레나, 생것', 6, 0,
         4.4, 1.0, 0.1, 118.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         761, '고추, 초록색, 녹광, 생것', 6, 0,
         4.6, 1.4, 0.8, 115.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         762, '고추, 초록색, 시레나, 생것', 6, 0,
         5.4, 1.1, 0.1, 117.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         763, '고추, 풋고추, 생것', 6, 0,
         6.42, 1.71, 0.19, 118.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         764, '고추, 풋고추, 재래종, 생것', 6, 0,
         6.0, 1.2, 0.2, 117.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         765, '고추, 꽈리고추, 생것', 6, 0,
         7.78, 1.83, 0.13, 120.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         766, '고추, 오이고추, 생것', 6, 0,
         5.51, 0.99, 0.12, 117.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         767, '고추, 청양고추, 생것', 6, 0,
         7.01, 1.53, 0.3, 118.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         768, '고추장아찌', 6, 0,
         31.49, 2.39, 0.63, 113.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         769, '고춧잎, 생것', 6, 0,
         8.49, 5.07, 0.32, 126.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         770, '고춧잎, 데친것', 6, 0,
         8.9, 5.16, 0.85, 125.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         771, '고춧잎, 말린것', 6, 0,
         37.8, 35.43, 5.3, 128.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         772, '고춧잎, 삶아서 말린것, 삶은것', 6, 0,
         6.66, 4.41, 0.76, 124.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         773, '고추냉이, 뿌리, 생것', 6, 0,
         23.7, 2.9, 0.5, 107.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         776, '곤달비, 생것', 6, 0,
         9.4, 1.8, 0.5, 117.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         777, '곤달비, 데친것', 6, 0,
         7.4, 1.8, 0.5, 118.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         778, '공심채, 생것', 6, 0,
         5.57, 1.67, 0.25, 120.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         779, '공심채, 데친것', 6, 0,
         5.36, 1.69, 0.34, 120.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         780, '꾸지뽕, 잎, 생것', 6, 0,
         19.18, 5.06, 0.51, 119.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         781, '꾸지뽕, 잎, 삶은것', 6, 0,
         13.15, 3.93, 0.51, 119.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         782, '꾸지뽕, 잎, 말린것', 6, 0,
         63.3, 18.25, 1.4, 120.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         783, '구기자, 순, 재래종, 생것', 6, 0,
         7.05, 6.27, 1.08, 126.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         784, '구기자, 잎, 재래종, 생것', 6, 0,
         7.77, 6.33, 1.57, 125.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         785, '국화꽃, 생것', 6, 0,
         6.5, 1.4, 0.0, 126.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         786, '국화꽃, 데친것', 6, 0,
         5.7, 1.0, 0.0, 127.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         787, '국화꽃, 말린것', 6, 0,
         73.5, 11.6, 0.2, 120.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         788, '근대, 생것', 6, 0,
         3.28, 1.78, 0.2, 122.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         789, '근대, 데친것', 6, 0,
         3.95, 1.79, 0.2, 123.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         790, '김치, 갓김치', 6, 0,
         7.07, 3.26, 0.4, 121.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         791, '김치, 고들빼기', 6, 0,
         12.58, 2.84, 0.66, 99.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         792, '김치, 깍두기', 6, 0,
         8.27, 1.36, 0.21, 101.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         793, '김치, 나박 김치', 6, 0,
         1.27, 0.34, 0.07, 101.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         794, '김치, 동치미', 6, 0,
         1.77, 0.33, 0.01, 106.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         795, '김치, 배추 김치', 6, 0,
         6.49, 1.98, 0.43, 99.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         796, '김치, 배추 김치, 봄 재배 ', 6, 0,
         5.95, 2.22, 0.67, 99.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         797, '김치, 배추 김치, 여름 재배', 6, 0,
         6.6, 1.84, 0.49, 100.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         798, '김치, 배추 김치, 가을 재배', 6, 0,
         6.16, 1.85, 0.54, 99.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         799, '김치, 백김치', 6, 0,
         3.0, 0.95, 0.07, 102.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         800, '김치, 열무 김치', 6, 0,
         5.87, 2.39, 0.38, 101.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         801, '김치, 열무 물김치', 6, 0,
         2.91, 1.41, 0.07, 99.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         802, '김치, 오이 소박이', 6, 0,
         6.66, 1.76, 0.37, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         803, '김치, 유채 김치', 6, 0,
         10.1, 3.5, 0.8, 99.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         804, '김치, 유채 물김치', 6, 0,
         3.0, 1.0, 0.1, 99.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         805, '김치, 총각 김치', 6, 0,
         7.89, 1.92, 0.29, 99.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         806, '김치, 파 김치', 6, 0,
         8.51, 2.5, 0.58, 100.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         807, '김치, 얼갈이배추 김치', 6, 0,
         4.37, 1.88, 0.58, 100.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         808, '꽃양배추(콜리플라워), 생것', 6, 0,
         4.84, 2.17, 0.48, 119.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         809, '꽃양배추(콜리플라워), 데친것', 6, 0,
         4.62, 2.4, 0.47, 124.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         810, '꿀풀(하고초), 생것', 6, 0,
         11.9, 1.6, 0.2, 116.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         811, '꿀풀(하고초), 말린것', 6, 0,
         71.6, 8.2, 4.0, 115.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         812, '날개콩, 미숙, 생것', 6, 0,
         6.5, 1.9, 0.2, 98.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         813, '냉이, 생것', 6, 0,
         8.06, 4.23, 0.27, 125.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         814, '냉이, 데친것', 6, 0,
         9.19, 5.09, 0.5, 125.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         815, '누리장나무잎, 생것', 6, 0,
         12.7, 4.5, 1.0, 119.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         816, '는쟁이냉이, 생것', 6, 0,
         5.4, 2.5, 0.3, 122.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         817, '달래, 생것', 6, 0,
         6.1, 1.9, 0.22, 121.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         818, '당귀, 일당귀, 잎, 생것', 6, 0,
         8.8, 3.2, 0.4, 120.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         819, '당귀, 참당귀, 잎, 생것', 6, 0,
         7.4, 2.6, 0.7, 118.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         820, '당근, 뿌리, 생것', 6, 0,
         7.03, 1.02, 0.13, 107.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         821, '당근, 뿌리, 데친것', 6, 0,
         7.01, 0.97, 0.13, 106.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         822, '당근 주스', 6, 0,
         10.03, 0.44, 0.09, 112.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         823, '당근 주스, 캔', 6, 0,
         9.28, 0.95, 0.15, 105.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         824, '대나무순(죽순), 생것', 6, 0,
         3.77, 3.48, 0.22, 129.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         825, '대나무순(죽순), 데친것', 6, 0,
         5.5, 3.2, 0.3, 125.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         826, '대나무순(죽순), 삶은것', 6, 0,
         3.12, 2.29, 0.28, 127.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         827, '대나무순(죽순), 삶아서 말린것', 6, 0,
         57.62, 28.31, 4.69, 122.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         828, '대나무순(죽순), 통조림', 6, 0,
         4.0, 2.7, 0.2, 130.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         829, '더덕, 뿌리, 생것', 6, 0,
         17.58, 2.28, 0.76, 107.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         830, '더덕, 뿌리, 가루', 6, 0,
         78.38, 11.19, 0.77, 107.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         831, '도라지, 뿌리, 생것', 6, 0,
         15.15, 2.01, 0.15, 107.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         832, '도라지, 뿌리, 데친것', 6, 0,
         13.42, 1.75, 0.15, 106.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         833, '도라지, 뿌리, 말린것', 6, 0,
         76.44, 10.33, 0.89, 107.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         834, '도라지, 뿌리, 가루', 6, 0,
         76.65, 12.53, 1.12, 108.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         835, '돌나물, 생것', 6, 0,
         3.23, 1.19, 0.08, 122.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         836, '동아, 생것', 6, 0,
         3.8, 0.5, 0.1, 120.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         837, '동아, 데친것', 6, 0,
         3.7, 0.6, 0.1, 120.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         838, '두릅, 땅두릅, 생것', 6, 0,
         4.79, 2.4, 0.22, 123.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         839, '두릅, 땅두릅, 잎, 생것', 6, 0,
         8.5, 4.3, 0.3, 125.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         840, '두릅, 땅두릅, 줄기, 생것', 6, 0,
         3.1, 1.6, 0.2, 121.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         841, '두릅, 땅두릅, 데친것', 6, 0,
         4.56, 2.3, 0.25, 123.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         842, '두릅, 땅두릅, 잎, 데친것', 6, 0,
         10.8, 6.3, 0.8, 123.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         843, '두릅, 땅두릅, 줄기, 데친것', 6, 0,
         3.3, 1.5, 0.1, 125.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         844, '두릅, 참두릅, 생것', 6, 0,
         5.89, 4.13, 0.22, 127.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         845, '두릅, 참두릅, 잎, 생것', 6, 0,
         7.32, 6.69, 0.46, 130.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         846, '두릅, 참두릅, 줄기, 생것', 6, 0,
         6.12, 3.56, 0.24, 123.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         847, '두릅, 참두릅, 데친것', 6, 0,
         5.81, 3.49, 0.28, 124.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         848, '두릅, 참두릅, 잎, 데친것', 6, 0,
         6.44, 5.53, 0.51, 128.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         849, '두릅, 참두릅, 줄기, 데친것', 6, 0,
         5.24, 2.81, 0.28, 124.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         850, '둥굴레, 잎, 생것', 6, 0,
         11.7, 3.4, 0.2, 119.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         851, '둥굴레, 잎, 말린것', 6, 0,
         67.7, 16.5, 0.9, 119.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         852, '들깨, 싹, 생것', 6, 0,
         2.5, 1.7, 0.1, 104.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         853, '들깻잎, 생것', 6, 0,
         8.89, 4.46, 0.5, 123.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         854, '들깻잎, 데친것', 6, 0,
         4.8, 3.93, 0.6, 126.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         855, '들깻잎, 찐것', 6, 0,
         6.07, 4.37, 0.55, 126.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         856, '들깻잎장아찌', 6, 0,
         26.0, 4.03, 0.42, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         857, '들깻잎장아찌, 통조림', 6, 0,
         10.4, 4.7, 1.7, 99.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         858, '루꼴라, 생것', 6, 0,
         4.2, 3.17, 0.43, 128.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         859, '리크, 생것', 6, 0,
         13.2, 1.8, 0.3, 116.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         860, '리크, 데친것', 6, 0,
         6.8, 1.3, 0.1, 118.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         861, '마늘, 생것', 6, 0,
         26.42, 7.45, 0.16, 107.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         862, '마늘, 데친것', 6, 0,
         27.69, 8.04, 0.13, 106.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         863, '마늘, 통마늘, 구운것', 6, 0,
         34.6, 10.04, 0.22, 106.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         864, '마늘, 말린것', 6, 0,
         73.3, 16.3, 0.7, 109.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         865, '마늘, 동결건조', 6, 0,
         73.7, 15.3, 0.5, 109.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         866, '마늘, 난지형, 생것', 6, 0,
         26.61, 7.03, 0.12, 106.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         867, '마늘, 난지형, 데친것', 6, 0,
         28.59, 7.84, 0.13, 106.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         868, '마늘, 난지형, 통마늘, 구운것', 6, 0,
         30.42, 8.29, 0.17, 106.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         869, '마늘, 난지형, 냉동', 6, 0,
         27.29, 7.38, 0.07, 106.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         870, '마늘, 한지형, 생것', 6, 0,
         26.23, 7.88, 0.19, 107.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         871, '마늘, 한지형, 데친것', 6, 0,
         26.78, 8.25, 0.14, 107.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         872, '마늘, 한지형, 통마늘, 구운것', 6, 0,
         38.78, 11.8, 0.27, 111.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         873, '마늘, 한지형, 볶은것', 6, 0,
         31.26, 9.84, 1.35, 107.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         874, '마늘, 깐마늘, 수입산, 생것', 6, 0,
         22.78, 6.99, 0.99, 106.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         875, '마늘, 깐마늘, 수입산, 데친것', 6, 0,
         24.27, 6.74, 1.21, 106.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         876, '마늘 장아찌', 6, 0,
         25.36, 2.43, 0.16, 99.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         877, '마늘종, 꽃줄기, 생것', 6, 0,
         13.39, 1.86, 0.06, 116.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         878, '마늘종, 꽃줄기, 데친것', 6, 0,
         14.82, 1.98, 0.17, 116.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         879, '마늘종 장아찌', 6, 0,
         27.34, 1.96, 0.14, 100.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         880, '풋마늘, 잎줄기, 생것', 6, 0,
         7.33, 1.9, 0.17, 132.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         881, '풋마늘, 잎줄기, 데친것', 6, 0,
         7.28, 1.82, 0.29, 130.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         882, '마타리, 생것', 6, 0,
         10.9, 2.1, 0.1, 117.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         883, '머위, 생것', 6, 0,
         2.74, 2.31, 0.14, 126.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         884, '머위, 데친것', 6, 0,
         4.42, 2.17, 0.41, 120.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         885, '머위, 삶은것', 6, 0,
         5.2, 2.44, 0.44, 123.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         886, '머위, 말린것', 6, 0,
         58.2, 17.4, 3.7, 119.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         887, '머위, 삶아서 말린것', 6, 0,
         48.62, 26.73, 4.67, 123.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         888, '메밀, 싹, 생것', 6, 0,
         1.9, 1.9, 1.2, 108.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         889, '모링가(드럼스틱), 생것', 6, 0,
         12.43, 4.21, 1.38, 119.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         890, '모시풀, 잎, 생것', 6, 0,
         11.85, 6.61, 0.71, 125.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         891, '모시풀, 잎, 삶은것', 6, 0,
         7.24, 6.09, 1.02, 127.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         892, '모시풀, 잎, 서방종, 생것', 6, 0,
         8.13, 4.4, 1.36, 122.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         893, '무, 왜무, 생것', 6, 0,
         4.1, 0.5, 0.1, 128.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         894, '무, 조선무, 생것', 6, 0,
         4.34, 0.67, 0.12, 105.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         895, '무, 조선무, 데친것', 6, 0,
         3.27, 0.53, 0.18, 112.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         896, '무청, 왜무, 생것', 6, 0,
         2.9, 2.3, 0.7, 123.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         897, '무청, 조선무, 생것', 6, 0,
         6.1, 2.9, 0.2, 121.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         898, '무청, 시래기, 말린것, 삶은것', 6, 0,
         4.68, 1.58, 0.27, 119.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         899, '무순, 싹, 생것', 6, 0,
         1.82, 1.89, 1.01, 119.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         900, '무 절임, 단무지', 6, 0,
         2.42, 0.36, 0.05, 96.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         901, '무 절임, 쌈무', 6, 0,
         3.1, 0.54, 0.03, 98.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         902, '무 절임, 치킨무', 6, 0,
         4.89, 0.44, 0.21, 105.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         903, '무말랭이, 말린것', 6, 0,
         65.34, 13.59, 0.3, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         904, '무말랭이 무침', 6, 0,
         29.24, 2.25, 0.61, 100.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         905, '무국물', 6, 0,
         0.55, 0.16, 0.0, 94.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         906, '물냉이, 생것', 6, 0,
         3.7, 3.5, 0.1, 129.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         907, '물쑥, 생것', 6, 0,
         5.6, 5.4, 0.3, 129.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         908, '물쑥, 데친것', 6, 0,
         11.7, 1.9, 0.1, 117.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         909, '미나리, 돌미나리, 생것', 6, 0,
         3.8, 2.2, 0.2, 122.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         910, '미나리, 돌미나리, 데친것', 6, 0,
         3.2, 2.3, 0.2, 125.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         911, '미나리, 물미나리, 생것', 6, 0,
         4.45, 1.81, 0.25, 124.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         912, '미나리, 물미나리, 데친것', 6, 0,
         4.82, 2.04, 0.32, 121.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         913, '미나리, 물미나리, 잎, 생것', 6, 0,
         5.62, 2.84, 0.4, 124.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         914, '미나리, 물미나리, 줄기, 생것', 6, 0,
         5.15, 0.9, 0.16, 116.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         915, '미나리, 농축', 6, 0,
         33.48, 0.36, 0.0, 112.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         916, '민들레, 생것', 6, 0,
         5.48, 2.44, 0.44, 122.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         917, '민들레, 데친것', 6, 0,
         5.74, 2.18, 0.51, 120.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         918, '바젤라, 생것', 6, 0,
         2.6, 0.7, 0.2, 136.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         919, '바젤라, 데친것', 6, 0,
         3.2, 0.9, 0.2, 151.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         920, '바질, 잎, 생것', 6, 0,
         5.56, 2.43, 0.71, 119.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         921, '바질, 잎, 데친것', 6, 0,
         5.9, 2.81, 0.7, 121.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         922, '박, 과육, 생것', 6, 0,
         5.2, 0.5, 0.1, 112.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         923, '박, 생것, 씨 포함', 6, 0,
         8.0, 1.0, 0.1, 115.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         924, '박고지, 말린것', 6, 0,
         69.0, 7.6, 0.4, 115.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         925, '박쥐나무, 잎, 생것', 6, 0,
         20.7, 6.7, 1.2, 120.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         926, '방가지똥, 생것', 6, 0,
         10.3, 2.5, 0.4, 119.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         927, '방울다다기양배추, 생것', 6, 0,
         11.17, 3.28, 0.16, 120.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         928, '방울다다기양배추, 데친것', 6, 0,
         9.8, 5.3, 0.1, 120.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         929, '배암차즈기(곰보배추), 잎, 생것', 6, 0,
         4.5, 1.73, 0.62, 122.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         930, '배초향(방아), 잎, 생것', 6, 0,
         11.13, 4.87, 0.46, 123.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         931, '배추, 싹, 생것', 6, 0,
         5.3, 3.4, 4.3, 116.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         932, '배추, 생것', 6, 0,
         3.2, 1.25, 0.04, 121.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         933, '배추, 봄 재배, 생것', 6, 0,
         2.28, 1.61, 0.07, 124.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         934, '배추, 여름 재배, 생것', 6, 0,
         3.99, 0.9, 0.02, 116.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         935, '배추, 가을 재배, 생것', 6, 0,
         3.35, 1.25, 0.05, 125.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         936, '배추, 데친것', 6, 0,
         3.9, 1.4, 0.0, 124.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         937, '배추, 삶은것', 6, 0,
         3.04, 1.16, 0.14, 120.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         938, '배추, 봄 재배, 삶은것', 6, 0,
         2.61, 1.39, 0.12, 122.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         939, '배추, 여름 재배, 삶은것', 6, 0,
         3.53, 0.85, 0.23, 115.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         940, '배추, 가을 재배, 삶은것', 6, 0,
         2.94, 1.25, 0.06, 123.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         941, '배추, 염절임', 6, 0,
         3.62, 1.34, 0.07, 120.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         942, '배추, 봄 재배, 염절임', 6, 0,
         2.89, 1.63, 0.09, 125.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         943, '배추, 여름 재배, 염절임', 6, 0,
         4.04, 1.03, 0.05, 121.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         944, '배추, 가을 재배, 염절임', 6, 0,
         3.9, 1.35, 0.06, 119.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         945, '배추, 노랑봄배추(노지), 생것', 6, 0,
         3.0, 1.0, 0.0, 123.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         946, '배추, 노랑봄배추(노지), 데친것', 6, 0,
         3.9, 1.2, 0.0, 120.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         947, '배추, 노랑봄배추(노지), 염절임', 6, 0,
         3.6, 1.1, 0.1, 123.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         948, '배추, 노랑봄배추(하우스), 생것', 6, 0,
         2.6, 1.0, 0.0, 120.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         949, '배추, 노랑봄배추(하우스), 데친것', 6, 0,
         3.4, 1.0, 0.0, 117.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         950, '배추, 노랑봄배추(하우스), 염절임', 6, 0,
         3.4, 1.0, 0.0, 117.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         951, '배추, 불암 3호(노지), 생것', 6, 0,
         5.7, 0.9, 0.1, 118.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         952, '배추, 불암 3호(노지), 데친것', 6, 0,
         8.2, 1.3, 0.1, 117.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         953, '배추, 불암 3호(노지), 염절임', 6, 0,
         7.4, 1.2, 0.1, 117.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         954, '배추, 불암 3호(하우스), 생것', 6, 0,
         2.8, 1.0, 0.1, 123.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         955, '배추, 불암 3호(하우스), 데친것', 6, 0,
         3.8, 1.3, 0.1, 118.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         956, '배추, 불암 3호(하우스), 염절임', 6, 0,
         4.0, 1.1, 0.1, 118.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         957, '배추, 시래기, 말린것', 6, 0,
         58.92, 14.38, 3.89, 118.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         958, '배추, 시래기, 말린것, 삶은것', 6, 0,
         4.6, 1.68, 0.24, 118.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         959, '배추, 유기재배, 생것', 6, 0,
         3.2, 1.1, 0.0, 122.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         960, '배추, 봄동, 생것', 6, 0,
         4.78, 2.02, 0.17, 124.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         961, '배추, 봄동, 데친것', 6, 0,
         4.54, 1.84, 0.18, 123.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         962, '배추, 얼갈이배추, 생것', 6, 0,
         2.78, 1.22, 0.08, 119.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         963, '배추, 얼갈이배추, 데친것', 6, 0,
         2.17, 2.0, 0.14, 128.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         964, '배추, 얼갈이배추, 염절임', 6, 0,
         2.5, 1.91, 0.11, 124.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         965, '백모근, 뿌리, 말린것', 6, 0,
         77.0, 9.0, 2.0, 107.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         966, '백합, 뿌리, 생것', 6, 0,
         24.91, 3.34, 1.52, 107.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         967, '보리, 순, 가루', 6, 0,
         58.5, 26.6, 4.8, 122.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         968, '보리, 쌀보리, 순, 생것', 6, 0,
         4.6, 2.0, 0.3, 121.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         969, '보리, 올보리, 순, 생것', 6, 0,
         13.9, 3.1, 1.1, 118.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         970, '보리, 큰알보리, 순, 생것', 6, 0,
         3.99, 2.91, 0.27, 125.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         971, '보리, 큰알보리, 순, 동결건조', 6, 0,
         51.96, 28.3, 3.39, 124.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         972, '뽕잎, 생것', 6, 0,
         12.82, 6.28, 0.5, 124.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         973, '뽕잎, 삶은것', 6, 0,
         9.0, 4.86, 0.53, 125.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         974, '뽕잎, 삶아서 말린것', 6, 0,
         53.22, 26.22, 2.98, 123.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         975, '뽕잎, 삶아서 말린것, 삶은것', 6, 0,
         8.92, 5.9, 0.55, 125.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         976, '부지갱이(섬쑥부쟁이), 생것', 6, 0,
         4.9, 3.65, 0.43, 126.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         977, '부지갱이(섬쑥부쟁이), 데친것', 6, 0,
         4.92, 4.0, 0.65, 125.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         978, '부지갱이(섬쑥부쟁이), 말린것', 6, 0,
         50.0, 25.7, 2.0, 124.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         979, '부지갱이(섬쑥부쟁이), 삶아서 말린것', 6, 0,
         59.07, 25.09, 2.88, 122.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         980, '부지갱이(섬쑥부쟁이), 삶아서 말린것, 삶은것', 6, 0,
         8.24, 5.17, 0.68, 124.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         981, '부추, 두메부추, 생것', 6, 0,
         11.9, 1.2, 0.1, 115.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         982, '부추, 산부추, 생것', 6, 0,
         8.8, 3.5, 0.1, 122.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         983, '부추, 재래종, 생것', 6, 0,
         4.1, 1.8, 0.3, 119.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         984, '부추, 재래종, 데친것', 6, 0,
         3.6, 2.3, 0.2, 127.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         985, '부추, 호부추, 생것', 6, 0,
         6.23, 2.06, 0.33, 120.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         986, '부추, 호부추, 데친것', 6, 0,
         6.42, 2.37, 0.35, 119.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         987, '브로콜리, 생것', 6, 0,
         6.32, 3.08, 0.2, 123.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         988, '브로콜리, 데친것', 6, 0,
         5.34, 2.8, 0.31, 126.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         989, '브로콜리, 삶은것', 6, 0,
         5.2, 3.9, 0.4, 133.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         990, '브로콜리, 싹, 생것', 6, 0,
         3.8, 3.81, 0.92, 124.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         991, '브로콜리, 잎, 생것', 6, 0,
         8.1, 2.2, 0.4, 117.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         992, '브로콜리, 잎, 말린것', 6, 0,
         55.3, 15.4, 2.8, 119.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         993, '브로콜리, 잎, 삶아서 말린것', 6, 0,
         59.8, 17.4, 1.8, 119.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         994, '브로콜리, 가루', 6, 0,
         58.4, 17.5, 3.9, 119.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         995, '비비추(이밥추), 생것', 6, 0,
         10.1, 3.0, 0.6, 120.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         996, '비타민채(다채), 생것', 6, 0,
         2.0, 2.1, 0.2, 130.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         997, '비타민채(다채), 어린잎, 생것', 6, 0,
         1.44, 2.26, 0.5, 128.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         998, '비트, 뿌리, 생것', 6, 0,
         5.26, 1.56, 0.14, 109.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         999, '비트, 뿌리, 데친것', 6, 0,
         4.66, 1.28, 0.13, 108.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1000, '비트 피클, 통조림', 6, 0,
         16.28, 0.8, 0.08, 106.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1001, '비트, 잎, 생것', 6, 0,
         2.8, 2.2, 0.1, 130.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1002, '비트, 잎, 데친것', 6, 0,
         2.2, 2.3, 0.2, 132.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1003, '비트, 어린잎, 생것', 6, 0,
         2.91, 2.85, 0.42, 127.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1004, '사탕무, 생것', 6, 0,
         18.7, 1.8, 0.0, 106.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1005, '사탕수수, 생것', 6, 0,
         20.9, 1.1, 0.0, 114.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1006, '산마늘(명이나물), 생것', 6, 0,
         8.21, 2.02, 0.21, 118.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1007, '산마늘(명이나물), 데친것', 6, 0,
         8.29, 2.08, 0.31, 119.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1008, '산마늘(명이나물)장아찌', 6, 0,
         12.2, 2.37, 0.62, 116.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1009, '삼나물, 말린것', 6, 0,
         61.3, 22.8, 2.2, 121.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1010, '삼붕냐와, 생것', 6, 0,
         3.84, 1.62, 1.09, 117.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1011, '삼채, 뿌리, 생것', 6, 0,
         12.15, 0.77, 0.04, 106.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1012, '삼채, 잎, 생것', 6, 0,
         4.8, 1.95, 0.2, 120.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1013, '삼채, 줄기, 생것', 6, 0,
         4.65, 0.78, 0.09, 118.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1014, '삼채, 잎줄기, 생것', 6, 0,
         4.99, 1.55, 0.13, 118.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1015, '삼채, 잎줄기, 데친것', 6, 0,
         5.77, 2.04, 0.27, 120.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1016, '상추, 잎상추, 치마상추, 녹색, 생것', 6, 0,
         3.48, 1.88, 0.36, 123.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1017, '상추, 잎상추, 적색, 생것', 6, 0,
         3.69, 1.42, 0.28, 120.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1018, '상추, 잎상추, 뚝섬적축면, 적색, 생것', 6, 0,
         2.4, 1.1, 0.3, 119.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1019, '상추, 잎상추, 롤로로사, 적색, 생것', 6, 0,
         4.5, 1.1, 0.2, 121.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1020, '상추, 잎상추, 적하계, 적색, 생것', 6, 0,
         3.7, 1.7, 0.2, 123.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1021, '상추, 잎상추, 축면상추, 적색, 생것', 6, 0,
         2.79, 1.31, 0.21, 121.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1022, '상추, 잎상추, 치마상추, 적색, 생것', 6, 0,
         4.59, 1.53, 0.36, 120.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1023, '상추, 반결구, 로메인, 녹색, 생것', 6, 0,
         3.11, 1.66, 0.31, 121.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1024, '상추, 반결구, 아시아아이스, 녹색, 생것', 6, 0,
         4.0, 1.8, 0.6, 119.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1025, '상추, 반결구, 천상, 녹색, 생것', 6, 0,
         3.2, 1.2, 0.3, 119.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1026, '상추, 반결구, 로메인, 적색, 생것', 6, 0,
         2.72, 2.28, 0.22, 129.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1027, '상추, 결구(양상추), 녹색, 생것', 6, 0,
         3.66, 0.94, 0.09, 120.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1028, '상추, 결구, 아담, 녹색, 생것', 6, 0,
         1.3, 0.9, 0.2, 117.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1029, '상추, 결구, 유레이크, 녹색, 생것', 6, 0,
         3.5, 0.8, 0.2, 118.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1030, '상추, 결구, 풍성, 녹색, 생것', 6, 0,
         2.1, 0.6, 0.1, 117.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1031, '생강, 뿌리줄기, 생것', 6, 0,
         9.82, 0.97, 0.15, 106.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1032, '생강, 뿌리줄기, 수입산, 생것', 6, 0,
         8.4, 1.3, 0.3, 109.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1033, '생강, 편강, 당조림', 6, 0,
         88.35, 0.7, 0.86, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1034, '생강 피클', 6, 0,
         3.9, 0.3, 0.2, 124.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1035, '선인장, 보검선인장, 열매, 생것', 6, 0,
         19.35, 0.97, 0.19, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1036, '선인장, 보검선인장, 줄기, 생것', 6, 0,
         7.15, 1.03, 0.12, 99.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1037, '선인장, 저단선인장, 열매, 생것', 6, 0,
         21.0, 0.8, 0.38, 99.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1038, '선인장, 저단선인장, 줄기, 생것', 6, 0,
         17.76, 0.75, 0.15, 100.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1039, '섬초롱, 생것', 6, 0,
         8.5, 3.0, 0.4, 121.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1040, '섬초롱, 데친것', 6, 0,
         7.6, 2.0, 0.2, 118.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1041, '셀러리, 생것', 6, 0,
         3.95, 1.04, 0.07, 121.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1042, '셀러리, 데친것', 6, 0,
         3.81, 1.1, 0.12, 121.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1043, '소리쟁이, 잎, 말린것', 6, 0,
         52.6, 21.7, 2.2, 122.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1044, '쇠귀나물, 뿌리, 생것', 6, 0,
         26.6, 6.3, 0.1, 103.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1045, '쇠귀나물, 뿌리, 데친것', 6, 0,
         27.2, 6.2, 0.1, 104.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1046, '수리취(떡취), 생것', 6, 0,
         14.7, 3.9, 0.2, 119.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1047, '숙주나물, 생것', 6, 0,
         2.34, 1.73, 0.05, 128.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1048, '숙주나물, 데친것', 6, 0,
         1.4, 2.2, 0.2, 135.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1049, '숙주나물, 찐것', 6, 0,
         2.9, 1.96, 0.11, 127.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1050, '순무, 전체, 생것', 6, 0,
         5.65, 1.5, 0.09, 108.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1051, '순무, 전체, 데친것', 6, 0,
         6.04, 1.32, 0.09, 108.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1052, '순무, 뿌리, 생것', 6, 0,
         6.88, 1.1, 0.07, 108.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1053, '순무, 뿌리, 데친것', 6, 0,
         7.51, 1.28, 0.09, 109.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1054, '순무, 뿌리, 염절임', 6, 0,
         4.9, 1.0, 0.2, 121.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1055, '순무, 잎, 생것', 6, 0,
         4.14, 2.05, 0.17, 125.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1056, '순무, 잎, 데친것', 6, 0,
         4.17, 1.58, 0.18, 123.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1057, '순무, 잎, 염절임', 6, 0,
         6.0, 2.3, 0.2, 129.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1058, '스테비아, 생것', 6, 0,
         8.71, 2.4, 0.32, 118.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1059, '스테비아, 말린것', 6, 0,
         70.5, 14.2, 2.0, 117.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1060, '시금치, 생것', 6, 0,
         4.86, 3.35, 0.39, 125.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1061, '시금치, 노지, 생것', 6, 0,
         4.4, 4.15, 0.43, 131.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1062, '시금치, 하우스, 생것', 6, 0,
         5.08, 2.6, 0.33, 124.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1063, '시금치, 섬초, 생것', 6, 0,
         3.76, 3.11, 0.34, 127.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1064, '시금치, 포항초, 생것', 6, 0,
         6.22, 3.56, 0.46, 123.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1065, '시금치, 데친것', 6, 0,
         5.26, 4.02, 0.61, 125.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1066, '시금치, 노지, 데친것', 6, 0,
         5.21, 4.78, 0.79, 127.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1067, '시금치, 하우스, 데친것', 6, 0,
         5.84, 3.01, 0.49, 124.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1068, '시금치, 섬초, 데친것', 6, 0,
         4.8, 4.12, 0.55, 127.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1069, '시금치, 포항초, 데친것', 6, 0,
         5.19, 4.19, 0.63, 127.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1070, '신선초(명일엽), 생것', 6, 0,
         5.66, 1.08, 0.14, 117.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1071, '쌈추, 생것', 6, 0,
         4.29, 3.07, 0.23, 126.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1072, '쌈추, 싸미나, 생것', 6, 0,
         3.0, 2.7, 0.3, 127.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1073, '쑥, 생것', 6, 0,
         7.04, 3.4, 0.38, 122.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1074, '쑥, 데친것', 6, 0,
         6.79, 3.71, 0.63, 122.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1075, '쑥, 말린것', 6, 0,
         53.8, 25.8, 2.05, 123.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1076, '쑥, 사자발쑥, 생것', 6, 0,
         12.7, 2.6, 0.5, 117.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1077, '쑥, 사자발쑥, 데친것', 6, 0,
         13.3, 1.9, 0.3, 115.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1078, '쑥갓, 생것', 6, 0,
         2.35, 1.93, 0.17, 124.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1079, '쑥갓, 데친것', 6, 0,
         3.8, 2.1, 0.3, 125.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1080, '쑥부쟁이, 생것', 6, 0,
         3.53, 2.92, 0.72, 124.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1081, '씀바귀, 생것', 6, 0,
         9.2, 2.9, 0.4, 120.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1082, '씀바귀, 데친것', 6, 0,
         6.3, 2.6, 0.2, 120.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1083, '씀바귀, 뿌리, 생것', 6, 0,
         16.24, 2.54, 0.13, 107.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1084, '아스파라거스, 생것', 6, 0,
         2.53, 2.02, 0.34, 125.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1085, '아스파라거스, 데친것', 6, 0,
         2.81, 2.08, 0.19, 125.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1086, '아스파라거스, 통조림', 6, 0,
         3.0, 1.1, 0.1, 123.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1087, '아스파라거스, 하얀색, 생것', 6, 0,
         3.51, 1.85, 0.53, 124.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1088, '아욱, 생것', 6, 0,
         7.64, 3.08, 0.31, 123.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1089, '아욱, 데친것', 6, 0,
         5.2, 3.52, 0.49, 126.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1090, '아이비카, 닥풀, 말린것', 6, 0,
         43.7, 27.7, 4.4, 125.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1091, '아주까리, 순, 말린것', 6, 0,
         48.0, 36.8, 3.1, 127.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1092, '아주까리, 잎, 생것', 6, 0,
         17.8, 5.8, 0.5, 120.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1093, '아티초크, 생것', 6, 0,
         10.51, 3.27, 0.15, 120.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1094, '아티초크, 삶은것', 6, 0,
         11.95, 2.89, 0.34, 117.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1095, '아티초크, 냉동', 6, 0,
         7.75, 2.63, 0.43, 119.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1096, '아티초크, 냉동, 삶은것', 6, 0,
         9.18, 3.11, 0.5, 119.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1097, '알로에, 과육, 생것', 6, 0,
         0.7, 0.1, 0.0, 106.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1098, '알로에 음료', 6, 0,
         11.09, 0.0, 0.0, 110.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1099, '알팔파, 싹, 생것', 6, 0,
         3.14, 3.53, 0.2, 135.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1100, '양배추, 생것', 6, 0,
         7.92, 1.68, 0.08, 118.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1101, '양배추, 데친것', 6, 0,
         7.56, 1.71, 0.12, 119.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1102, '양배추, 찐것', 6, 0,
         7.41, 1.68, 0.12, 117.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1103, '양배추, 적색, 생것', 6, 0,
         9.53, 2.13, 0.21, 118.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1104, '양배추, 적색, 싹, 생것', 6, 0,
         4.6, 3.38, 1.77, 122.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1105, '양배추 샐러드, 코울슬로', 6, 0,
         14.89, 0.95, 9.91, 99.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1106, '양파, 생것', 6, 0,
         6.67, 0.95, 0.04, 106.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1107, '양파, 데친것', 6, 0,
         6.97, 0.84, 0.04, 109.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1108, '양파, 말린것', 6, 0,
         78.0, 11.7, 1.0, 108.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1109, '양파, 수입산, 생것', 6, 0,
         7.0, 0.9, 0.1, 108.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1110, '양파, 자색 양파, 생것', 6, 0,
         7.81, 0.75, 0.02, 107.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1111, '양파, 레드프라임, 생것', 6, 0,
         8.56, 0.46, 0.63, 112.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1112, '양파, 썬파워, 생것', 6, 0,
         7.38, 0.52, 0.47, 112.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1113, '양파, 샬롯, 생것', 6, 0,
         14.84, 2.28, 2.54, 114.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1114, '양파링, 튀김옷, 냉동', 6, 0,
         30.53, 3.15, 14.1, 101.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1115, '양파링, 튀긴것(튀김옷)', 6, 0,
         43.58, 3.86, 25.23, 101.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1116, '양파 장아찌', 6, 0,
         20.99, 1.59, 0.05, 106.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1117, '양하, 생것', 6, 0,
         2.8, 0.6, 0.1, 111.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1118, '어수리, 생것', 6, 0,
         5.0, 4.4, 0.3, 130.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1119, '어수리, 잎, 생것', 6, 0,
         10.4, 2.4, 0.3, 119.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1120, '음나무(엄나무), 잎, 생것', 6, 0,
         5.2, 6.94, 0.67, 133.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1121, '음나무(엄나무), 잎, 데친것', 6, 0,
         3.86, 7.05, 0.75, 136.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1122, '엉겅퀴, 말린것', 6, 0,
         55.6, 22.4, 1.6, 122.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1123, '엉겅퀴, 삶아서 말린것', 6, 0,
         54.2, 27.4, 2.2, 124.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1124, '여주(고야), 생것', 6, 0,
         4.48, 1.28, 0.36, 119.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1125, '연근, 생것', 6, 0,
         17.28, 1.63, 0.07, 101.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1126, '연근, 데친것', 6, 0,
         14.41, 1.07, 0.08, 101.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1127, '연근 조림', 6, 0,
         60.2, 2.1, 1.3, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1128, '열대비름(아마란스), 잎, 생것', 6, 0,
         6.5, 5.8, 0.9, 127.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1129, '열대비름(아마란스), 어린잎, 생것', 6, 0,
         3.11, 2.99, 0.35, 131.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1130, '열무, 생것', 6, 0,
         1.99, 2.08, 0.21, 129.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1131, '열무, 데친것', 6, 0,
         2.95, 2.69, 0.25, 130.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1132, '염교(락교), 뿌리줄기, 생것', 6, 0,
         29.3, 1.4, 0.2, 150.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1133, '염교(락교)', 6, 0,
         21.79, 0.52, 1.0, 105.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1134, '영아자, 생것', 6, 0,
         7.7, 2.5, 0.1, 122.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1135, '영아자, 데친것', 6, 0,
         7.8, 2.5, 0.2, 119.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1136, '영아자, 말린것', 6, 0,
         54.4, 23.8, 3.1, 122.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1137, '오이, 겨울살이청장, 생것', 6, 0,
         3.1, 0.8, 0.0, 120.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1138, '오이, 늙은오이, 생것', 6, 0,
         1.71, 1.19, 0.03, 131.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1139, '오이, 다다기, 생것', 6, 0,
         2.79, 1.06, 0.05, 121.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1140, '오이, 취청, 생것', 6, 0,
         2.55, 0.95, 0.04, 119.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1141, '오이 피클', 6, 0,
         25.07, 0.38, 0.12, 113.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1142, '오이지, 염절임', 6, 0,
         2.35, 0.55, 0.1, 113.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1143, '오크라, 생것', 6, 0,
         6.6, 2.1, 0.2, 140.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1144, '오크라, 데친것', 6, 0,
         7.6, 2.1, 0.1, 136.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1145, '옥수수, 순, 생것', 6, 0,
         8.2, 1.7, 0.3, 105.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1146, '우엉, 생것', 6, 0,
         15.29, 2.61, 0.06, 104.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1147, '우엉, 데친것', 6, 0,
         11.34, 1.88, 0.09, 103.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1148, '우엉, 장조림', 6, 0,
         34.37, 2.1, 0.3, 99.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1149, '울금, 뿌리줄기, 생것', 6, 0,
         15.73, 1.79, 2.56, 107.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1150, '울외장아찌', 6, 0,
         13.1, 5.1, 0.3, 112.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1151, '원추리, 생것', 6, 0,
         6.48, 3.55, 0.36, 123.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1152, '원추리, 데친것', 6, 0,
         5.09, 3.22, 0.29, 128.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1153, '유채, 싹, 생것', 6, 0,
         6.8, 3.4, 4.6, 105.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1154, '유채, 잎, 생것', 6, 0,
         4.98, 3.89, 0.31, 127.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1155, '유채, 잎, 데친것', 6, 0,
         4.15, 4.36, 0.38, 129.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1156, '유채, 동채, 생것', 6, 0,
         4.6, 4.13, 0.32, 130.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1157, '유채, 동채, 데친것', 6, 0,
         4.6, 4.45, 0.4, 128.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1158, '유채, 잎줄기, 생것', 6, 0,
         6.0, 4.1, 0.4, 122.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1159, '유채, 잎줄기, 데친것', 6, 0,
         5.3, 3.6, 0.4, 130.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1160, '잇꽃(홍화), 잎, 생것', 6, 0,
         9.0, 3.9, 0.4, 122.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1161, '자운영, 생것', 6, 0,
         6.6, 4.6, 0.6, 125.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1162, '잔대, 뿌리, 생것', 6, 0,
         18.6, 2.1, 0.2, 107.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1163, '잔대, 순, 생것', 6, 0,
         9.9, 3.4, 0.9, 111.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1164, '적양무, 어린잎, 생것', 6, 0,
         2.54, 2.54, 0.42, 126.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1165, '전호, 생것', 6, 0,
         4.2, 3.1, 0.1, 130.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1166, '제비쑥, 생것', 6, 0,
         5.0, 4.5, 0.7, 126.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1167, '조뱅이, 생것', 6, 0,
         10.1, 4.0, 0.2, 123.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1168, '줄나물, 말린것', 6, 0,
         41.9, 29.7, 1.7, 127.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1169, '진달래꽃, 생것', 6, 0,
         6.3, 1.0, 0.1, 115.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1170, '질경이, 생것', 6, 0,
         10.8, 3.0, 0.2, 118.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1171, '질경이, 데친것', 6, 0,
         10.7, 2.4, 0.1, 118.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1172, '참나물, 야생, 생것', 6, 0,
         7.6, 3.5, 0.4, 123.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1173, '참나물, 야생, 말린것', 6, 0,
         74.3, 5.9, 3.5, 114.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1174, '참나물, 재배, 생것', 6, 0,
         4.09, 1.58, 0.19, 122.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1175, '참나물, 재배, 데친것', 6, 0,
         4.54, 1.39, 0.23, 117.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1176, '참나물, 재배, 말린것', 6, 0,
         71.6, 8.5, 3.8, 115.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1177, '참반디, 말린것', 6, 0,
         65.7, 12.6, 2.7, 117.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1178, '참빗살나무, 잎, 생것', 6, 0,
         10.3, 7.4, 0.7, 126.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1179, '참죽나물(가죽나물), 생것', 6, 0,
         8.59, 5.8, 0.39, 127.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1180, '참죽나물(가죽나물), 데친것', 6, 0,
         8.1, 5.39, 0.51, 127.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1181, '참죽나물, 말린것', 6, 0,
         57.0, 27.9, 1.0, 124.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1182, '참죽나물(가죽나물), 삶아서 말린것', 6, 0,
         44.54, 34.44, 3.13, 127.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1183, '참죽나물(가죽나물), 삶아서 말린것, 삶은것', 6, 0,
         7.89, 7.28, 0.74, 129.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1184, '청경채, 생것', 6, 0,
         1.64, 1.41, 0.09, 130.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1185, '청경채, 데친것', 6, 0,
         1.81, 1.6, 0.13, 134.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1186, '청경채, 어린잎, 생것', 6, 0,
         1.86, 2.59, 0.32, 129.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1187, '초석잠, 뿌리, 생것', 6, 0,
         17.0, 2.3, 0.56, 108.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1188, '총각무, 전체, 생것', 6, 0,
         5.18, 1.38, 0.07, 122.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1189, '총각무, 뿌리, 생것', 6, 0,
         6.99, 1.16, 0.05, 110.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1190, '총각무, 잎, 생것', 6, 0,
         4.59, 1.97, 0.34, 122.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1191, '취나물, 개미취, 생것', 6, 0,
         11.3, 4.2, 0.3, 122.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1192, '취나물, 곰취, 생것', 6, 0,
         5.77, 3.04, 0.49, 123.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1193, '취나물, 곰취, 데친것', 6, 0,
         6.09, 3.28, 0.64, 123.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1194, '취나물, 곰취, 야생, 말린것', 6, 0,
         71.1, 5.1, 4.9, 113.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1195, '취나물, 곰취, 재배, 말린것', 6, 0,
         69.2, 8.0, 4.7, 114.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1196, '취나물, 미역취, 생것', 6, 0,
         9.6, 3.7, 0.6, 122.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1197, '취나물, 참취, 생것', 6, 0,
         11.66, 2.61, 0.38, 118.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1198, '취나물, 참취, 데친것', 6, 0,
         10.54, 2.77, 0.5, 117.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1199, '취나물, 참취, 말린것', 6, 0,
         53.6, 22.2, 2.3, 122.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1200, '취나물, 참취, 말린것, 삶은것', 6, 0,
         12.3, 3.0, 0.5, 119.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1201, '취나물, 참취, 삶아서 말린것', 6, 0,
         56.82, 26.85, 3.67, 123.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1202, '취나물, 참취, 삶아서 말린것, 데친것', 6, 0,
         8.22, 4.9, 0.97, 124.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1203, '치커리, 뿌리, 생것', 6, 0,
         17.51, 1.4, 0.2, 107.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1204, '치커리, 잎, 생것', 6, 0,
         2.95, 1.7, 0.21, 128.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1205, '치커리, 잎, 적색, 생것', 6, 0,
         5.0, 2.3, 0.2, 124.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1206, '치커리, 치콘, 생것', 6, 0,
         2.62, 1.19, 0.25, 124.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1207, '케일, 생것', 6, 0,
         4.61, 3.11, 0.24, 127.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1208, '케일, 꽃케일, 생것', 6, 0,
         6.5, 3.3, 0.2, 124.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1209, '케일, 로얄채, 생것', 6, 0,
         11.1, 2.7, 0.3, 118.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1210, '케일, 꽃케일, 적색, 생것', 6, 0,
         5.8, 3.1, 0.3, 123.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1211, '케일, 하우스, 생것', 6, 0,
         4.2, 2.0, 0.3, 125.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1212, '콜라비, 생것', 6, 0,
         5.16, 1.16, 0.05, 117.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1213, '콜라비, 데친것', 6, 0,
         5.2, 1.0, 0.0, 124.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1214, '콩나물, 생것', 6, 0,
         3.8, 4.64, 1.36, 127.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1215, '콩나물, 삶은것', 6, 0,
         2.55, 4.52, 1.51, 126.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1216, '콩나물, 말린것', 6, 0,
         32.5, 45.7, 10.8, 101.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1217, '콩나물, 가루', 6, 0,
         31.7, 45.4, 11.6, 100.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1218, '콩나물, 녹색, 생것', 6, 0,
         2.7, 4.2, 0.9, 132.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1219, '콩잎, 잎, 생것', 6, 0,
         21.0, 6.6, 0.3, 120.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1220, '토란대, 줄기, 생것', 6, 0,
         4.25, 0.28, 0.05, 116.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1221, '토란대, 줄기, 데친것', 6, 0,
         5.3, 0.4, 0.0, 114.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1222, '토란대, 줄기, 말린것', 6, 0,
         65.5, 7.4, 1.1, 115.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1223, '토란대, 줄기, 말린것, 데친것', 6, 0,
         4.9, 0.5, 0.1, 112.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1224, '토마토, 생것', 6, 0,
         4.26, 1.03, 0.18, 119.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1225, '토마토, 데친것', 6, 0,
         4.06, 0.7, 0.14, 119.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1226, '토마토, 대저, 생것', 6, 0,
         5.87, 0.76, 0.04, 116.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1227, '토마토, 대저, 데친것', 6, 0,
         6.5, 0.94, 0.06, 116.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1228, '토마토, 방울토마토, 생것', 6, 0,
         6.02, 1.0, 0.13, 117.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1229, '토마토, 유기재배, 생것', 6, 0,
         3.9, 0.9, 0.1, 118.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1230, '토마토, 흑토마토, 생것', 6, 0,
         5.22, 0.68, 0.04, 114.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1231, '토마토, 흑토마토, 데친것', 6, 0,
         4.78, 0.66, 0.03, 115.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1232, '토마토 음료', 6, 0,
         10.92, 0.4, 0.02, 110.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1233, '토마토, 통조림', 6, 0,
         4.4, 0.9, 0.2, 109.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1234, '토마토, 통조림, 페이스트', 6, 0,
         19.68, 4.22, 0.24, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1235, '토마토, 통조림, 퓨레', 6, 0,
         9.9, 1.9, 0.1, 109.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1236, '토스카노(잎브로콜리), 생것', 6, 0,
         6.7, 4.7, 0.6, 127.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1237, '파, 생것', 6, 0,
         6.7, 1.2, 0.2, 115.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1238, '파, 골파, 생것', 6, 0,
         6.5, 1.5, 0.2, 116.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1239, '파, 실파, 생것', 6, 0,
         3.2, 1.5, 0.1, 123.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1240, '파, 쪽파, 생것', 6, 0,
         4.24, 1.73, 0.14, 119.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1241, '파, 대파, 생것', 6, 0,
         4.8, 1.78, 0.15, 120.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1242, '파드득나물(삼엽채), 생것', 6, 0,
         5.5, 1.8, 0.1, 120.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1243, '파슬리, 생것', 6, 0,
         6.8, 3.2, 0.5, 123.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1244, '파프리카, 노란색, 생것', 6, 0,
         5.95, 0.77, 0.12, 116.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1245, '파프리카, 노란색, 데친것', 6, 0,
         6.21, 0.79, 0.13, 116.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1246, '파프리카, 빨간색, 생것', 6, 0,
         6.42, 0.91, 0.13, 117.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1247, '파프리카, 빨간색, 데친것', 6, 0,
         6.91, 0.92, 0.13, 116.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1248, '파프리카, 주황색, 생것', 6, 0,
         5.88, 1.02, 0.12, 119.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1249, '파프리카, 주황색, 데친것', 6, 0,
         6.45, 1.06, 0.12, 115.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1250, '미니파프리카, 노란색, 생것', 6, 0,
         8.32, 1.01, 1.09, 115.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1251, '미니파프리카, 빨간색, 생것', 6, 0,
         8.49, 1.07, 0.94, 113.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1252, '미니파프리카, 주황색, 생것', 6, 0,
         8.22, 0.97, 0.79, 115.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1253, '피망, 빨간색, 생것', 6, 0,
         6.94, 1.17, 0.09, 118.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1254, '피망, 빨간색, 데친것', 6, 0,
         8.18, 1.24, 0.11, 117.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1255, '피망, 초록색, 생것', 6, 0,
         5.36, 0.9, 0.04, 115.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1256, '피망, 초록색, 데친것', 6, 0,
         5.59, 0.92, 0.06, 115.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1257, '할라페뇨, 통조림', 6, 0,
         4.74, 0.92, 0.94, 115.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1258, '해바라기, 싹, 생것', 6, 0,
         0.9, 2.2, 0.1, 147.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1259, '호박, 싹, 생것', 6, 0,
         3.6, 4.5, 1.7, 125.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1260, '호박, 잎, 생것', 6, 0,
         8.43, 4.83, 0.38, 125.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1261, '호박, 잎, 데친것', 6, 0,
         6.14, 3.09, 0.34, 124.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1262, '호박, 잎, 찐것', 6, 0,
         9.19, 4.84, 0.49, 123.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1263, '호박, 국수호박, 생것', 6, 0,
         4.4, 0.6, 0.1, 116.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1264, '호박, 국수호박, 데친것', 6, 0,
         3.8, 0.5, 0.1, 113.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1265, '호박, 늙은호박, 생것', 6, 0,
         8.49, 0.88, 0.17, 102.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1266, '호박, 늙은호박, 데친것', 6, 0,
         6.9, 1.7, 0.1, 117.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1267, '호박, 늙은호박, 삶은것', 6, 0,
         5.23, 0.6, 0.13, 102.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1268, '호박, 늙은호박, 찐것', 6, 0,
         8.88, 1.09, 0.14, 102.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1269, '호박, 늙은호박, 말린것', 6, 0,
         72.33, 7.6, 2.42, 102.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1270, '호박, 단호박, 생것', 6, 0,
         13.63, 1.19, 0.65, 114.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1271, '호박, 단호박, 데친것', 6, 0,
         6.9, 1.7, 0.1, 117.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1272, '호박, 단호박, 찐것', 6, 0,
         15.45, 1.72, 0.84, 115.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1273, '호박, 애호박, 생것', 6, 0,
         5.14, 1.07, 0.09, 116.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1274, '호박, 애호박, 데친것', 6, 0,
         4.88, 1.05, 0.1, 117.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1275, '호박, 애호박, 말린것', 6, 0,
         67.64, 13.75, 1.11, 118.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1276, '호박, 애호박, 말린것, 데친것', 6, 0,
         6.54, 2.24, 0.26, 120.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1277, '호박, 쥬키니, 생것', 6, 0,
         5.54, 1.02, 0.1, 118.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1278, '호박, 쥬키니, 데친것', 6, 0,
         2.4, 0.9, 0.0, 120.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1279, '호박, 차요테, 초록색, 생것', 6, 0,
         4.37, 0.59, 0.46, 114.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1280, '호박, 차요테, 하얀색, 생것', 6, 0,
         4.27, 0.61, 0.33, 118.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1281, '호박즙', 6, 0,
         4.73, 0.64, 0.0, 102.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1282, '화살나무(홑잎), 순, 생것', 6, 0,
         21.59, 4.77, 0.84, 117.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1283, '화살나무(홑잎), 순, 데친것', 6, 0,
         17.03, 4.03, 0.94, 118.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1284, '검은비늘버섯, 생것', 6, 0,
         4.5, 1.8, 0.1, 200.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1285, '검은비늘버섯, 말린것', 6, 0,
         62.1, 20.1, 2.7, 199.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1286, '꽃송이버섯, 생것', 6, 0,
         7.35, 1.11, 0.39, 196.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1287, '꽃송이버섯, 데친것', 6, 0,
         8.99, 0.87, 0.49, 199.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1288, '꽃송이버섯, 말린것', 6, 0,
         66.49, 15.18, 4.14, 200.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1289, '나도팽나무버섯, 생것', 6, 0,
         5.7, 2.4, 0.0, 202.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1290, '나도팽나무버섯, 말린것', 6, 0,
         66.1, 23.6, 0.5, 199.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1291, '노루궁뎅이버섯, 생것', 6, 0,
         2.89, 2.57, 0.41, 196.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1292, '노루궁뎅이버섯, 데친것', 6, 0,
         4.68, 3.28, 0.4, 196.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1293, '노루궁뎅이버섯, 말린것', 6, 0,
         57.8, 24.5, 3.2, 200.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1294, '느타리버섯, 생것', 6, 0,
         4.7, 2.6, 0.14, 203.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1295, '느타리버섯, 데친것', 6, 0,
         6.51, 3.26, 0.23, 196.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1296, '느타리버섯, 말린것', 6, 0,
         60.72, 25.1, 3.9, 200.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1297, '느타리버섯, 말린것(자연건조)', 6, 0,
         58.92, 25.36, 2.98, 200.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1298, '느타리버섯, 노랑느타리버섯, 생것', 6, 0,
         5.3, 2.5, 0.1, 200.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1299, '느타리버섯, 분홍느타리버섯, 생것', 6, 0,
         8.1, 4.1, 0.0, 203.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1300, '느타리버섯, 여름느타리버섯, 생것', 6, 0,
         6.0, 4.4, 0.1, 202.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1301, '느타리버섯, 율무느타리버섯, 생것', 6, 0,
         6.4, 3.6, 0.3, 203.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1302, '느타리버섯, 참타리버섯, 생것', 6, 0,
         5.3, 2.6, 0.0, 197.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1303, '느타리버섯, 참타리버섯, 데친것', 6, 0,
         6.1, 3.9, 0.0, 200.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1304, '느타리버섯, 청느타리버섯, 생것', 6, 0,
         5.2, 3.9, 0.0, 202.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1305, '능이버섯(향버섯), 생것', 6, 0,
         5.9, 2.2, 0.1, 195.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1306, '동충하초, 누에동충하초, 생것', 6, 0,
         7.07, 5.56, 0.38, 199.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1307, '동충하초, 누에동충하초, 말린것', 6, 0,
         0.0, 60.9, 2.4, 199.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1308, '만가닥버섯, 생것', 6, 0,
         6.34, 2.5, 0.34, 202.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1309, '만가닥버섯, 데친것', 6, 0,
         6.07, 2.73, 0.35, 201.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1310, '목이버섯, 생것', 6, 0,
         5.22, 0.79, 0.19, 198.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1311, '목이버섯, 데친것', 6, 0,
         4.84, 1.15, 0.23, 200.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1312, '목이버섯, 말린것', 6, 0,
         69.66, 11.88, 1.26, 199.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1313, '목이버섯, 말린것(자연건조)', 6, 0,
         72.78, 14.1, 1.99, 199.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1314, '목이버섯, 흰백목이, 생것', 6, 0,
         11.58, 1.2, 0.55, 200.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1315, '목이버섯, 흰백목이, 데친것', 6, 0,
         7.01, 1.02, 0.43, 199.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1316, '밤버섯, 생것', 6, 0,
         3.5, 2.9, 0.9, 198.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1317, '버들송이버섯, 생것', 6, 0,
         5.5, 4.2, 0.1, 198.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1318, '버들송이버섯, 갓, 말린것', 6, 0,
         61.6, 23.3, 4.7, 199.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1319, '버들송이버섯, 줄기, 말린것', 6, 0,
         71.1, 14.3, 2.7, 199.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1320, '뽕나무버섯, 야생, 갓, 말린것', 6, 0,
         54.4, 27.7, 6.9, 200.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1321, '뽕나무버섯, 야생, 줄기, 말린것', 6, 0,
         72.2, 15.8, 0.9, 200.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1322, '뽕나무버섯, 재배, 갓, 말린것', 6, 0,
         58.6, 24.4, 5.7, 199.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1323, '뽕나무버섯, 재배, 줄기, 말린것', 6, 0,
         76.6, 12.8, 0.6, 199.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1324, '상황버섯, 말린것', 6, 0,
         84.58, 4.4, 0.27, 200.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1325, '상황버섯, 추출', 6, 0,
         0.56, 0.07, 0.01, 87.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1326, '석이버섯, 말린것', 6, 0,
         68.47, 11.75, 0.96, 199.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1327, '송이버섯, 생것', 6, 0,
         8.12, 2.05, 0.15, 200.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1328, '송이버섯, 데친것', 6, 0,
         8.51, 2.15, 0.24, 203.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1329, '싸리버섯, 생것', 6, 0,
         5.7, 2.8, 0.6, 197.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1330, '싸리버섯, 말린것', 6, 0,
         58.9, 19.9, 4.8, 200.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1331, '아위버섯, 생것', 6, 0,
         8.56, 3.53, 0.4, 199.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1332, '아위버섯, 데친것', 6, 0,
         8.69, 3.62, 0.43, 196.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1333, '애느타리버섯, 생것', 6, 0,
         3.5, 4.2, 0.1, 198.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1334, '양송이버섯, 생것', 6, 0,
         3.89, 3.12, 0.23, 200.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1335, '양송이버섯, 데친것', 6, 0,
         3.63, 3.15, 0.26, 196.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1336, '양송이버섯, 말린것(자연건조)', 6, 0,
         40.29, 34.62, 3.52, 199.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1337, '양송이버섯, 가루', 6, 0,
         46.45, 33.39, 3.57, 199.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1338, '양송이버섯, 통조림', 6, 0,
         3.87, 3.75, 0.41, 201.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1339, '양송이버섯, 갈색양송이, 생것', 6, 0,
         3.24, 3.73, 0.2, 197.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1340, '양송이버섯, 갈색양송이, 데친것', 6, 0,
         3.5, 2.94, 0.31, 203.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1341, '영지버섯, 말린것', 6, 0,
         81.03, 9.41, 1.4, 200.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1342, '영지버섯, 추출', 6, 0,
         0.03, 0.07, 0.01, 0.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1343, '잎새버섯, 생것', 6, 0,
         3.29, 2.2, 0.5, 203.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1344, '잎새버섯, 데친것', 6, 0,
         4.46, 2.26, 0.57, 200.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1345, '큰느타리버섯(새송이버섯), 생것', 6, 0,
         6.54, 2.92, 0.23, 199.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1346, '큰느타리버섯(새송이버섯), 데친것', 6, 0,
         6.48, 3.14, 0.33, 197.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1347, '큰느타리버섯(새송이버섯), 말린것', 6, 0,
         59.81, 25.05, 2.07, 200.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1348, '큰느타리버섯(새송이버섯), 말린것(자연건조)', 6, 0,
         54.68, 26.23, 2.09, 200.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1349, '큰느타리버섯(새송이버섯), 가루', 6, 0,
         61.4, 25.09, 2.51, 200.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1350, '팽이버섯, 생것', 6, 0,
         7.0, 2.41, 0.51, 201.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1351, '팽이버섯, 데친것', 6, 0,
         6.43, 2.6, 0.39, 198.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1352, '팽이버섯, 갈뫼, 생것', 6, 0,
         6.9, 2.0, 0.0, 197.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1353, '팽이버섯, 백로, 생것', 6, 0,
         8.4, 2.6, 0.1, 204.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1354, '팽이버섯, 야생, 생것', 6, 0,
         6.1, 1.4, 0.7, 201.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1355, '팽이버섯, 갈색팽이, 생것', 6, 0,
         6.13, 3.06, 0.6, 200.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1356, '팽이버섯, 갈색팽이, 데친것', 6, 0,
         6.59, 3.01, 0.37, 198.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1357, '포타벨라, 생것', 6, 0,
         4.6, 3.3, 0.1, 203.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1358, '표고버섯, 배지재배, 생것', 6, 0,
         10.84, 3.9, 0.38, 201.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1359, '표고버섯, 배지재배, 데친것', 6, 0,
         8.63, 3.0, 0.34, 198.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1360, '표고버섯, 배지재배, 말린것', 6, 0,
         61.81, 22.42, 2.14, 200.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1361, '표고버섯, 배지재배, 말린것(자연건조)', 6, 0,
         58.78, 23.56, 1.99, 199.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1362, '표고버섯, 배지재배, 말린것, 삶은것', 6, 0,
         10.55, 3.2, 0.36, 200.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1363, '표고버섯, 배지재배, 갓, 생것', 6, 0,
         8.03, 4.44, 0.32, 202.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1364, '표고버섯, 배지재배, 갓, 데친것', 6, 0,
         4.98, 4.71, 0.3, 197.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1365, '표고버섯, 배지재배, 갓, 말린것', 6, 0,
         53.29, 31.84, 2.93, 200.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1366, '표고버섯, 배지재배, 갓, 말린것, 삶은것', 6, 0,
         6.8, 4.06, 0.43, 197.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1367, '표고버섯, 배지재배, 대, 생것', 6, 0,
         14.02, 4.59, 0.33, 198.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1368, '표고버섯, 배지재배, 대, 데친것', 6, 0,
         12.36, 3.25, 0.24, 201.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1369, '표고버섯, 배지재배, 대, 말린것', 6, 0,
         65.35, 21.14, 1.61, 200.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1370, '표고버섯, 배지재배, 대, 말린것, 삶은것', 6, 0,
         11.8, 2.91, 0.34, 199.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1371, '표고버섯, 참나무재배, 생것', 6, 0,
         6.1, 2.0, 0.3, 195.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1372, '표고버섯, 참나무재배, 데친것', 6, 0,
         6.3, 2.4, 0.2, 203.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1373, '표고버섯, 참나무재배, 말린것', 6, 0,
         63.7, 18.1, 3.1, 199.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1374, '표고버섯, 참나무재배, 말린것, 삶은것', 6, 0,
         13.0, 3.0, 0.7, 200.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1375, '표고버섯, 가루', 6, 0,
         68.25, 18.84, 2.54, 199.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         1376, '풀버섯, 생것', 6, 0,
         4.6, 2.7, 0.1, 200.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2764, '갈래곰보, 생것', 6, 0,
         4.6, 0.9, 0.2, 198.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2765, '곰피, 말린것', 6, 0,
         54.7, 12.9, 1.3, 200.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2766, '곰피, 가루', 6, 0,
         51.4, 10.0, 1.4, 200.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2767, '김, 김밥용김, 말린것', 6, 0,
         46.19, 38.46, 2.82, 200.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2768, '김, 둥근돌김, 말린것', 6, 0,
         43.3, 35.5, 1.7, 200.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2769, '김, 조미김, 구운것', 6, 0,
         4.82, 37.69, 49.23, 199.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2770, '김, 참김, 생것', 6, 0,
         2.0, 3.3, 0.4, 206.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2771, '김, 참김, 구운것', 6, 0,
         41.7, 43.3, 0.9, 200.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2772, '김, 참김, 말린것', 6, 0,
         40.3, 38.6, 1.7, 200.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2773, '김, 초밥김, 말린것', 6, 0,
         40.9, 32.7, 0.8, 199.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2774, '꼬시래기, 생것', 6, 0,
         6.2, 1.8, 0.2, 198.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2775, '다시마, 생것', 6, 0,
         4.2, 1.1, 0.2, 191.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2776, '다시마, 말린것', 6, 0,
         45.2, 7.4, 1.1, 200.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2777, '다시마, 염장', 6, 0,
         6.0, 1.2, 0.3, 196.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2778, '다시마 육수', 6, 0,
         0.3, 0.1, 0.0, 160.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2779, '다시마 튀각', 6, 0,
         58.8, 3.6, 23.0, 200.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2780, '대황, 말린것', 6, 0,
         64.5, 7.3, 0.2, 199.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2781, '뜸부기, 말린것', 6, 0,
         52.1, 6.1, 2.5, 199.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2782, '매생이, 생것', 6, 0,
         8.19, 3.88, 3.29, 199.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2783, '매생이, 말린것', 6, 0,
         40.6, 20.6, 0.5, 199.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2784, '모자반, 생것', 6, 0,
         6.7, 1.8, 0.2, 198.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2785, '모자반, 말린것', 6, 0,
         45.7, 15.2, 1.7, 200.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2786, '모자반, 가루', 6, 0,
         40.8, 14.0, 3.9, 200.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2787, '모자반, 염장', 6, 0,
         5.4, 3.1, 0.2, 198.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2788, '미역, 생것', 6, 0,
         3.7, 1.68, 0.29, 201.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2789, '미역, 양식, 생것', 6, 0,
         5.0, 2.1, 0.2, 201.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2790, '미역, 말린것', 6, 0,
         43.65, 20.31, 4.83, 199.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2791, '미역, 가루', 6, 0,
         52.4, 10.7, 1.8, 200.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2792, '미역, 염장', 6, 0,
         8.8, 6.0, 0.9, 197.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2793, '미역, 염장, 데친것', 6, 0,
         9.3, 6.0, 0.9, 198.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2794, '미역, 줄기, 생것', 6, 0,
         4.6, 1.8, 0.2, 195.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2795, '미역, 줄기, 염장 후 탈염, 삶은것', 6, 0,
         5.5, 1.1, 0.3, 161.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2796, '미역 튀각', 6, 0,
         46.21, 9.75, 38.02, 200.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2797, '불등풀가사리, 말린것', 6, 0,
         55.7, 16.5, 0.6, 200.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2798, '석묵, 말린것', 6, 0,
         9.1, 9.6, 0.2, 201.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2799, '순채, 생것', 6, 0,
         7.1, 2.5, 0.7, 203.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2800, '우뭇가사리, 생것', 6, 0,
         18.5, 4.2, 0.2, 201.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2801, '우뭇가사리묵(우무)', 6, 0,
         0.8, 0.1, 0.0, 180.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2802, '한천', 6, 0,
         74.6, 2.3, 0.1, 200.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2803, '진두발, 말린것', 6, 0,
         53.5, 2.5, 1.5, 199.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2804, '청각, 생것', 6, 0,
         1.6, 1.4, 0.4, 195.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2805, '청각, 말린것', 6, 0,
         52.8, 13.8, 0.8, 199.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2806, '클로렐라, 말린것', 6, 0,
         25.7, 45.3, 7.2, 200.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2807, '톳, 생것', 6, 0,
         5.0, 1.9, 0.4, 195.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2808, '톳, 말린것', 6, 0,
         32.0, 6.6, 0.8, 199.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2809, '톳, 삶아서 말린것', 6, 0,
         59.7, 6.2, 0.8, 200.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2810, '파래, 생것', 6, 0,
         2.95, 2.18, 0.15, 198.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2811, '파래, 말린것', 6, 0,
         41.7, 22.1, 0.6, 129.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2812, '파래, 가시파래, 말린것', 6, 0,
         46.5, 20.0, 0.7, 200.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2813, '파래, 갈파래, 말린것', 6, 0,
         40.1, 23.1, 0.5, 199.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2814, '파래, 납작파래, 생것', 6, 0,
         3.5, 3.3, 0.7, 197.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2815, '파래, 창자파래, 말린것', 6, 0,
         45.8, 23.6, 0.8, 200.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2816, '파래, 홑파래, 말린것', 6, 0,
         53.2, 17.2, 1.1, 199.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2904, '계피차, 가루', 6, 0,
         89.0, 0.0, 1.4, 103.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2908, '녹차, 가루', 6, 0,
         66.91, 22.37, 2.47, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2916, '대추차', 6, 0,
         17.75, 0.12, 0.44, 100.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2925, '생강차, 가루', 6, 0,
         90.7, 0.1, 0.2, 103.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2927, '쌍화차, 가루', 6, 0,
         92.61, 1.64, 3.81, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2936, '인삼차, 과립차, 가루', 6, 0,
         96.52, 0.89, 0.78, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2951, '코코아, 밀크코코아, 가루', 6, 0,
         74.63, 9.84, 9.45, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2953, '홍삼차, 가루', 6, 0,
         95.8, 1.3, 0.7, 103.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2955, '홍차', 6, 0,
         0.26, 0.23, 0.04, 116.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2956, '홍차, 레몬', 6, 0,
         8.3, 0.0, 0.0, 100.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2957, '홍차, 복숭아, 가루', 6, 0,
         98.46, 0.32, 0.05, 99.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         2958, '홍차, 복숭아, 캔', 6, 0,
         7.59, 0.0, 0.0, 101.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3014, '겨자 페이스트', 6, 0,
         37.36, 8.01, 12.7, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3015, '겨자, 가루', 6, 0,
         49.97, 18.35, 22.68, 115.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3016, '계피, 가루', 6, 0,
         81.07, 3.55, 0.51, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3018, '고추냉이, 가루', 6, 0,
         55.1, 29.94, 3.45, 124.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3019, '고추냉이, 페이스트', 6, 0,
         35.81, 3.03, 1.58, 114.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3020, '고추장, 개량', 6, 0,
         51.76, 3.66, 1.38, 114.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3021, '고추장, 재래', 6, 0,
         35.24, 6.06, 2.68, 116.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3037, '마늘, 가루', 6, 0,
         66.44, 18.62, 0.98, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3044, '뽕잎, 가루', 6, 0,
         54.2, 24.2, 2.7, 122.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3046, '산초, 가루', 6, 0,
         68.57, 9.66, 4.01, 115.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3076, '양파, 가루', 6, 0,
         79.8, 8.8, 1.1, 100.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3077, '오레가노, 말린것', 6, 0,
         68.92, 9.0, 4.28, 132.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3079, '우스터 소스', 6, 0,
         14.91, 0.47, 0.06, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3082, '정향, 가루', 6, 0,
         66.4, 7.2, 13.6, 104.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3093, '칠리 소스', 6, 0,
         26.3, 1.8, 0.1, 101.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3094, '칠리, 가루', 6, 0,
         60.1, 15.0, 8.2, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3101, '토마토 소스', 6, 0,
         8.5, 2.0, 0.2, 106.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3102, '토마토 케첩', 6, 0,
         29.2, 1.8, 0.12, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3103, '파슬리, 말린것', 6, 0,
         50.64, 26.63, 5.48, 122.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3104, '파프리카, 가루', 6, 0,
         55.6, 15.5, 11.6, 101.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3105, '페퍼민트, 생것', 6, 0,
         14.89, 3.75, 0.94, 118.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3106, '포크커틀릿 소스', 6, 0,
         32.54, 0.6, 0.02, 99.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3107, '핫 소스', 6, 0,
         8.8, 1.44, 0.63, 99.2
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3108, '후추, 검은색, 가루', 6, 0,
         66.33, 12.87, 5.0, 99.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3109, '후추, 흰색, 가루', 6, 0,
         70.1, 10.1, 6.4, 100.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3295, '고려엉겅퀴(곤드레), 말린것, 삶은것', 6, 0,
         6.32, 3.8, 0.92, 121.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3296, '고추냉이, 잎줄기, 생것', 6, 0,
         5.35, 1.93, 0.41, 121.5
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3297, '더덕, 뿌리, 구운것(팬)', 6, 0,
         18.17, 3.45, 0.74, 108.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3298, '마늘, 다진것', 6, 0,
         20.55, 5.0, 0.27, 105.7
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3299, '부추, 솔부추, 생것', 6, 0,
         4.32, 1.58, 0.25, 123.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3300, '부추, 솔부추, 데친것', 6, 0,
         4.81, 1.53, 0.35, 118.8
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3301, '상추, 반결구, 로메인, 모스트청쌈, 녹색, 생것', 6, 0,
         2.36, 1.6, 0.3, 123.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3302, '상추, 반결구, 버터헤드, 녹색, 생것', 6, 0,
         2.09, 1.05, 0.18, 128.9
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3303, '호박, 쥬키니, 삶은것', 6, 0,
         2.52, 0.82, 0.07, 116.6
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3304, '꽃송이버섯, 말린것(자연건조)', 6, 0,
         61.65, 19.59, 2.34, 200.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3305, '양송이버섯, 말린것', 6, 0,
         53.02, 31.34, 2.59, 200.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3337, '감잎차', 6, 0,
         0.0, 0.02, 0.03, 0.3
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3340, '국화차', 6, 0,
         0.03, 0.0, 0.0, 0.4
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3345, '홍차, 레몬, 가루', 6, 0,
         99.19, 0.18, 0.05, 100.0
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3369, '칠리 소스, 단맛', 6, 0,
         44.61, 0.44, 0.1, 100.1
     );
-INSERT INTO INGREDIENTS (
+INSERT INTO Ingredients (
         ingredient_id, name, exchange_group, exchange_amount, carbohydrates, proteins, fats, calorie
     ) VALUES (
         3370, '허니머스타드 소스', 6, 0,
