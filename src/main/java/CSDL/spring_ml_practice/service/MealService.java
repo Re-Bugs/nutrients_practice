@@ -142,6 +142,7 @@ public class MealService {
         }
     }
 
+
     public Map<String, Object> getTodayNutrientAnalysis(String memberEmail) {
         LocalDate today = LocalDate.now();
         LocalDateTime startOfDay = today.atStartOfDay();

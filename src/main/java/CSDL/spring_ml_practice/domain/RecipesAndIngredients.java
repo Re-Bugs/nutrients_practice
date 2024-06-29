@@ -1,10 +1,6 @@
 package CSDL.spring_ml_practice.domain;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Id;
-import jakarta.persistence.Table;
+import jakarta.persistence.*;
 import lombok.Data;
 
 @Entity
@@ -14,6 +10,10 @@ public class RecipesAndIngredients {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
-    private int recipesId;
-    private int ingredientsId;
+
+    @Column(name = "recipe_id")
+    private int recipeId;
+
+    @Column(name = "ingredient_id")
+    private int ingredientId;
 }

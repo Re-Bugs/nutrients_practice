@@ -2,9 +2,6 @@ package CSDL.spring_ml_practice.api;
 
 import CSDL.spring_ml_practice.domain.Ingredient;
 import CSDL.spring_ml_practice.domain.Recipe;
-import CSDL.spring_ml_practice.repository.IngredientRepository;
-import CSDL.spring_ml_practice.repository.MealLogRepository;
-import CSDL.spring_ml_practice.repository.MealLogsAndIngredientsRepository;
 import CSDL.spring_ml_practice.service.IngredientService;
 import CSDL.spring_ml_practice.service.MealService;
 import CSDL.spring_ml_practice.service.RecipeService;

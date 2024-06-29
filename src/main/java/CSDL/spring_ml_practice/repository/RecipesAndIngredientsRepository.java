@@ -9,6 +9,6 @@ import java.util.List;
 
 @Repository
 public interface RecipesAndIngredientsRepository extends JpaRepository<RecipesAndIngredients, Integer> {
-    @Query("SELECT ri.ingredientsId FROM RecipesAndIngredients ri WHERE ri.recipesId = :recipeId")
+    @Query("SELECT ri.ingredientId FROM RecipesAndIngredients ri WHERE ri.recipeId = :recipeId")
     List<Integer> findIngredientsByRecipeId(int recipeId);
 }
