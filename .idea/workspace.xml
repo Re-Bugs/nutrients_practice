@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed8d5588-8f6e-413b-ab42-897491a8edac" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/api/APIMealController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/api/APIMealController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/domain/RecipesAndIngredients.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/domain/RecipesAndIngredients.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/repository/IngredientRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/repository/IngredientRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/repository/RecipesAndIngredientsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/repository/RecipesAndIngredientsRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/service/IngredientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/service/IngredientService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/service/MealService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/service/MealService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/repository/MemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CSDL/spring_ml_practice/repository/MemberRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -114,7 +108,7 @@
       <workItem from="1719529136881" duration="1128000" />
       <workItem from="1719530273303" duration="8978000" />
       <workItem from="1719661831354" duration="19501000" />
-      <workItem from="1719682884521" duration="3020000" />
+      <workItem from="1719682884521" duration="4973000" />
     </task>
     <servers />
   </component>
