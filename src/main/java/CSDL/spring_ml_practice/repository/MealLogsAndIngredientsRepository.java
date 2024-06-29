@@ -13,4 +13,7 @@ public interface MealLogsAndIngredientsRepository extends JpaRepository<MealLogs
 
     @Query("SELECT COUNT(mli) > 0 FROM MealLogsAndIngredients mli WHERE mli.mealLogId = :mealLogId AND mli.ingredientId = :ingredientId")
     boolean existsByMealLogIdAndIngredientId(int mealLogId, int ingredientId);
+
+    @Query("SELECT mli.ingredientId FROM MealLogsAndIngredients mli WHERE mli.mealLogId = :mealLogId")
+    List<Integer> findIngredientIdsByMealLogId(int mealLogId);
 }

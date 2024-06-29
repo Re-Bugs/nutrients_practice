@@ -49,21 +49,21 @@ CREATE TABLE Recipes (
 
 -- Recipes_And_Ingredients 테이블 생성
 CREATE TABLE Recipes_And_Ingredients (
+    id INT PRIMARY KEY AUTO_INCREMENT,
     recipes_id INT NOT NULL,
     ingredients_id INT NOT NULL,
-    PRIMARY KEY (recipes_id, ingredients_id),
     FOREIGN KEY (recipes_id) REFERENCES Recipes(recipe_id),
     FOREIGN KEY (ingredients_id) REFERENCES Ingredients(ingredient_id)
 );
 
--- Meal_logs_And_Ingredients 테이블 생성
 CREATE TABLE Meal_logs_And_Ingredients (
+    id INT PRIMARY KEY AUTO_INCREMENT,
     meal_log_id INT NOT NULL,
     ingredient_id INT NOT NULL,
-    PRIMARY KEY (meal_log_id, ingredient_id),
     FOREIGN KEY (meal_log_id) REFERENCES Meal_logs(meal_log_id),
     FOREIGN KEY (ingredient_id) REFERENCES Ingredients(ingredient_id)
 );
+
 
 -- Reviews 테이블 생성
 CREATE TABLE Reviews (

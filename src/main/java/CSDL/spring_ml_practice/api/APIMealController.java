@@ -2,6 +2,9 @@ package CSDL.spring_ml_practice.api;
 
 import CSDL.spring_ml_practice.domain.Ingredient;
 import CSDL.spring_ml_practice.domain.Recipe;
+import CSDL.spring_ml_practice.repository.IngredientRepository;
+import CSDL.spring_ml_practice.repository.MealLogRepository;
+import CSDL.spring_ml_practice.repository.MealLogsAndIngredientsRepository;
 import CSDL.spring_ml_practice.service.IngredientService;
 import CSDL.spring_ml_practice.service.MealService;
 import CSDL.spring_ml_practice.service.RecipeService;
@@ -25,15 +28,11 @@ public class APIMealController {
     private final RecipeService recipeService;
     private final IngredientService ingredientService;
 
+
     @GetMapping("/calories/today")
     public ResponseEntity<Map<String, String>> getTodayCalories(HttpSession session) {
         String memberEmail = (String) session.getAttribute("memberEmail");
         Map<String, String> response = new HashMap<>();
-
-        if (memberEmail == null) {
-            response.put("message", "로그인이 필요합니다.");
-            return ResponseEntity.status(401).body(response);
-        }
 
         Map<Integer, Integer> caloriesByMeal = mealService.getCaloriesByMealType(memberEmail);
         int totalCalories = mealService.getTotalCalories(memberEmail);
@@ -91,5 +90,16 @@ public class APIMealController {
         mealService.addMixedMealLog(memberEmail, mealType, recipeIds, ingredientIds);
         response.put("message", "식사 기록이 저장되었습니다.");
         return ResponseEntity.status(HttpStatus.CREATED).body(response);
+    }
+
+    @GetMapping("/nutrition/today")
+    public ResponseEntity<Map<String, Object>> getTodayNutrientAnalysis(HttpSession session) {
+        String memberEmail = (String) session.getAttribute("memberEmail");
+        if (memberEmail == null) {
+            return ResponseEntity.status(401).body(Map.of("message", "로그인이 필요합니다."));
+        }
+
+        Map<String, Object> analysis = mealService.getTodayNutrientAnalysis(memberEmail);
+        return ResponseEntity.ok(analysis);
     }
 }

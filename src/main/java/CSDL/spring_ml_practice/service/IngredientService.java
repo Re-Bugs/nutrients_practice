@@ -15,4 +15,8 @@ public class IngredientService {
     public List<Ingredient> searchIngredients(String query) {
         return ingredientRepository.findByNameContaining(query);
     }
+
+    public List<Ingredient> findAll() {
+        return ingredientRepository.findAll();
+    }
 }
